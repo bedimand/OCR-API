@@ -46,13 +46,7 @@ A resposta é `text/plain`, cada linha contendo coordenadas normalizadas e a raz
 
 ## Idioma do OCR
 
-Por padrão a API inicializa o PaddleOCR com suporte ao idioma inglês ("en"). Defina a variável de ambiente `OCR_LANG` antes de iniciar o servidor para usar outro idioma suportado, como português ("pt").
-
-PowerShell:
-```powershell
-$env:OCR_LANG = 'pt'
-uv run uvicorn app.main:app --reload
-```
+Por padrão a API inicializa o PaddleOCR com suporte ao idioma inglês ("en").
 
 Bash:
 ```bash
