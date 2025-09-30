@@ -119,4 +119,4 @@ Os arquivos exportados seguem o padrão `nomeoriginal_engine.txt` no diretório 
 
 - **Validar latência e acurácia**: Definir se a latência (~10-20s por documento) e acurácia (~78% de similaridade) atendem aos requisitos do projeto em cenários reais.
 - **Otimizar performance**: Caso a latência não seja aceitável, revisar configurações (DPI/downscale), hardware e alternativas de OCR.
-- **Considerar LLMs especializados**: Para acelerar ainda mais mantendo qualidade, avaliar serviços com LLMs como [dots.ocr](https://dots.ocr) que podem oferecer melhor trade-off entre velocidade e precisão.
+- **Considerar LLMs especializados**: Para acelerar ainda mais mantendo qualidade, avaliar serviços com LLMs como [dots.ocr](https://github.com/rednote-hilab/dots.ocr) que podem oferecer melhor trade-off entre velocidade e precisão.
