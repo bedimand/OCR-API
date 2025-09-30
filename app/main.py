@@ -15,6 +15,7 @@ from engines.utils import load_pages
 
 OCR_DPI = 300
 OCR_MAX_PAGES = 30
+OCR_LANG = "en"
 
 _app_lock = Lock()
 _paddle_ocr: PaddleOCR | None = None
@@ -25,7 +26,7 @@ def get_paddle_engine() -> PaddleOCR:
     if _paddle_ocr is None:
         with _app_lock:
             if _paddle_ocr is None:
-                _paddle_ocr = PaddleOCR(use_textline_orientation=True, lang="en")
+                _paddle_ocr = PaddleOCR(use_textline_orientation=True, lang=OCR_LANG)
     return _paddle_ocr
 
 
@@ -77,3 +78,4 @@ async def upload(file: UploadFile = File(...)) -> PlainTextResponse:
         tmp_path.unlink(missing_ok=True)
 
     return PlainTextResponse("\n".join(lines))
+

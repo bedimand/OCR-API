@@ -1,10 +1,10 @@
 # API OCR
 
-API REST construída com FastAPI que recebe PDFs digitalizados (até 30 páginas), executa OCR local com PaddleOCR e devolve o texto extraído linha a linha no formato `[x:<valor>, y:<valor>, caps:<valor>] texto`.
+API REST construï¿½da com FastAPI que recebe PDFs digitalizados (atï¿½ 30 pï¿½ginas), executa OCR local com PaddleOCR e devolve o texto extraï¿½do linha a linha no formato `[x:<valor>, y:<valor>, caps:<valor>] texto`.
 
-## Requisitos e instalação
+## Requisitos e instalaï¿½ï¿½o
 
-1. Instale as dependências com [uv](https://docs.astral.sh/uv/):
+1. Instale as dependï¿½ncias com [uv](https://docs.astral.sh/uv/):
    ```bash
    uv sync
    ```
@@ -19,33 +19,47 @@ API REST construída com FastAPI que recebe PDFs digitalizados (até 30 páginas), 
 uv run uvicorn app.main:app --reload
 ```
 
-### Endpoint disponível
-- `POST /upload` – recebe o PDF no campo `file` do formulário `multipart/form-data`.
+### Endpoint disponï¿½vel
+- `POST /upload` ï¿½ recebe o PDF no campo `file` do formulï¿½rio `multipart/form-data`.
 
-Exemplo de requisição (PowerShell + `curl.exe`):
+Exemplo de requisiï¿½ï¿½o (PowerShell + `curl.exe`):
 ```powershell
 curl.exe -X POST http://127.0.0.1:8000/upload ^
-  -F "file=@sample-invoice.pdf;type=application/pdf"
+  -F "file=@sample.pdf;type=application/pdf"
 ```
 
-A resposta é `text/plain`, cada linha contendo coordenadas normalizadas e a razão de letras maiúsculas, por exemplo:
+A resposta ï¿½ `text/plain`, cada linha contendo coordenadas normalizadas e a razï¿½o de letras maiï¿½sculas, por exemplo:
 ```
 [x:0.12, y:0.08, caps:0.86] NOME DO CLIENTE: JOAO DA SILVA
 ```
 
-> **Observação:** PaddleOCR roda no CPU por padrão e pode levar ~10–20 s por documento. Para reduzir a latência, considere diminuir o DPI, aplicar downscale ou usar builds com GPU.
+> **Observaï¿½ï¿½o:** PaddleOCR roda no CPU por padrï¿½o e pode levar ~10ï¿½20 s por documento. Para reduzir a latï¿½ncia, considere diminuir o DPI, aplicar downscale ou usar builds com GPU.
 
+## Idioma do OCR
+
+Por padrao a API inicializa o PaddleOCR com suporte ao idioma ingles ("en"). Defina a variavel de ambiente `OCR_LANG` antes de iniciar o servidor para usar outro idioma suportado, como portugues ("pt").
+
+PowerShell:
+```powershell
+$env:OCR_LANG = 'pt'
+uv run uvicorn app.main:app --reload
+```
+
+Bash:
+```bash
+OCR_LANG=pt uv run uvicorn app.main:app --reload
+```
 ## Benchmarks
 
 Disponibilizamos dois scripts:
-- `scripts/benchmark_ocr.py` – avalia o conjunto `dataset-high-quality/`.
-- `scripts/benchmark_funsd.py` – avalia o conjunto `dataset-funsd/`.
+- `scripts/benchmark_ocr.py` ï¿½ avalia o conjunto `dataset-high-quality/`.
+- `scripts/benchmark_funsd.py` ï¿½ avalia o conjunto `dataset-funsd/`.
 
 Ambos aceitam:
 - `--engines` (`paddle`, `tesseract`, `easyocr`).
-- `--downscale` para redimensionar páginas antes do OCR.
-- `--export-results` para salvar as saídas em `results/<engine>/<arquivo>_<engine>.txt`.
-- Geração automática de gráficos (`matplotlib`) salvos em `assets/`.
+- `--downscale` para redimensionar pï¿½ginas antes do OCR.
+- `--export-results` para salvar as saï¿½das em `results/<engine>/<arquivo>_<engine>.txt`.
+- Geraï¿½ï¿½o automï¿½tica de grï¿½ficos (`matplotlib`) salvos em `assets/`.
 
 Exemplo (FUNSD):
 ```bash
@@ -57,18 +71,20 @@ uv run python scripts/benchmark_funsd.py \
 
 ## Resultados recentes (FUNSD)
 
-Gráficos: `assets/benchmark_funsd_testing_time.png`, `assets/benchmark_funsd_testing_token.png`, `assets/benchmark_funsd_testing_char.png`.
+Grï¿½ficos: `assets/benchmark_funsd_testing_time.png`, `assets/benchmark_funsd_testing_token.png`, `assets/benchmark_funsd_testing_char.png`.
 
-| Engine     | Tempo médio (s) | Similaridade (token) | Similaridade (caracteres) |
+| Engine     | Tempo mï¿½dio (s) | Similaridade (token) | Similaridade (caracteres) |
 |------------|-----------------|-----------------------|----------------------------|
 | **Paddle** | 11,59           | **0,771**             | **0,783**                  |
 | Tesseract  | 0,53            | 0,410                 | 0,413                      |
 | EasyOCR    | 11,98           | 0,379                 | 0,362                      |
 
-**Insights**
-- *Precisão*: PaddleOCR gera transcrições mais fiéis, mantendo média de ~0,78 nos caracteres.
-- *Velocidade*: Tesseract é muito rápido (~0,5 s/doc) porém com perda acentuada de acurácia.
-- *EasyOCR*: fica no meio-termo, com tempo próximo ao Paddle, mas menos preciso.
-- *Trade-off*: utilize PaddleOCR quando qualidade é prioridade; Tesseract serve para extrações rápidas de baixa exigência.
+**Legenda das mï¿½tricas**\n- *Token*: comparaï¿½ï¿½o feita apï¿½s normalizar o texto (minï¿½sculas e remoï¿½ï¿½o de pontuaï¿½ï¿½o), preservando os espaï¿½os para avaliar a sequï¿½ncia de palavras.\n- *Caractere*: comparaï¿½ï¿½o apï¿½s manter apenas caracteres alfanumï¿½ricos; mede quï¿½o semelhantes sï¿½o as cadeias em nï¿½vel de letra/dï¿½gito.\n- *Similaridade*: valor entre 0 e 1 (quanto mais prï¿½ximo de 1, mais idï¿½ntico ao ground truth).\n\n**Insights**
+- *Precisï¿½o*: PaddleOCR gera transcriï¿½ï¿½es mais fiï¿½is, mantendo mï¿½dia de ~0,78 nos caracteres.
+- *Velocidade*: Tesseract ï¿½ muito rï¿½pido (~0,5 s/doc) porï¿½m com perda acentuada de acurï¿½cia.
+- *EasyOCR*: fica no meio-termo, com tempo prï¿½ximo ao Paddle, mas menos preciso.
+- *Trade-off*: utilize PaddleOCR quando qualidade ï¿½ prioridade; Tesseract serve para extraï¿½ï¿½es rï¿½pidas de baixa exigï¿½ncia.
 
-Os arquivos exportados seguem o padrão `nomeoriginal_engine.txt` no diretório `results/`, facilitando auditorias e comparações.
+Os arquivos exportados seguem o padrï¿½o `nomeoriginal_engine.txt` no diretï¿½rio `results/`, facilitando auditorias e comparaï¿½ï¿½es.
+
+
