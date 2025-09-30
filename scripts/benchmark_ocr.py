@@ -265,7 +265,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--root",
         type=Path,
-        default=Path("data"),
+        default=Path("dataset-high-quality"),
         help="Dataset root directory to scan for CSVs and images",
     )
     parser.add_argument(

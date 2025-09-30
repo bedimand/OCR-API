@@ -57,7 +57,7 @@ def aggregate_entries(
     entries: Iterable[Dict[str, float]],
     width: int,
     height: int,
-    vertical_factor: float = 0.6,
+    vertical_factor: float = 0.4,
     vertical_bias: float = 3.0,
 ) -> List[str]:
     materialized = [entry for entry in entries if entry.get("text")]

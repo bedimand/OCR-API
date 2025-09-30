@@ -29,6 +29,3 @@ ocr_output.txt
 *.tmp
 *.temp
 ~$*
-
-data/
-funsd/

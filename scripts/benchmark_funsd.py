@@ -278,7 +278,7 @@ def summarize(engine: str, results: Sequence[SampleResult]) -> None:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Benchmark OCR engines on the FUNSD dataset")
-    parser.add_argument("--root", type=Path, default=Path("funsd"), help="FUNSD root directory")
+    parser.add_argument("--root", type=Path, default=Path("dataset-funsd"), help="FUNSD root directory")
     parser.add_argument("--split", choices=["training", "testing"], default="testing", help="Dataset split to benchmark")
     parser.add_argument("--limit", type=int, default=1, help="Limit number of documents (0 means all)")
     parser.add_argument("--downscale", type=float, default=1.0, help="Uniform scaling factor applied before OCR (<=1 to downscale)")
