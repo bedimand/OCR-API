@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# Uvicorn/Pydantic cache
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyProject build artifacts
+*.egg-info/
+/dist/
+/build/
+
+# OCR outputs
+ocr_output.txt
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+data/
+funsd/

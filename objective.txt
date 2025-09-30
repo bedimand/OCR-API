@@ -1,0 +1,36 @@
+API OCR com FastAPI
+Contexto
+Você deve implementar uma API REST com FastAPI para processamento de documentos. A API
+deve receber uploads PDF com imagens, realizar OCR para extrair texto e retornar em JSON. Valor
+acordado: R$ 400,00. Prazo e especificações de infraestrutura a serem definidos.
+O objetivo é criar um serviço local, de baixo custo de processamento e sem dependência de serviços
+externos pagos.
+Objetivo
+Criar uma API que:
+● Receba um arquivo enviado pelo usuário (upload).
+● Arquivos aceitos:
+○ PDFs escaneados (com até 30 páginas);
+● Realize OCR localmente.
+● Retorne texto extraído linha por linha no formato abaixo:
+[x:<valor>, y:<valor>, caps:<valor>] <texto_da_linha>
+Shell
+Especificação Técnica
+Input
+● Método HTTP: POST
+● Endpoint: /upload
+● Body: multipart/form-data com o arquivo no campo file.
+Output
+● 200 OK
+● Content-Type: text/plain
+● Corpo da resposta: cada linha extraída do documento, na ordem de leitura (de cima para
+baixo, esquerda para direita), precedida das informações:
+○ x: posição normalizada (0 a 1) no eixo X do início da linha.
+○ y: posição normalizada (0 a 1) no eixo Y do início da linha.
+○ caps: proporção de letras maiúsculas da linha (letras_maiusculas / total_letras).
+Exemplo de linha no retorno (dados não reais):
+[x:0.12, y:0.08, caps:0.86] NOME DO CLIENTE: JOÃO da SILVA
+[x:0.12, y:0.09, caps:0.0] CPF: 400.220.123-78
+Entrega
+● Código fonte completo em repositório (GitHub/GitLab).
+● Instruções para instalação e execução no README.
+● Exemplos de requisição e resposta no README.

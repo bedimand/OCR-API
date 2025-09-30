@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ocr-api"
+version = "0.1.0"
+description = "Utilities and API components for local PDF OCR processing"
+requires-python = ">=3.9"
+authors = [
+    { name = "Bernardo" }
+]
+dependencies = [
+    "fastapi>=0.110",
+    "uvicorn[standard]>=0.29",
+    "paddleocr>=2.7",
+    "paddlepaddle>=2.6",
+    "pdf2image>=1.17",
+    "pillow>=10.0",
+    "numpy>=1.26",
+    "python-multipart>=0.0.9",
+    "pytesseract>=0.3.10",
+    "easyocr>=1.7",
+    "pymupdf>=1.24"
+]
+
+[project.scripts]
+pdf-ocr-paddle = "engines.paddle:main"
+pdf-ocr-tesseract = "engines.tesseract:main"
+pdf-ocr-easyocr = "engines.easyocr:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["scripts*", "engines*"]
+exclude = ["data*"]
