@@ -1,0 +1,14 @@
+[x:0.07, y:0.07, caps:1.00] 08/22/97 15 , 35 121245554900 ROFER STARCH  WORLDRADE 4001
+[x:0.35, y:0.11, caps:0.75] S K'l"H
+[x:0.26, y:0.18, caps:0.73] TUIIII Bata IITQ IUTELLIIEIGE Oudwide"
+[x:0.16, y:0.22, caps:0.33] Far Fax Far Far Far Far Fax Far Fax
+[x:0.14, y:0.27, caps:0.15] Date: September 22, 1997
+[x:0.14, y:0.30, caps:0.29] To: Ron Mileteln From: "JJ" Kleln
+[x:0.14, y:0.33, caps:0.12] Company: Lorillard
+[x:0.14, y:0.36, caps:0.12] Fax Numbor: (910). 335.7707 Pages (Including cover page):
+[x:0.84, y:0.70, caps:0.00] 1
+[x:0.13, y:0.86, caps:0.16] Rnncr Shmhhordhdo Ins
+[x:0.13, y:0.87, caps:0.21] 205 East A2ie Sueet Rorer Wanetngao] Rubl-Opimm Reor
+[x:0.13, y:0.88, caps:0.18] GntYo Starch Acuerts ard Medla Reseoch
+[x:0.13, y:0.89, caps:0.26] 217 SCC 0702 Tel Fialiran Warretng Sertr
+[x:0.13, y:0.90, caps:0.38] 212 EB7 7003 Fex INRA Kicad Heajquanen

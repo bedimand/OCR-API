@@ -1,0 +1,27 @@
+[x:0.44, y:0.13, caps:1.00] CASE FORM
+[x:0.15, y:0.16, caps:0.26] ‘CASE NAME: Donald D. Sellers and Robin J. Sellers v. Raybestos- Manhattan, etal
+[x:0.15, y:0.19, caps:0.16] court: San Francisco Superior Court -No, 996382
+[x:0.15, y:0.22, caps:1.00] LORILLARD °
+[x:0.15, y:0.23, caps:0.35] ENTITIES: Lorillard Tobacco Company
+[x:0.15, y:0.26, caps:1.00] DATE FILED:
+[x:0.15, y:0.30, caps:0.69] DATESERVED: ——August3,1998
+[x:0.15, y:0.32, caps:0.56] CASE TYPE: Asbestos
+[x:0.15, y:0.35, caps:1.00] PLAINTIFF'S
+[x:0.15, y:0.37, caps:0.29] COUNSEL: ‘Wartniek, Chaber, Harowitz, Smith Tigerman
+[x:0.32, y:0.38, caps:0.19] ‘StephenM:Tigerman
+[x:0.32, y:0.39, caps:0.14] 101 California Strect, Suite 2200
+[x:0.32, y:0.41, caps:0.14] San Franciseo, California 94111
+[x:0.32, y:0.42, caps:0.00] *151986-5566
+[x:0.15, y:0.45, caps:1.00] LORILLARD
+[x:0.15, y:0.46, caps:1.00] ‘COUNSEL:
+[x:0.15, y:0.49, caps:0.40] suDGe:
+[x:0.15, y:0.50, caps:1.00] ‘TRIAL DATE:
+[x:0.78, y:0.79, caps:1.00] S &
+[x:0.78, y:0.79, caps:0.00] o
+[x:0.78, y:0.81, caps:0.50] So 8
+[x:0.85, y:0.82, caps:0.00] a
+[x:0.78, y:0.83, caps:0.00] o 2
+[x:0.78, y:0.84, caps:0.00] = =
+[x:0.78, y:0.85, caps:0.00] oa
+[x:0.78, y:0.87, caps:0.00] a
+[x:0.78, y:0.88, caps:0.00] rey

@@ -1,0 +1,25 @@
+[x:0.74, y:0.08, caps:0.20] Xc: kbs
+[x:0.78, y:0.11, caps:0.00] 12 - 9-99
+[x:0.73, y:0.13, caps:0.82] FRan REENVED
+[x:0.26, y:0.16, caps:0.89] Co VING ToN & BURLING DEC 1999
+[x:0.38, y:0.19, caps:0.41] 1201 Pennsyivania Avenue, N.W. R; B; SPELL
+[x:0.44, y:0.22, caps:0.60] PO, Box 7566
+[x:0.39, y:0.23, caps:0.25] Washington DC 20044-7566
+[x:0.44, y:0.25, caps:1.00] (202) 662-G000
+[x:0.33, y:0.26, caps:0.20] Fax Numbers (202) 662-629 (202) 737-0528
+[x:0.42, y:0.28, caps:0.12] Operator: (202)} 662-6280
+[x:0.21, y:0.33, caps:0.95] ThIs  FACSIMILE TRANSMISSIDN I5 INTENOED ONLY FOR THE AdOREBSEF SHOWN
+[x:0.17, y:0.34, caps:0.87] BELOW: It MAY CONTAIN  INFORMATION THAT Is priviLeGeD CONFIDENTIAL OR OTHERWISE
+[x:0.17, y:0.35, caps:0.85] PROTECTED FroM DIscLosurE: ANY REVIEW, DISSEMIMATON OR USE OF ThIS TRANSMiSSION
+[x:0.17, y:0.36, caps:0.35] Or Its CONTENTS By Persons Other THAN ThE Adoressce Is strictLy prohizited
+[x:0.17, y:0.38, caps:0.82] YOU HAVE ReceIveD This TRANSMiSSION IN ErROR, PL FASE NoTIFY Us IMMEDLATELY AND
+[x:0.17, y:0.39, caps:0.67] MAIL THE ORIOINAL TO Vs AT ThE AbovE adoress_
+[x:0.22, y:0.46, caps:0.17] Date: December 9, 1999
+[x:0.22, y:0.49, caps:0.33] To: Haney H Bell Esg:
+[x:0.21, y:0.54, caps:0.27] From: David H Remes
+[x:0.37, y:0.56, caps:0.00] (202) 778-5212 direct fax
+[x:0.22, y:0.60, caps:0.40] Room: 803E
+[x:0.49, y:0.63, caps:0.05] Pages '(including cover)
+[x:0.21, y:0.69, caps:1.00] MESSAGE:
+[x:0.85, y:0.72, caps:0.00] 1
+[x:0.13, y:0.95, caps:0.77] Tool ONI T4na NOIONIAO) II 80:TI 86/60/31

@@ -1,0 +1,29 @@
+[x:0.75, y:0.08, caps:0.60] xe: RBS
+[x:0.78, y:0.11, caps:0.00] 1269-99
+[x:0.73, y:0.13, caps:0.75] Fan RENED
+[x:0.27, y:0.15, caps:0.94] COVINGTON & BURLING __ p¢¢-9 1999
+[x:0.38, y:0.20, caps:0.41] 1201 Penasylvania Avenue, N.W. R. B. SPELL
+[x:0.44, y:0.22, caps:0.60] ‘P.O. Box 7566
+[x:0.39, y:0.24, caps:0.25] ‘Washington, D.C. 20044-7566
+[x:0.44, y:0.25, caps:0.00] aon 662-50
+[x:0.33, y:0.26, caps:0.12] ax Numbes (212) 62-609 (202) 727.0528
+[x:0.39, y:0.28, caps:0.10] ax Operator (202) 662-6280
+[x:0.17, y:0.34, caps:0.83] Fee oe are aT CUE DRSSEMNATION GR USE OF TH TRANGMISCION
+[x:0.17, y:0.34, caps:0.92] eLow"f MAY CONTAIN “NEGRHATION THAT Is PRIMLEGED, CONFDENTTAL OR OTHERMBE
+[x:0.17, y:0.37, caps:0.88] ETE Genes By PeRSONS GTHEN THA THe ADDRESGEE I STRICTLY PROMIITED. I
+[x:0.16, y:0.38, caps:1.00] TOIL MT ORGRAL TOUS AT THE ABOVE ADDRESS.
+[x:0.17, y:0.38, caps:0.84] See Ge Tees Tas PeANOMSCON IN ERGOR, PLEASE NOTIFY US IMMEDIATELY AND
+[x:0.22, y:0.45, caps:0.17] Date: December 9, 1999
+[x:0.22, y:0.50, caps:0.33] To: Haney H. Bell, Esq.
+[x:0.22, y:0.53, caps:0.27] From: David H. Remes
+[x:0.38, y:0.56, caps:0.00] (202) 778-5212 — direct fax
+[x:0.22, y:0.60, caps:0.25] Room: 8038
+[x:0.40, y:0.63, caps:0.14] MU, Pages (including cover)
+[x:0.22, y:0.69, caps:1.00] MESSAGE:
+[x:0.86, y:0.72, caps:0.00] co
+[x:0.86, y:0.74, caps:0.00] fet
+[x:0.86, y:0.75, caps:0.00] a
+[x:0.86, y:0.76, caps:0.50] Ss
+[x:0.85, y:0.78, caps:0.00] a
+[x:0.85, y:0.80, caps:0.00] 2
+[x:0.04, y:0.94, caps:0.17] : 1008) onrrane ¥ NouoNTA09 reg oo:tt 6e/80/et-—

@@ -1,0 +1,38 @@
+[x:0.05, y:0.04, caps:0.76] TO: K. A. Sparrow SUBMISSION DATE
+[x:0.05, y:0.07, caps:0.70] FROM: J. L. McGinnis MAY 19 AUG 11
+[x:0.59, y:0.12, caps:1.00] JUN 30 SEP 22
+[x:0.05, y:0.14, caps:1.00] SUBJECT: MAVERICK SPECIALS MENTHOL - PROGRESS REPORT
+[x:0.07, y:0.17, caps:0.83] S GEOGRAPHY te
+[x:0.05, y:0.19, caps:1.00] REGION: FULLX PARTIAL,
+[x:0.05, y:0.22, caps:1.00] (ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)
+[x:0.05, y:0.25, caps:1.00] DIVISION: FULL PARTIAL
+[x:0.07, y:0.28, caps:1.00] DIVISION NAME: DIVISION NAME: #REPS
+[x:0.07, y:0.30, caps:1.00] DIVISION NAME: DIVISION NAME: #REPS
+[x:0.07, y:0.33, caps:1.00] DIVISION NAME: DIVISION NAME: #REPS
+[x:0.20, y:0.36, caps:1.00] DISTRIBUTION
+[x:0.05, y:0.38, caps:1.00] DIRECT ACCOUNTS AND CHAINS HEADOUARTERED WITHIN THE REGION
+[x:0.05, y:0.40, caps:1.00] (15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL
+[x:0.25, y:0.41, caps:1.00] IND/LOR NO. OF IND/LOR NO. OF
+[x:0.06, y:0.42, caps:1.00] NAME OF ACCOUNT VOLUME STORES NAME OF ACCOUNT VOLUME STORES
+[x:0.05, y:0.44, caps:0.36] Don & Bens 26/2 20 Sac N Pac 75/2 27
+[x:0.04, y:0.47, caps:0.25] Western Beverage 42/2 15 ACO/Texaco 95/3 15
+[x:0.05, y:0.48, caps:0.22] Speedy Stop 106/4 29 Lone Star 76/3 37
+[x:0.05, y:0.50, caps:0.50] Get-N-Go 62/2 44
+[x:0.05, y:0.52, caps:0.14] Valtey Shamrock 78/4 17
+[x:0.05, y:0.54, caps:0.11] Allbertson's - Houston 319/16 34
+[x:0.05, y:0.56, caps:0.25] Mini Mart 65/3 15
+[x:0.05, y:0.58, caps:0.23] Nealr's One Stop 69/3 20
+[x:0.05, y:0.60, caps:0.18] Shopper Mart 80/4 22
+[x:0.05, y:0.64, caps:1.00] DIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION
+[x:0.05, y:0.65, caps:1.00] (15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL
+[x:0.24, y:0.67, caps:1.00] IND/LOR NO. OF IND/LOR NO.OF
+[x:0.05, y:0.68, caps:1.00] NAME OFACCOUNTVOLUME STORES NAME OF ACCOUNT VOLUME STORES
+[x:0.05, y:0.70, caps:0.14] Chevron ? 115
+[x:0.05, y:0.72, caps:0.14] Brookshire Bro.'s ? 38
+[x:0.05, y:0.73, caps:0.24] Eckerd Drugs - S, Texas ? 217
+[x:0.05, y:0.75, caps:0.20] Exxon ? 38
+[x:0.05, y:0.77, caps:0.14] Philip's 66 ? 27
+[x:0.06, y:0.79, caps:0.14] Star Erterprise ? 70
+[x:0.05, y:0.81, caps:0.11] Waigreen's ? 177
+[x:0.98, y:0.84, caps:0.00] 6 225536 2
+[x:0.08, y:0.97, caps:0.57] MAVPROG9.XLS Page1 of 3 Pages

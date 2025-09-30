@@ -1,0 +1,18 @@
+[x:0.06, y:0.12, caps:1.00] ¢ COMPOUND PHYSICAL PARAMETERS
+[x:0.17, y:0.18, caps:0.04] ‘A crystalline solid at room temperature which melts at >56°C.
+[x:0.17, y:0.22, caps:0.04] ‘The pl of a 508 concentration of A221 in water was theoretically
+[x:0.17, y:0.24, caps:0.03] calculated to be 7.26 at 22°C from a 0.5% solution in 79.5% aqueous
+[x:0.17, y:0.25, caps:0.06] dioxane according to the extrapolation procedures of Dr. P. D.
+[x:0.17, y:0.26, caps:0.10] Schickedantz, Losillard Accession Number 1662. Referencetfi5~i0-1.
+[x:0.17, y:0.37, caps:0.08] 2221 is soluble in EtOH at 0.2 g/ml, with stirring, at room
+[x:0.17, y:0.39, caps:0.14] temperature. Reference BC30-88.
+[x:0.16, y:0.44, caps:0.00] ‘h221 forms a solution in corn oil at 0.5 g/0.5 mb, with stirring
+[x:0.17, y:0.45, caps:0.11] at room temperature. Reference BC30-88.
+[x:0.17, y:0.51, caps:0.03] A221 forms a solution in corn oil at 0.5 9/0.5 mb, with stirring
+[x:0.17, y:0.52, caps:0.11] at room temperature. Reference BC30-88.
+[x:0.17, y:0.60, caps:0.08] 2221 is insoluble for this procedure. Reference BC30-88.
+[x:0.84, y:0.65, caps:0.00] @
+[x:0.84, y:0.66, caps:0.00] a
+[x:0.84, y:0.67, caps:0.00] 2
+[x:0.17, y:0.68, caps:0.05] Refrigerate in an amber glass bottle at no more than 8°C. 8
+[x:0.18, y:0.76, caps:0.14] 3h ae Swosnne 2omeR,

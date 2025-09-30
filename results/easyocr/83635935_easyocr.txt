@@ -1,0 +1,21 @@
+[x:0.21, y:0.07, caps:0.94] 02:@EF11 LcZLS CCRP LEGAL P.176
+[x:0.41, y:0.17, caps:0.75] 4QEwS
+[x:0.20, y:0.20, caps:0.28] 067 Madiaon Avanue; Ncw Yatk NY; 10021-1087 (212) 545-2920 Fax (212) 935+6801
+[x:0.09, y:0.27, caps:1.00] BARAY HIASCH
+[x:0.09, y:0.28, caps:0.21] Sero Mco Piecoan
+[x:0.09, y:0.28, caps:0.29] Sxcitryy Ccen Consal BAX
+[x:0.39, y:0.32, caps:1.00] CQNEIDENTLAL
+[x:0.11, y:0.37, caps:0.62] DATE: Junc 1997
+[x:0.12, y:0.40, caps:0.35] TO: Dr: SpearA J. Steven:R Milstein
+[x:0.11, y:0.43, caps:0.40] FROM: Barry Hirsch
+[x:0.12, y:0.46, caps:1.00] TOTAL NUMBER OF PAGES INCLUDING THIS COVER SHEET
+[x:0.14, y:0.48, caps:1.00] MFYOU DO NOT RECEIVE ALL THE PACES, PLEASE CALL
+[x:0.14, y:0.49, caps:1.00] CAROL DOKTORSKI AT (212) 545-2934.
+[x:0.14, y:0.53, caps:1.00] OUR FAX NUMBER IS (212) 935-6801.
+[x:0.15, y:0.79, caps:0.58] DRESE,I ct TE-nerca DIDDL 0 BETY I9 @e# ! Annanannn LD K
+[x:0.11, y:0.80, caps:0.72] [Lieeaa IXFONATIG ThAT uOttttrln O#RmITTUI nEF Far DISCIATII MLDZR APPLOSUI
+[x:0.11, y:0.81, caps:0.86] YIN JRE MDI TD IRTNDID AEC1PIE Yod ^I Hadby AOTIFID T0T M} DIGEDDAIID ,  DIYERIRUTIOL DR conIdI
+[x:0.11, y:0.82, caps:0.86] c 1423 OOC TIC 18 0-RICILX TAO DITRD . Tol GYj ROIT 7U5 COTTM47En ChTBoR _ RLAIE
+[x:0.11, y:0.82, caps:0.48] FotIe- La4BD Atear TTaRitO HleTT onlduat a3eGtn ~ *X mu AoT IDDABE9 VA
+[x:0.11, y:0.83, caps:0.93] ROSIAL FRVTC NOnT 5
+[x:0.86, y:0.86, caps:0.00] 1

@@ -1,0 +1,26 @@
+[x:0.05, y:0.01, caps:0.71] 4.01/14/99 18:36 FAX 206 623 0594 HAGENS BERMAN WA Fee Pay. Agree 001/057
+[x:0.39, y:0.07, caps:0.29] Hagens Berman Xe: gAW
+[x:0.41, y:0.11, caps:0.07] ltzorneya nt Law
+[x:0.31, y:0.13, caps:0.74] 13GI FIFTH AvenuE, SUIYe agOO · SEaTTLE, WA g8IO1
+[x:0.29, y:0.14, caps:0.95] TELEPHONE (106) 623-7292-FACSIMILE (206) 62g-0594
+[x:0.35, y:0.19, caps:1.00] FACSIMILE COVER SHEET
+[x:0.10, y:0.23, caps:0.11] Datc: January 14, 1999 No. of Pages 37 (inciluding this page)
+[x:0.09, y:0.27, caps:0.27] From: Steve W. Berman File No.: 1129.01
+[x:0.09, y:0.29, caps:0.16] Re: Tobacco - Fee Payment Agreement and Release
+[x:0.09, y:0.33, caps:1.00] COMMENTS:
+[x:0.10, y:0.41, caps:0.21] Recipient(s): Company: Phone No.: Fax No.:
+[x:0.10, y:0.45, caps:0.21] Mr. Meyer G. Koplow Wachtell, Lipton, Rosen (212) 403-1000 (212) 403-2000
+[x:0.33, y:0.46, caps:0.25] & Katz
+[x:0.10, y:0.49, caps:0.22] Mr. Arthur F. Golden Davis, Polk & Wardwell (212) 450-4000 (212) 450-4800
+[x:0.10, y:0.53, caps:0.18] Mr. Martin Barrington Philip Morris Inc. (917) 663-5399
+[x:0.10, y:0.56, caps:0.20] Mr. F. Anthony Burke Brown & Williamson (502) 568-7297
+[x:0.34, y:0.57, caps:0.18] Tobacco Corp.
+[x:0.10, y:0.61, caps:0.18] Mr. Ronald Milstein Lorillard Tobacco Co. (336) 335-7707
+[x:0.10, y:0.64, caps:0.25] Mr. Charles A. Blixt R.J. Reynolds Tobacco (336) 741-2998
+[x:0.33, y:0.66, caps:0.50] Co.
+[x:0.10, y:0.69, caps:0.21] Mr. Stephen R. Patton Kirkland & Ellis (312) 861-2000 (312) 861-2200
+[x:0.36, y:0.79, caps:0.12] Urgent! Deliver Immediately.
+[x:0.09, y:0.81, caps:0.03] Please call the Support Center at (206) 268-9312 or not receive all of these pages or if there is a problem. at ext. if you do
+[x:0.09, y:0.86, caps:0.02] Theinfornation contajned in this facsimile is confidential andmay also be attorey-privilege.The information is intended ony for tho ue of inid  n o  dsey  at th ne ep o  play or  eor thenendod recipient. o  atrey nodifed thaany u disseminatic,distributton or copyi ofh commumication is stricty prohibited. message to us al the addres above via the Us Postal Sorvice. Thanlk you. 83573282
+[x:0.09, y:0.90, caps:0.00] 0
+[x:0.38, y:0.96, caps:1.00] APAOFESSIONAL SERVICE CCRPCRATION

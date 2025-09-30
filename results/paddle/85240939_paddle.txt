@@ -1,0 +1,22 @@
+[x:0.38, y:0.04, caps:1.00] THE TOBACCO INSTITUTE
+[x:0.09, y:0.07, caps:1.00] SHERATON-CARLTON HOTEL PIPTH ANNUAL FEBRUARY 19-21
+[x:0.10, y:0.11, caps:0.97] WASHINGTON,D:c COLLEOE OF TOBACCO KNOWLEDGE
+[x:0.40, y:0.14, caps:1.00] REGISTRATION FORM
+[x:0.09, y:0.21, caps:1.00] NAME: GEORGE R. TELFORD
+[x:0.09, y:0.24, caps:0.41] TITLE: Brand Manager
+[x:0.09, y:0.28, caps:0.50] COMPANY:Lorillard
+[x:0.30, y:0.31, caps:1.00] I
+[x:0.09, y:0.32, caps:0.48] ADDRESS:666 Fifth Avenue. New York. NY 10019
+[x:0.09, y:0.34, caps:1.00] PHONE: (212)841-8787
+[x:0.09, y:0.41, caps:0.22] CHECK ONE: Please reserve a room for me at the Sheraton-Carlton.
+[x:0.23, y:0.45, caps:0.03] x _I will,make my own housing arrangements.
+[x:0.09, y:0.52, caps:1.00] ARRIVAL DATE AND TIME: 2/18/8O 7:00 P.M.
+[x:0.09, y:0.55, caps:1.00] DEPARTURE DATE AND TIME: 2/21/80_4:0O P.M.
+[x:0.09, y:0.62, caps:0.02] Please attach a brier (5o words or so) autobiographical sketch.
+[x:0.09, y:0.65, caps:0.02] Note your first name or nickname, your current professional re-
+[x:0.08, y:0.68, caps:0.00] sponsibilities, employment background and whatever personai. in-
+[x:0.09, y:0.71, caps:0.00] formation you feel would be helpful in giving your fellow students
+[x:0.09, y:0.75, caps:0.02] an idea of your activities and interests. The sketches will be
+[x:0.09, y:0.78, caps:0.00] assembled and provided at the opening class session.
+[x:0.08, y:0.83, caps:0.13] Any questions? Call Connie Drath or Carol Musgrave at 8oo/424-9876.
+[x:0.08, y:0.91, caps:1.00] *PLEASE RETURN IN SELF-ADDRESSED ENVELOPE BY PRIDAY, JANUARY 18, 1980*

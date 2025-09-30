@@ -1,0 +1,28 @@
+[x:0.06, y:0.03, caps:1.00] "11/05/97 11:03 813 884 0663 LORILLARD_TANPA_ ++→ GREENSBOR 002/003
+[x:0.28, y:0.15, caps:0.16] Retail Excel Progress Report
+[x:0.09, y:0.17, caps:0.07] Submission for: Distribution by/to:
+[x:0.08, y:0.18, caps:0.35] July 31 () DM to RSM 1st of Month
+[x:0.09, y:0.20, caps:0.37] August 29 () To: R. W. Caldarella RSM to R.W.C. 10th
+[x:0.09, y:0.22, caps:0.40] Septernber 30 ( ) CC: D.O.S.
+[x:0.09, y:0.23, caps:0.27] October 31 (X) From: Kent B. Mills
+[x:0.09, y:0.26, caps:0.12] Ncvember 28 ( )
+[x:0.09, y:0.27, caps:0.17] December 30 ( ) Area: 5 Region: 17
+[x:0.09, y:0.30, caps:0.08] Acceptance/Response: What is the retailers response to Lorillard's Excel
+[x:0.09, y:0.33, caps:0.06] Merchandising plan?
+[x:0.09, y:0.34, caps:0.05] Chains; This program has been successful to date with chains where our "Flex
+[x:0.09, y:0.36, caps:0.07] Payment" was not in place. The chains where we were using the "Flex Payment"
+[x:0.09, y:0.38, caps:0.10] system we have not been as successful. The P.O.S. requirements of the P-1 Plan
+[x:0.09, y:0.40, caps:0.06] with Oil Companies is difficult to obtain,
+[x:0.09, y:0.46, caps:0.08] Independents:
+[x:0.09, y:0.48, caps:0.07] Additional P.V. merchandising is being secured quickly.
+[x:0.09, y:0.52, caps:0.16] Additional monies have assisted Region 17 in fighting PM Exclusives and PM/RJR
+[x:0.10, y:0.54, caps:0.00] co-existence situations.
+[x:0.10, y:0.59, caps:0.06] Hardware Evaluation/Effectiveness: Comment on the assembly of displays and
+[x:0.10, y:0.61, caps:0.00] application of shields:
+[x:0.10, y:0.63, caps:0.03] The displays are easily assembled and durable. Some questions have been raised
+[x:0.10, y:0.65, caps:0.00] concerning the inability to be flush with the counter and/or up against the register.
+[x:0.10, y:0.67, caps:0.04] As well as the ability to place this on the Back Bar if the settflement goes through.
+[x:0.10, y:0.73, caps:0.14] Permanent Advertising Evaluation/Effectiveness/Acceptance: (P-1/P-5 & C-5
+[x:0.10, y:0.75, caps:0.22] Plans Only:
+[x:0.27, y:0.77, caps:0.05] Not available at this time
+[x:0.97, y:0.86, caps:0.00] 82251504

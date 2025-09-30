@@ -1,0 +1,47 @@
+[x:0.09, y:0.03, caps:0.93] Lo "CORRECTED FORM"
+[x:0.27, y:0.05, caps:0.15] The Commonwealth of Massachusetts Oss Wes Only |
+[x:0.26, y:0.09, caps:1.00] OFFICE OF CAMPAIGN AND POLITICAL FINANCE |
+[x:0.19, y:0.12, caps:1.00] REPORT OF |
+[x:0.13, y:0.13, caps:0.89] CORPORATE TREASURER ES Form CPF 22
+[x:0.45, y:0.15, caps:0.23] al |= (formerly CPF 10) |
+[x:0.07, y:0.17, caps:0.11] File with: Director, ij
+[x:0.14, y:0.18, caps:0.29] Office of Campaign & Political Finance ‘a (CHECK ONE)
+[x:0.14, y:0.20, caps:0.22] One Ashburton Place, Boston, MA 02108 O 60th Day Prior to Election
+[x:0.74, y:0.20, caps:0.19] 1 Sih Day of the Month
+[x:0.06, y:0.23, caps:0.18] {ES Please Print or Type, except Signatures. Bea ote Mon
+[x:0.08, y:0.26, caps:0.15] 1, Name of Treasurers Alfred Peterson; Assistant Treasurez: Peter J. Marzullo
+[x:0.07, y:0.29, caps:0.13] 2. Name of Corporation Lorillard Tobacco Compan:
+[x:0.08, y:0.31, caps:0.15] 3. Address of Corporation One Park Avenue
+[x:0.29, y:0.34, caps:0.44] New York, NY 10016-5895 ——
+[x:0.08, y:0.36, caps:0.14] 4, Question No, ___}__ relating to Tobacco Excise Tax Increase
+[x:0.57, y:0.39, caps:0.04] (Deseribe question briefly)
+[x:0.08, y:0.41, caps:0.04] submitted to the voters on November 3, 199?:ne___ Massachusetts ___________tallot
+[x:0.29, y:0.43, caps:0.18] (Election Date) (Name of City/Town or State)*
+[x:0.08, y:0.45, caps:0.02] * Note: If this expenditure is made to influence a local ballot question, a copy of this form should be filed with the city or
+[x:0.00, y:0.47, caps:0.00] ) ee town clerk or election commission.
+[x:0.06, y:0.49, caps:0.16] [EF Fittin Dates: Reporting Period Beginning October 16, 19 _92 and Ending November 5. 1922_
+[x:0.08, y:0.52, caps:0.00] 1 certify that this report is @ trve statement of the amount or value of every gilt, payment, expenditure or contribution or
+[x:0.08, y:0.53, caps:0.00] promise to give, pay, expend or contribute, together with the date, purpose, and full name and address of the person to whom
+[x:0.08, y:0.55, caps:0.06] fewas made: I make this report in accordance with the requirements of Mass. General Laws, Chapter $5, Section 22, as amended.
+[x:0.08, y:0.57, caps:0.03] Signgsyunder the penalties of perjury.
+[x:0.08, y:0.58, caps:0.12] v2 fe Bace, eee or March 30, 1993
+[x:0.08, y:0.62, caps:0.10] reavurer Srfnatare~ Date
+[x:0.08, y:0.64, caps:0.64] Assistant Treasurer EXPENDITURES OR DISBURSEMENTS
+[x:0.07, y:0.66, caps:0.24] on rr To Whom Paid T | Amount
+[x:0.11, y:0.68, caps:0.11] Pald__|_ (alphabeta! isting Mandaton) Adds Purpose or Valuet™
+[x:0.10, y:0.69, caps:0.21] 10/26/92 | cosatey ‘nate 2 7.0, Box 5979, Boston, wi o7its | Tax PREFEase | 28,lo92
+[x:0.08, y:0.70, caps:0.20] Tun te 30088
+[x:0.10, y:0.72, caps:0.17] 10/30/92 | committee Agatna: Unfair Taxes | 7.0. Box 5979, foston, ws ormse | ras PESEEae | 19.1609.00
+[x:0.74, y:0.74, caps:0.00] | |
+[x:0.19, y:0.76, caps:0.00] | al ~°
+[x:0.19, y:0.79, caps:0.00] | i | =
+[x:0.19, y:0.81, caps:1.00] | I | S
+[x:0.08, y:0.82, caps:1.00] TT 1 1 ] &
+[x:0.08, y:0.84, caps:0.33] a Se
+[x:0.19, y:0.85, caps:0.00] 1 1 i ;
+[x:0.19, y:0.88, caps:0.50] | | Lt
+[x:0.09, y:0.89, caps:0.60] TTT TTT rors |, 05.00
+[x:0.09, y:0.92, caps:0.07] ++ Inckind contributions should be included here. Total Expenciwues or Disbursements Previously Reported | 508, 789.00
+[x:0.12, y:0.93, caps:0.00] ‘tach additional pages if necessary, ° [ese fre.00
+[x:0.11, y:0.95, caps:0.09] Autach sec! pages . Total Expenditures or Disbursements to Date 556, pre.0
+[x:0.00, y:0.98, caps:1.00] | (RFPORTING REANIDEMENTS CONTINED ON REVERSE SIDF)

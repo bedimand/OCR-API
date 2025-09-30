@@ -1,0 +1,37 @@
+[x:0.10, y:0.12, caps:1.00] TO: ZOLOT SUBMISSIOMDATE
+[x:0.10, y:0.15, caps:1.00] FROM: RW RICHARDSON OCT 05 DEC 21
+[x:0.45, y:0.17, caps:1.00] NOV 16
+[x:0.09, y:0.20, caps:1.00] SURJECT: QLDGOLLIGHTBOX IQS PROGRESSREPORT
+[x:0.21, y:0.24, caps:1.00] GEOGRAPHY
+[x:0.09, y:0.26, caps:1.00] REGION: FULL PARTIAL
+[x:0.09, y:0.28, caps:1.00] (ONLY IF PARTIAL REGION, CONTINUE WITH DIVISION(S) SCOPE)
+[x:0.10, y:0.31, caps:1.00] DIVISION: FULL PARTIAL
+[x:0.12, y:0.33, caps:0.63] DIVISION NAME: Detroit North DIVISION NAME: Detmit Scuth REFS:
+[x:0.12, y:0.35, caps:0.64] DIVISION NAME: Detroit East DIVTSION NAME: Iktroit West REPS:
+[x:0.12, y:0.37, caps:0.72] DIVISION NAME: Grod Rapids _ DIVISION NAME: Flint REPS:
+[x:0.20, y:0.41, caps:1.00] DISTRIBUTION 3
+[x:0.10, y:0.43, caps:0.14] Dirsstculii ChinHadqlndLuihinlh Ecejon
+[x:0.10, y:0.45, caps:0.25] (13+ Stores) Stocking No (ld Gald Light Bor 1QU"
+[x:0.11, y:0.46, caps:0.15] Namc of ,ccount Unoucor Number Nant of Account IndLor Numbcr of
+[x:0.25, y:0.47, caps:0.16] Volunie Stores Volume Stores
+[x:0.10, y:0.49, caps:0.18] Quality Diny 151/15 Spcedy 196/13
+[x:0.10, y:0.51, caps:0.18] Bay Stations 81/9
+[x:0.10, y:0.53, caps:0.17] Schmuckel Qil 1389
+[x:0.10, y:0.55, caps:0.33] wilson Oil HWI?
+[x:0.10, y:0.57, caps:0.29] Quik Son 117/9
+[x:0.10, y:0.58, caps:0.12] Fonrards 118*
+[x:0.10, y:0.60, caps:0.20] Phill Flint 166/15
+[x:0.10, y:0.62, caps:0.40] Ntor R~ 115/13
+[x:0.10, y:0.64, caps:0.18] Imperial Oil [63/1 [
+[x:0.10, y:0.67, caps:0.12] Dircct Accountuand Chains Icadquartcrsd Qutsilathc Rceion
+[x:0.10, y:0.68, caps:0.25] (I5+ Storcs) Stocking No Old Gold Light Box 100 $
+[x:0.11, y:0.70, caps:0.14] Namc of Account nu Lor Number 0r Nime of Accouut [ndlor Jumber of_
+[x:0.26, y:0.71, caps:0.17] Volumc Stores Lolumg Stores +
+[x:0.10, y:0.73, caps:0.25] Clark Gas
+[x:0.10, y:0.75, caps:0.25] Emio
+[x:0.10, y:0.77, caps:0.13] -Elcvcn Southland
+[x:0.10, y:0.79, caps:0.17] Welmar
+[x:0.10, y:0.80, caps:0.22] Ul Dianond 1
+[x:0.10, y:0.82, caps:0.50] Diin KaTI 40
+[x:0.10, y:0.84, caps:0.22] Achi Qnoco
+[x:0.09, y:0.95, caps:0.36] FCTTET Dacomiteorb Pagr ! e}

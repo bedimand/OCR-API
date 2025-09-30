@@ -1,0 +1,24 @@
+[x:0.05, y:0.05, caps:0.07] = 12710736 09:81 517 450071 Lorrunanp ooroor
+[x:0.05, y:0.09, caps:0.00] he
+[x:0.29, y:0.14, caps:1.00] COMPETITIVE PRODUCT INTRODUCTION
+[x:0.40, y:0.16, caps:1.00] PROGRESS REPORT
+[x:0.13, y:0.20, caps:0.81] TO: MRS. K. A. SPARROW MANUFACTURER: RJ. Reynolds .
+[x:0.13, y:0.22, caps:0.52] FROM: RG. Ryan BRAND: Camel Menthol _
+[x:0.13, y:0.24, caps:0.55] DATE: i2H0/86 TYPE OF PACKINGS: Full Flavor Box and Light Box
+[x:0.12, y:0.27, caps:0.67] REPORTING PERIODS: AUG sepr ocr Nov x
+[x:0.32, y:0.30, caps:0.03] (Forward by the 10th ofthe following month.)
+[x:0.12, y:0.33, caps:0.70] TEST MARKET GEOGRAPHY: __AllofRegion 7
+[x:0.12, y:0.37, caps:0.46] PRICE POINT: FULLS11.89 __PIVS __{Indicate Distributor's Cost Per Carton)
+[x:0.13, y:0.40, caps:0.28] SALES FORCE INVOLVEMENT: Merchandising the top tray of permanent counter displays and tabling
+[x:0.12, y:0.43, caps:0.04] ‘carton fixtures in the Camel section. Also placing metal signs and temporery counter Gisplaye.
+[x:0.13, y:0.49, caps:0.98] DISTRIBUTORS ~ ACCEPTANCE/INTRO TERMS/INTRO DEALS: a
+[x:0.12, y:0.51, caps:0.06] Product is being introduced to all Direct Accounts in the Region. Acceptance is spotty at this time _
+[x:0.12, y:0.58, caps:1.00] DISTRIBUTOR INVOLVEMENT: 0
+[x:0.12, y:0.60, caps:0.03] ‘Assembly of promotional products and shipment to retall, indianapolis Direct Accounts are reported tobe _
+[x:0.12, y:0.62, caps:0.24] recelving BIGIE product
+[x:0.12, y:0.67, caps:0.95] CHAINS — ACCEPTANCE/MERCHANDISING ALLOWANCE ee
+[x:0.12, y:0.69, caps:0.03] hain acceptance has been very Good,
+[x:0.12, y:0.77, caps:1.00] INDEPENDENTS ~ AGCEPTANCE/MERCHANDISING ALLOWANCE __
+[x:0.12, y:0.78, caps:0.02] Acceptance is better at high volume locations than at lower volurne retell cas,
+[x:0.76, y:0.90, caps:0.00] 82253058
+[x:0.09, y:0.92, caps:1.00] CAMEL WK(/FMT PAGE 1 OF 2

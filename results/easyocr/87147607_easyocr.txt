@@ -1,0 +1,25 @@
+[x:0.10, y:0.04, caps:0.93] PURCHASINa PURCHASE REQUISITION RcV T0 79 Lt-T0-1" OATE
+[x:0.10, y:0.06, caps:0.55] Statioha RY PLEASE INCLUDE ONLY ONe Type MaTERIAL ON This Requisition April 19 , 1988
+[x:0.05, y:0.08, caps:0.89] VENDOR FOR PUaCHASINO DEPARTHENT ONLY DAdae
+[x:0.06, y:0.09, caps:0.12] Piedmont Research Laboratory 2748 Patterson Ave Greensboro
+[x:0.09, y:0.10, caps:0.32] Term? NET N{A NIA 27407 tate Atcommunded Supoilt
+[x:0.28, y:0.12, caps:1.00] F.0.
+[x:0.05, y:0.13, caps:0.66] Ship To (OepT BRANchi OATTE TnNTTED
+[x:0.06, y:0.14, caps:0.10] Lorillard Research Center Thaggard required
+[x:0.06, y:0.17, caps:0.24] 420 English St Greensboro NC 27405
+[x:0.06, y:0.20, caps:0.70] QuANTiITY CODE OeSCRIPTION Unit Price
+[x:0.16, y:0.23, caps:0.04] This youi authozization prepare cigarette smoke conHensate
+[x:0.16, y:0.25, caps:0.06] according the protocol Standard Operating Procedure fpr the
+[x:0.16, y:0.28, caps:0.12] Preparation Smoke Condensate for Mouse Skin_Bioassay, for the
+[x:0.16, y:0.31, caps:0.10] period Apri 1988 through December 31, 1988 CondensaEe_ will
+[x:0.16, y:0.34, caps:0.04] prepared acd ording time schedule provided Lorillakd The
+[x:0.16, y:0.37, caps:0.00] fixed price for condensate collection will rate
+[x:0.16, y:0.39, caps:0.05] 51,750/10,040 cigarettes_smoked Piedmont will Pay the cpst
+[x:0.16, y:0.42, caps:0.02] consumable_iupplies- This work conducted accerdance
+[x:0.16, y:0.46, caps:0.06] with the Dedember 1984 forma agreement between Piedment Reseach
+[x:0.16, y:0.48, caps:0.04] Laboratories and Lorillard 4ll work i5 coordinatel with our
+[x:0.16, y:0.51, caps:0.21] Hr Neil Thaggard (919) 373-6628 _
+[x:0.14, y:0.68, caps:0.61] FOLLOW UP daTE requisitiom NO ISSUED BY
+[x:0.15, y:0.73, caps:0.93] BUOGET NO AccT: NO. DEPT: NO: APPAOVED BY
+[x:0.39, y:0.74, caps:0.20] 4111 8700 Te ntp
+[x:0.81, y:0.78, caps:0.00] 1

@@ -1,0 +1,17 @@
+[x:0.27, y:0.12, caps:1.00] DECISION TREE ESTIMATION OF TOXIC RISK
+[x:0.11, y:0.14, caps:0.00] ee
+[x:0.34, y:0.29, caps:0.62] ‘CH,CH,O ths
+[x:0.49, y:0.33, caps:1.00] OH .
+[x:0.11, y:0.34, caps:0.94] a RET EOS SR COT COE MER
+[x:0.11, y:0.35, caps:0.00] ae in
+[x:0.11, y:0.39, caps:0.00] ema
+[x:0.15, y:0.41, caps:0.09] ‘This ethoxy substituted aromatic falls into class III.
+[x:0.59, y:0.62, caps:0.13] Research Chemist
+[x:0.59, y:0.70, caps:0.13] Research Chemist
+[x:0.82, y:0.79, caps:0.00] a
+[x:0.82, y:0.80, caps:1.00] FS}
+[x:0.82, y:0.81, caps:0.00] 3
+[x:0.82, y:0.82, caps:0.00] &
+[x:0.82, y:0.83, caps:0.00] g
+[x:0.11, y:0.86, caps:0.00] | 3
+[x:0.04, y:0.92, caps:0.22] tS Laer aaa

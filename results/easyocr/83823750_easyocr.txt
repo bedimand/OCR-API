@@ -1,0 +1,21 @@
+[x:0.15, y:0.07, caps:1.00] TVE 18; 39 FA 212 5578 DPG 30-50 @UUI
+[x:0.33, y:0.11, caps:0.82] DAVIS Polk & WARDWELL
+[x:0.08, y:0.16, caps:0.17] Fax Transmittal Dato
+[x:0.08, y:0.18, caps:0.19] 450 Laxington Avanue Robert H: Shaw; Eeq Novembor 11, 1997
+[x:0.08, y:0.20, caps:0.44] Mow York NY 10017
+[x:0.08, y:0.21, caps:0.14] 212-450-4000 Company
+[x:0.34, y:0.23, caps:0.13] Lorlllard Tobacco Company
+[x:0.34, y:0.26, caps:0.20] Fex Number Voicc Number
+[x:0.34, y:0.28, caps:0.50] 910-336 -= Iz 910-335-7720
+[x:0.34, y:0.31, caps:0.09] Sender Number of Pages (this page included)
+[x:0.34, y:0.34, caps:0.15] Charlee Duggan
+[x:0.34, y:0.36, caps:0.19] Sender Voice Number Main Fax Opcrutor Voice Number
+[x:0.34, y:0.39, caps:0.00] 212-450-4785
+[x:0.34, y:0.41, caps:0.17] Sender Fax Number Refcrence
+[x:0.34, y:0.44, caps:0.00] 212-450-5578 17660-188
+[x:0.07, y:0.46, caps:0.14] Mcssage:
+[x:0.88, y:0.83, caps:0.00] 8
+[x:0.89, y:0.86, caps:1.00] W
+[x:0.10, y:0.88, caps:0.07] Or obicnwic pnoletd bum durlotun Coandcndulll Notz: Tnb furild u ilaeu UDy iu Lx peaor OrybrlhrbrdcerdEdiy corl l nunond Ualy privileged, ccnndcnai z DinmLan disuinution o coaying of tu netimle Or tkc bforulon baclo myon: Other than thc Inknkd 5
+[x:0.11, y:0.92, caps:0.16] recap L Emdloyez AZE rcrpondble [ur dclicine d: MkHanc @ @: mEAuedmapler L pptlbnod Lyou Iuta [Rrivcd mhh Arunila
+[x:0.11, y:0.93, caps:0.05] plcbc nobly Inredely by Ecl phone &d rbn tx funibby =41

@@ -1,0 +1,16 @@
+[x:0.46, y:0.10, caps:1.00] TST ARHICIE RBEIPT
+[x:0.26, y:0.15, caps:1.00] 107281A
+[x:0.18, y:0.19, caps:0.62] SPUER'S MAE: Lor1 ]lard
+[x:0.18, y:0.24, caps:1.00] TEST ARTTCTE IETTFICTIOI: 3220
+[x:0.18, y:0.28, caps:0.86] LOr 012590 QMT 0F 50F2 QOD BuN
+[x:0.17, y:0.33, caps:0.52] SHTPPDD VIA: prest Ertese
+[x:0.17, y:0.36, caps:0.54] HYSICAL DESCRIPTTCI: Clcar brown liquicd
+[x:0.24, y:0.41, caps:1.00] OMAIERS:
+[x:0.17, y:0.45, caps:0.51] Gss NEIGT: Jot FovL ccd NET WEICT (H provided) 100
+[x:0.17, y:0.50, caps:0.61] EPIRATTOI DAIE: _ Zot rovided
+[x:0.17, y:0.54, caps:0.52] SPETAL HHDLIX REUTREDIS Store refrigerated dark
+[x:0.17, y:0.62, caps:1.00] RECEIVDD BY: DAIE: 93/01/90
+[x:0.17, y:0.67, caps:0.85] STUDY DIRECIORADEPARDAT: 74y Davd
+[x:0.17, y:0.72, caps:1.00] SIQAIURE OF DEPARLBT OXSIGNEE:
+[x:0.16, y:0.75, caps:0.67] DATE: 28/-[ge
+[x:0.87, y:0.80, caps:0.00] 1

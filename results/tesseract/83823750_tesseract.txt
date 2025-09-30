@@ -1,0 +1,27 @@
+[x:0.04, y:0.07, caps:0.14] af (97 tue reese vax 212 & ss78 DPW 30-50 e oor
+[x:0.02, y:0.11, caps:1.00] 3 DAVIS POLK & WARDWELL
+[x:0.07, y:0.14, caps:0.14] Seer eer
+[x:0.08, y:0.16, caps:0.20] Fax Transmittal To Dato
+[x:0.08, y:0.18, caps:0.22] Ae Lesteaton Aves Robert H. Shaw, Esq. November 11, 1997
+[x:0.08, y:0.18, caps:0.13] 450 Lexington Avenue
+[x:0.08, y:0.20, caps:0.11] 242-450-4000 Company as
+[x:0.34, y:0.24, caps:0.13] Lorillard Tobacco Company
+[x:0.34, y:0.25, caps:0.20] Fax Number ‘Voice Number
+[x:0.34, y:0.28, caps:0.00] 910-336-797 910-335-7720
+[x:0.34, y:0.30, caps:0.09] Sender ‘Number of Pages (this page included)
+[x:0.34, y:0.34, caps:0.15] Charles Duggan 2
+[x:0.34, y:0.35, caps:0.19] Sender Voice Number Main Fax Operator Voice Number
+[x:0.34, y:0.39, caps:0.00] 212-450-4785
+[x:0.34, y:0.41, caps:0.17] Sender Fax Number ‘Reference
+[x:0.34, y:0.43, caps:0.00] 212-450-5878 47560-188
+[x:0.08, y:0.47, caps:0.14] ‘Message:
+[x:0.89, y:0.81, caps:0.00] 2
+[x:0.89, y:0.82, caps:0.00] os
+[x:0.89, y:0.84, caps:0.00] ro
+[x:0.89, y:0.85, caps:0.50] nD
+[x:0.89, y:0.86, caps:0.00] w
+[x:0.89, y:0.88, caps:0.00] =
+[x:0.08, y:0.89, caps:0.00] a 3
+[x:0.11, y:0.90, caps:0.06] Sree cd fon dare. Dima, vnaonocpyig of ts fal Iho tet mye fash nde
+[x:0.10, y:0.91, caps:0.03] ‘payor tr empaye er eget rerpnibl fr cio sags O raed wpe, & pobibod. Iouave toed ifs rt,
+[x:0.10, y:0.92, caps:0.00] plese no sre y telephone and retusa yal,

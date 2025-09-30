@@ -1,0 +1,16 @@
+[x:0.06, y:0.02, caps:1.00] 187 TUE 18:39 FAX 212 5578 DPH 30-59 0001
+[x:0.32, y:0.09, caps:1.00] DAVIS POLK &WARDWELL
+[x:0.05, y:0.14, caps:0.20] Fax Transmittal To Date
+[x:0.05, y:0.17, caps:0.24] 450 Lexington Avenue New York, NY 10017 Robert H. Shaw, Esq. November 11, 1997
+[x:0.05, y:0.19, caps:0.14] 212-450-4000 Company
+[x:0.34, y:0.22, caps:0.13] Lorillard Tobacco Company
+[x:0.34, y:0.25, caps:0.20] Fax Number Voice Number
+[x:0.34, y:0.27, caps:0.00] 910-335-70f7 910-335-7720
+[x:0.34, y:0.30, caps:0.09] Sender Number of Pages (this page included)
+[x:0.34, y:0.33, caps:0.15] Charies Duggan 2
+[x:0.34, y:0.36, caps:0.19] Sender Voice Number Main Fax Operator Voice Number
+[x:0.34, y:0.39, caps:0.00] 212-450-4785
+[x:0.34, y:0.41, caps:0.17] Sender Fax Number Reference
+[x:0.34, y:0.44, caps:0.00] 212-450-5578 17560-188
+[x:0.04, y:0.46, caps:0.14] Message:
+[x:0.95, y:0.85, caps:0.00] 83823750

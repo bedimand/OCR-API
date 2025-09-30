@@ -1,0 +1,36 @@
+[x:0.00, y:0.06, caps:0.76] TO: K. A. Sparrow SUBMISSION DATE
+[x:0.00, y:0.09, caps:0.78] FROM: R. E. Lane JUNE 30 x SEP 22
+[x:0.60, y:0.12, caps:1.00] AUG 11 NOV 10
+[x:0.00, y:0.15, caps:1.00] SUBJECT: STYLE LOW PRICE - PROGRESS REPORT
+[x:0.31, y:0.18, caps:0.62] EFEECTIVENESS OF: Transition PIan
+[x:0.00, y:0.20, caps:0.12] (Report on June 30 only)
+[x:0.00, y:0.21, caps:0.12] PRE-SELL Overall pre-sell efforts were successful. Retall accounts that previously stocked
+[x:0.00, y:0.23, caps:0.06] Style Full Price accepted the introduction of the low price.
+[x:0.00, y:0.27, caps:0.15] BIGIF / 2 FOR 1: Proved to be an excellent tool for pulling the balance of Style Full Price packs through
+[x:0.00, y:0.29, caps:0.02] the system. This aided the field greatly during the transition.
+[x:0.00, y:0.33, caps:0.25] $7.00 CARTON COUPON/BUYDOWN: Effective in those retail calls that we could not exchange product out of.
+[x:0.00, y:0.35, caps:0.04] Those situations were limited.
+[x:0.17, y:0.40, caps:1.00] DISTRIBUTION
+[x:0.00, y:0.41, caps:1.00] DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION
+[x:0.00, y:0.43, caps:1.00] (15 + STORES) STOCKING NO LOW PRICE STYLE
+[x:0.24, y:0.46, caps:1.00] IND/LOR NO. OF IND/LOR NO. OF
+[x:0.02, y:0.47, caps:1.00] NAME OF ACCOUNT VOLUME STORES NAME OF ACCOUNT VOLUME STORES
+[x:0.00, y:0.50, caps:0.27] M. Maskos & Sons
+[x:0.00, y:0.51, caps:0.15] Pollock Candy and Cigar
+[x:0.00, y:0.53, caps:0.24] McKeesport Candy Co.
+[x:0.00, y:0.55, caps:0.22] Sico Serve 104/22 18
+[x:0.00, y:0.56, caps:0.17] Sheetz 521/42 150
+[x:0.00, y:0.58, caps:0.17] Thrift/Eckerd 137/20 183
+[x:0.00, y:0.66, caps:1.00] DIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION
+[x:0.00, y:0.68, caps:1.00] (15 + STORES) STOCKING NO LOW PRICE STYLE
+[x:0.24, y:0.71, caps:1.00] IND/LOR NO. OF IND/LOR NO. OF
+[x:0.03, y:0.72, caps:1.00] NAME OF ACCOUNT VOLUME STORES NAME OF ACCOUNT VOLUME STORES
+[x:0.00, y:0.74, caps:0.17] Kroger 21
+[x:0.00, y:0.76, caps:0.29] Rich Oil 82
+[x:0.00, y:0.77, caps:0.17] Super America 106
+[x:0.00, y:0.79, caps:0.33] cVs 87
+[x:0.00, y:0.81, caps:0.43] W H Smith 5
+[x:0.00, y:0.82, caps:0.33] 7-11 318 Zon 22
+[x:0.00, y:0.84, caps:0.20] Dairy Marts 35
+[x:0.00, y:0.86, caps:0.18] Widman Drugs 43
+[x:0.06, y:0.98, caps:0.53] STYLE.XLS Page1 of 3 Pages

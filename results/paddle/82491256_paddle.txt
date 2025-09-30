@@ -1,0 +1,19 @@
+[x:0.42, y:0.10, caps:1.00] CASE FORM
+[x:0.10, y:0.13, caps:0.24] CASE NAME: Wanda G. Robinson and Carroll Robinson v. Raybestos-Manhattan, et al.
+[x:0.10, y:0.15, caps:0.31] COURT: San Francisco Superior Court - No. 996378
+[x:0.10, y:0.19, caps:1.00] LORILLARD
+[x:0.10, y:0.20, caps:0.35] ENTITIES: Lorillard Tobacco Company
+[x:0.10, y:0.23, caps:0.77] DATE FILED: July 23, 1998
+[x:0.10, y:0.27, caps:0.69] DATE SERVED: August 3, 1998
+[x:0.10, y:0.30, caps:0.56] CASE TYPE: Asbestos
+[x:0.09, y:0.33, caps:1.00] PLAINTIFF'S
+[x:0.09, y:0.34, caps:0.29] COUNSEL: Wartnick, Chaber, Harowitz, Smith& Tigerman
+[x:0.29, y:0.36, caps:0.21] Madelyn J. Chaber
+[x:0.28, y:0.37, caps:0.14] 101 California Street, Suite 2200
+[x:0.28, y:0.39, caps:0.14] San Francisco, California 94111
+[x:0.28, y:0.40, caps:0.00] 415/986-5566
+[x:0.10, y:0.44, caps:1.00] LORILLARD
+[x:0.09, y:0.45, caps:1.00] COUNSEL:
+[x:0.09, y:0.48, caps:1.00] JUDGE:
+[x:0.09, y:0.51, caps:1.00] TRIAL DATE:
+[x:0.83, y:0.81, caps:0.00] 82491256 94624999

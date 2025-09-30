@@ -1,0 +1,36 @@
+[x:0.04, y:0.01, caps:1.00] RJRT REQUEST FOR CBANOE
+[x:0.32, y:0.02, caps:1.00] F-1001 7 /88 RFC 880029
+[x:0.04, y:0.05, caps:0.40] ORIGINATOR Name: Dan Straka Date Prepared Page Dato
+[x:0.58, y:0.07, caps:0.00] 0-17-88_ of_1 8-17-88
+[x:0.04, y:0.08, caps:0.17] PobItion Tolephone Received Hargh
+[x:0.60, y:0.10, caps:0.00] 5398
+[x:0.04, y:0.11, caps:0.17] Department Name and Locat Lon Change Order Number 266032
+[x:0.12, y:0.13, caps:0.25] 611-13_Jrd_ Floor
+[x:0.04, y:0.15, caps:0.14] Brand /Aapembly /Materfal Affectod
+[x:0.05, y:0.16, caps:0.26] Glaee Hat and 81It C14be Hat
+[x:0.04, y:0.18, caps:0.10] Txpe change
+[x:0.10, y:0.21, caps:0.19] Addtion DetIgn Spoc Cbange Enorgoncy
+[x:0.10, y:0.22, caps:0.22] Dolat Lon CorpatLblt] Cost_ReductLon Urgent
+[x:0.10, y:0.23, caps:0.15] Chunge HapufacturabLIit] otber Routino
+[x:0.04, y:0.27, caps:0.13] DoscrIptlon Tho current 01 Problen "pecL{IcatIone for 91488 pat and OLIt 91488 mat can be made more accurate
+[x:0.08, y:0.30, caps:0.03] and complete uIth the f0llouing changen }
+[x:0.08, y:0.33, caps:0.23] G1480 Hat' Dolete C-91a88 from Ited doucrIptLon
+[x:0.27, y:0.34, caps:0.09] Change 914r8 gOftonLng polnt to 756 +/- 10 dogreee from 750 .
+[x:0.27, y:0.36, caps:0.12] Change rollo Per Pallet froa
+[x:0.08, y:0.39, caps:0.21] s1It Glabe Hat, Delete C-glaee Irom Itom dencrIpt Ion
+[x:0.27, y:0.41, caps:0.12] Change bobbIne Por etack frod 45 _
+[x:0.27, y:0.42, caps:0.07] Add oute[do dlaneter epece 30.0, 26.0 31.0 Inches _
+[x:0.04, y:0.53, caps:0.12] Propored Bolutlon
+[x:0.08, y:0.54, caps:0.17] Change the curront KSS epocLfIcat Lone outlIned above .
+[x:0.94, y:0.58, caps:0.00] 1
+[x:0.94, y:0.64, caps:0.00] 3
+[x:0.29, y:0.72, caps:0.17] Signature Title Date
+[x:0.07, y:0.74, caps:0.10] Acceptod {or
+[x:0.07, y:0.76, caps:0.15] InvostIgation
+[x:0.05, y:0.79, caps:0.43] Final DitporItLon Approvad Rojected SPEC HOUBER DATE
+[x:0.04, y:0.80, caps:0.20] Action Taken Reaoon for RejectIon 2-I7-8
+[x:0.67, y:0.83, caps:1.00] EROSUCTREYIEW COHMITTEE)
+[x:0.68, y:0.84, caps:0.75] KA Ka
+[x:0.41, y:0.89, caps:0.57] Propobod Ef fect ive Date: PRODUCA AYCEPTANCE Dm {pleg COHHITTEE
+[x:0.72, y:0.90, caps:0.00] paigy
+[x:0.42, y:0.92, caps:0.00] 9/sls

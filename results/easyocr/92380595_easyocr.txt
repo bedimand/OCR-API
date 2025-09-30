@@ -1,0 +1,41 @@
+[x:0.37, y:0.04, caps:0.12] Executive Otiices
+[x:0.20, y:0.06, caps:1.00] GULF + WESTI PLAZA NEW YOAK; NEW YOAK 23-7773
+[x:0.38, y:0.07, caps:0.00] (212) 373-7500
+[x:0.16, y:0.09, caps:1.00] PRENTICE HALL CORPORATE SERVICES
+[x:0.03, y:0.12, caps:0.15] United States Carporation Company The Prentice-Hall Corparaticn System, Inc_
+[x:0.03, y:0.15, caps:0.50] DATE: 12-13-89 Received TX 13751
+[x:0.04, y:0.18, caps:1.00] TO: LORILLARD PARK AVENUE INC . 18TH DEC 4 89
+[x:0.11, y:0.20, caps:1.00] ONE
+[x:0.11, y:0.21, caps:0.98] NEW YORK , R ARTHUR  STEVENS 10016 ESQ.A. J: STEVENS MoTOR CARRIER
+[x:0.11, y:0.23, caps:1.00] ATTN: MR . OR
+[x:0.56, y:0.25, caps:1.00] STATUTORY
+[x:0.11, y:0.27, caps:0.68] LORILLARD , INC . Account 033052
+[x:0.04, y:0.28, caps:0.00] re:
+[x:0.20, y:0.30, caps:0.11] (Represented Company)
+[x:0.30, y:0.32, caps:0.50] [ouc Q 5E QE PRocEss
+[x:0.07, y:0.34, caps:0.02] We enclose the following documents which were served pon:
+[x:0.17, y:0.35, caps:1.00] UNITED STATES CORPORATION COMPANY IN TEXAS
+[x:0.05, y:0.38, caps:0.02] as registered agent for the above-captioned corporation on_L2-13-89 via:
+[x:0.17, y:0.40, caps:0.14] Personal Service Mail: Regular Certitied Certified
+[x:0.09, y:0.43, caps:0.09] Summons selt-addressed stampec Notice of Mechanic 5 Lien
+[x:0.09, y:0.45, caps:0.08] Complaint envelope enclosed Noiice of Delault Jucgment
+[x:0.09, y:0.47, caps:0.08] Duplicate copies of the Notice and Garnishment Subpoena
+[x:0.09, y:0.49, caps:0.10] Acknowledgement enclosed Nctice ol Artomey $ Lien
+[x:0.09, y:0.50, caps:0.89] Other: CITATION A EIRST ORIGINAL PETITION
+[x:0.04, y:0.56, caps:0.87] TITLE OF ACTION: LEBSTER CRECC Case No. 55,592
+[x:0.17, y:0.59, caps:1.00] RENOLDS TOBACCO COPANY ,
+[x:0.04, y:0.63, caps:0.48] COUAT OR JURISDICTION 345th_Judiclal District Court Travis CounEY ,
+[x:0.18, y:0.64, caps:0.03] Honday next 20 days from date gervice
+[x:0.04, y:0.66, caps:1.00] RETURN DATE
+[x:0.07, y:0.67, caps:0.17] Call Placed Direct Collect Spoke Agent called New York Otfice
+[x:0.04, y:0.70, caps:1.00] COMMENTS:
+[x:0.04, y:0.74, caps:0.68] ATTORNEYS FOR CLAIMANT Hary Eflen Felps
+[x:0.27, y:0.75, caps:0.38] IUUu weTse Lite
+[x:0.28, y:0.77, caps:0.33] usEiD, 7870r
+[x:0.61, y:0.79, caps:0.50] Fib7E478-4873
+[x:0.04, y:0.82, caps:0.84] PAPERS TRANSMITTED TO CLIENT Other Form PREPARED BY 1
+[x:0.04, y:0.84, caps:0.67] Fed-X Aeg: Mail PAT HIGGINS
+[x:0.04, y:0.87, caps:0.80] PLEASE ACKNOWLEDGE Receipt OF This NOTICE AND THe ENcLOsurES By SIGNING AND RETURNING HIE
+[x:0.04, y:0.89, caps:0.92] JUPLICATE COPY BUSINESS REPLY ENVELOPE IS ENCLOSED For Your CONVENIENCE
+[x:0.04, y:0.92, caps:0.17] Jale Received: Signed:
+[x:0.43, y:0.94, caps:1.00] ORIGINAL

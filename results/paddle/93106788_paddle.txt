@@ -1,0 +1,36 @@
+[x:0.36, y:0.03, caps:1.00] LORILLARD MEDIA SERVICES
+[x:0.26, y:0.05, caps:1.00] ONE PARK AVENUE, NEW YORK, NY 10016-5896
+[x:0.36, y:0.09, caps:1.00] MAGAZINE INSERTION ORDER
+[x:0.10, y:0.16, caps:1.00] TO: ESSENCE DATE: MARCH 17, 1995
+[x:0.18, y:0.18, caps:1.00] 1500 BROADWAY
+[x:0.18, y:0.20, caps:1.00] NEW YORK, NY 10036 ADVERTISER: LORILLAAD
+[x:0.18, y:0.22, caps:1.00] ATTN: JOYCE WINSTON
+[x:0.65, y:0.24, caps:1.00] PRODUCT: NEWPORT
+[x:0.09, y:0.28, caps:1.00] THIS ADVERTISEMENT COMPLIES WITH THE FTC RECUIREMENT FOR A WARNING STATEMENT AND TAR* AND NICOTINE LINE
+[x:0.09, y:0.30, caps:1.00] WHICH MUST APPEAR IN ALL CIGARETTE ADVERTISING. CHECK MATERIAL YOU RECEIVE AGAINST THE PROOF TO SE SURE IT IS
+[x:0.09, y:0.33, caps:1.00] APPROVAL FROM LORILLARD MEDIA SERVICES.
+[x:0.09, y:0.36, caps:1.00] AD#: CAPTION: SPACE: DATE:
+[x:0.09, y:0.40, caps:1.00] NPT-533-7 FOUNTAIN COUPLE P5CB JUNE 1995
+[x:0.09, y:0.45, caps:1.00] PO #7219
+[x:0.09, y:0.48, caps:1.00] IF UNABLE TO INSERT ON THE DATE ORDERED, KINDLY NOTIFY US AT ONCE AND WAIT FOR NEW INSERTION DATE. NO CREDIT
+[x:0.09, y:0.50, caps:1.00] CAN BE ALLOWED SHOULD THIS ADVERTISEMENT APPEAR INCORRECTLY OR ON A DATE OTHER THAN THAT AUTHORIZED.
+[x:0.09, y:0.52, caps:1.00] POSITION URGENTLY REQUESTED:
+[x:0.09, y:0.56, caps:1.00] FAR FORWARD, OPPOSITE FULL EDITORIAL
+[x:0.09, y:0.59, caps:0.03] - No coupon ad on backing page. - Maintain at least six page separaticn from competitive ads.
+[x:0.09, y:0.61, caps:0.01] - No editorial/advertising matter antithetical to cigarettes within 6 pages of our ad.
+[x:0.09, y:0.63, caps:0.83] COPY INSTAUCTIONS: SURGECN GENERAL'S WARNING: Cigarette
+[x:0.62, y:0.65, caps:0.15] Smoke Contains Carbon Monoxide.
+[x:0.09, y:0.66, caps:1.00] 5 COLOR PROOF ATTACHED, FILM FROM COLLIER WITH *D' WARNING
+[x:0.09, y:0.69, caps:1.00] IMPORTANT INSTRUCTIONS: SPACE BILLING INSTRUCTIONS:
+[x:0.09, y:0.73, caps:0.05] A. Check material carefully against proof This space is being ordered by:
+[x:0.12, y:0.74, caps:0.00] to make sure it corresponds in every
+[x:0.12, y:0.75, caps:0.76] respect. LORILLARD MEDIA SERVICES
+[x:0.09, y:0.77, caps:0.05] B. Please inspect repro matorial immeciately.
+[x:0.12, y:0.78, caps:0.03] They should produce good printin results. Direct all invoices and full checking copies
+[x:0.12, y:0.79, caps:0.01] Advise us promptly if not satisfactory. of all regional and national editions to:
+[x:0.09, y:0.81, caps:0.58] C. Poor printing will net be paid for ONE PARK AVENUE LORILLARD MECIA SERVICES
+[x:0.09, y:0.83, caps:0.21] D. Advise us at once if instructions are not 17TH FLOOR 93106788
+[x:0.12, y:0.85, caps:0.85] clear. NEW YORK, NEW YORK 10016-5896 ATTN: STEVE MOLLOY
+[x:0.09, y:0.88, caps:0.06] E. Under no cireumstances are you to space
+[x:0.12, y:0.89, caps:0.00] out our advertisement without specific
+[x:0.12, y:0.90, caps:0.00] instructicns from us.

@@ -1,0 +1,49 @@
+[x:0.08, y:0.08, caps:0.27] Fobtinan 10:83 FrorHaTon WIL wate , ai
+[x:0.37, y:0.11, caps:1.00] TELECOPY INFORMATION
+[x:0.39, y:0.14, caps:1.00] HUNTON & WILLIAMS
+[x:0.42, y:0.16, caps:0.13] Riveriront Plaza
+[x:0.40, y:0.17, caps:0.19] 951 East Byrd Street Telecopier Nos.
+[x:0.36, y:0.19, caps:0.12] Richmond, Virginia 23219-4074 (204)788-8218
+[x:0.42, y:0.20, caps:0.00] (804)788-8200 (604)788-8219
+[x:0.40, y:0.21, caps:0.12] 2nd Floor Telecopier (804)788-8669
+[x:0.14, y:0.25, caps:0.50] To:
+[x:0.13, y:0.26, caps:0.21] Name: Ken Forrest
+[x:0.19, y:0.28, caps:1.00] FAXNO: = 212-403-2211
+[x:0.14, y:0.29, caps:0.19] Name: Tom Frederick
+[x:0.18, y:0.31, caps:1.00] FAXNO.: 312-658-5700
+[x:0.14, y:0.32, caps:0.21] Name: Tom Griffin
+[x:0.18, y:0.34, caps:1.00] FAXNO: 617-523-1231
+[x:0.13, y:0.35, caps:0.20] Name: Even Hurwitz
+[x:0.19, y:0.37, caps:1.00] FAXNO,: = 202-942-5999
+[x:0.13, y:0.38, caps:0.22] Name: Barry Levin/Curt Caton
+[x:0.19, y:0.40, caps:1.00] FAXNQ: = 415-772-6268
+[x:0.13, y:0.41, caps:0.17] Name: Barbara Robbins
+[x:0.19, y:0.44, caps:1.00] FAXNO.: 212-403-2033
+[x:0.13, y:0.45, caps:0.24] Name: Greg Stone/Ron Olson
+[x:0.18, y:0.46, caps:1.00] FAXNO; © 213-687-3702
+[x:0.13, y:0.48, caps:0.20] Name: Bill Alinder/Jeff Neison
+[x:0.18, y:0.49, caps:1.00] FAXNO: — 816-421-2708
+[x:0.13, y:0.51, caps:0.12] Name: Steve krigbaum
+[x:0.18, y:0.53, caps:1.00] FAXNO; 917-663-5593
+[x:0.13, y:0.55, caps:0.21] Name: ‘Tom Stoever
+[x:0.18, y:0.56, caps:1.00] FAXNO.: 303-832-0428
+[x:0.13, y:0.58, caps:0.19] Name: Judy Berstein-Gasta
+[x:0.18, y:0.59, caps:1.00] FAXNO.:; 202-042-5999
+[x:0.13, y:0.60, caps:0.23] Name: Dal Burton
+[x:0.18, y:0.62, caps:1.00] FAXNO.: 404-881-8330
+[x:0.12, y:0.64, caps:0.29] Name: Andy McGaan
+[x:0.18, y:0.66, caps:1.00] FAXNO.: 312-861-2200
+[x:0.12, y:0.66, caps:0.20] Name: James Wilson
+[x:0.18, y:0.69, caps:1.00] FAXNO.: 338-335-7707
+[x:0.13, y:0.70, caps:0.19] Name: Eric Sarner/Doug Flemming!
+[x:0.31, y:0.72, caps:0.25] Peter McKenna
+[x:0.18, y:0.73, caps:1.00] FAXNO: — 212-735-2000
+[x:0.12, y:0.74, caps:0.25] Name: ‘Thomas MekKim
+[x:0.18, y:0.76, caps:1.00] FAXNO: © 336-741-0871
+[x:0.13, y:0.77, caps:0.29] Name: D. Scatt Wise
+[x:0.18, y:0.79, caps:1.00] FAXNO; — 212-450-4800 @
+[x:0.34, y:0.82, caps:0.19] —H:_ Pages (Including Cover) a
+[x:0.88, y:0.86, caps:0.00] zo
+[x:0.30, y:0.86, caps:0.17] Original to follow in mail: C] Yes No So
+[x:0.89, y:0.88, caps:0.00] =
+[x:0.89, y:0.90, caps:0.33] Ney

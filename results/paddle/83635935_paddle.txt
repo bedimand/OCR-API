@@ -1,0 +1,15 @@
+[x:0.09, y:0.02, caps:0.91] Jun 25 '97 B2:BRPM LOEWS CORP LEGAL P.1/6
+[x:0.43, y:0.13, caps:1.00] CCORPORATION LOEWS
+[x:0.20, y:0.16, caps:0.28] 867 Madison Avenue, New York, N.Y. 10021-8087 (212) 545-2920 Fax (212) 935-6801
+[x:0.07, y:0.22, caps:1.00] BARAY HIRSCH
+[x:0.07, y:0.23, caps:0.16] Senior Vice President
+[x:0.07, y:0.25, caps:0.23] Sacretary & General Counsal EAX
+[x:0.41, y:0.28, caps:1.00] CONEIDENTIAL
+[x:0.08, y:0.33, caps:0.62] DATE: June 4, 1997
+[x:0.08, y:0.37, caps:0.32] TO: Dr. Spears/A.J. Stevens/R. Milstein
+[x:0.07, y:0.40, caps:0.40] FROM: Barry Hirsch
+[x:0.07, y:0.44, caps:1.00] TOTAL NUMBER OF PAGES INCLUDING THIS COVER SHEET - 6
+[x:0.10, y:0.46, caps:1.00] IF YOU DO NOT RECEIVE ALL THE PAGES, PLEASE CALL
+[x:0.10, y:0.48, caps:1.00] CAROL DOKTORSKI AT (212) 545-2934.
+[x:0.10, y:0.52, caps:1.00] OUR FAX NUMBER IS (212) 935-6801.
+[x:0.08, y:0.82, caps:1.00] POSTAL SERVICE. THOANK YOU. 83635935

@@ -1,0 +1,7 @@
+[x:0.27, y:0.03, caps:1.00] MEDIA CONTACT SHEET
+[x:0.01, y:0.11, caps:0.06] (Publication or station) (Location/address)
+[x:0.01, y:0.14, caps:0.17] (Name) (Position)
+[x:0.00, y:0.18, caps:0.13] (Date) (Phone number)
+[x:0.00, y:0.22, caps:0.12] Reason for Contact
+[x:0.01, y:0.40, caps:0.11] Questions/Responses
+[x:0.00, y:0.70, caps:0.11] Additional Comments 85540866

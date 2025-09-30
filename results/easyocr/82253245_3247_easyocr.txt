@@ -1,0 +1,33 @@
+[x:0.05, y:0.10, caps:0.70] To: Sparfow SUBMISSION DATE
+[x:0.05, y:0.12, caps:0.80] FROM: Lane JUNE SEP 22
+[x:0.57, y:0.15, caps:1.00] AUG 11 NOV 10
+[x:0.05, y:0.18, caps:1.00] SUBJECT: SIYLELQW PRICE PROCRES: REPORI
+[x:0.32, y:0.21, caps:0.59] EFFECTIVENESS OF: Iransltion Plan.
+[x:0.05, y:0.22, caps:0.06] (Repoit onduna only)
+[x:0.05, y:0.24, caps:0.12] PRE-SELL Overall pre-sell emorts wefe successiul;, Relal acccunts ihat prevlously stocked
+[x:0.05, y:0.25, caps:0.08] Style Full Prlce accepted the Introducticn of the lovt price:
+[x:0.05, y:0.29, caps:0.16] BIGIF / 2 FOR 1: Proved to be an excellent Hodi for pulling the balance Style Full Price pecks through _
+[x:0.05, y:0.31, caps:0.02] the syatem Thls alded the fleld grcatly dujing the tansition
+[x:0.05, y:0.35, caps:0.28] 57.00 CARTON COUPONIBUYDOWN: Effective those rotail callethat Wo could not oxchange product out o
+[x:0.05, y:0.37, caps:0.08] Those situations were Iimited
+[x:0.19, y:0.41, caps:1.00] DIISTRIBUTION:
+[x:0.05, y:0.42, caps:0.96] DIRECIAcCQuIS AND CHAINS HEADQUARTEREDWTHNTHE REGION
+[x:0.05, y:0.44, caps:1.00] L15 SITQRES) ETOCKINGNOLOWPRICE STYLE
+[x:0.25, y:0.46, caps:0.95] INDILOR No. OF INDILOR NO" OF
+[x:0.07, y:0.48, caps:0.96] NAME QF CcoUNT VOLUME STORES NAME OF ACCOUNT VOLUME STORES
+[x:0.05, y:0.50, caps:0.27] UMaskos Sons
+[x:0.05, y:0.51, caps:0.15] Pollock Candy and Ciqar
+[x:0.05, y:0.53, caps:0.24] McKeesport Candy Co
+[x:0.05, y:0.55, caps:0.22] Slco Scrve 104/22
+[x:0.05, y:0.56, caps:0.20] Sncen 521/42
+[x:0.05, y:0.58, caps:0.40] ThIUEckerd 137420
+[x:0.05, y:0.66, caps:1.00] DIRECL ACCQUNTS AND CHAINS HEADQUARIERED QUTSIDE THE REGION
+[x:0.05, y:0.67, caps:1.00] L15 + ETQRESL STOCKINGNQLOW PRICE STYLE
+[x:0.25, y:0.69, caps:1.00] INDILOR NO: OF INDILOR NO.
+[x:0.07, y:0.71, caps:1.00] NAME OF ACCQUNI VOLUME STORES NAME QF ACCOUNT VOLUME STORES
+[x:0.05, y:0.73, caps:0.17] Kroger
+[x:0.05, y:0.74, caps:0.29] Rich Qil
+[x:0.05, y:0.76, caps:0.17] Super America
+[x:0.05, y:0.78, caps:0.19] Daumun Drugs Smith 35 1
+[x:0.05, y:0.81, caps:0.33] 711 318 Zon
+[x:0.10, y:0.94, caps:0.26] styleXLS Paga1 of 3 Pages

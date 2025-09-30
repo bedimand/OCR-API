@@ -1,0 +1,35 @@
+[x:0.28, y:0.01, caps:0.14] The Commonuealth of Massachusetts Office Use Only
+[x:0.27, y:0.05, caps:1.00] OFFICE OF CAMPAIGN AND POLITICAL FINANCE
+[x:0.20, y:0.09, caps:1.00] REPORT OF
+[x:0.14, y:0.10, caps:0.88] CORPORATE TREASURER Form CPF 22
+[x:0.07, y:0.12, caps:0.21] File with: Director, Rx (formerly CPF 10)
+[x:0.15, y:0.15, caps:0.30] Office of Campaign & Political Finance (CHECK ONE)
+[x:0.15, y:0.17, caps:0.20] One Ashburton Place, Boston, MA 02108 60th Day Prior to Election
+[x:0.77, y:0.18, caps:0.19] Sth Day of the Month
+[x:0.11, y:0.20, caps:0.12] Please Print or Type, except Signatures. 20th Day of the Month
+[x:0.77, y:0.21, caps:0.20] Final
+[x:0.07, y:0.23, caps:0.16] 1. Name of Treasurer M. Alfred Peterson; Assistant Treasure:: Peter J. Marzullo
+[x:0.07, y:0.26, caps:0.12] 2Name of Corporation. Lorillard Tobacco Company
+[x:0.07, y:0.28, caps:0.15] Address of Corporation One Park Avenue
+[x:0.29, y:0.31, caps:0.44] New York, NY 10016-5895
+[x:0.07, y:0.34, caps:0.14] 4Question No. 1 relating to _ Tobacco Excise Tax Increase
+[x:0.59, y:0.37, caps:0.04] (Describe question briefly)
+[x:0.07, y:0.38, caps:0.04] submitted to the voters on November 3, 1982the_ Massachusetts ballot.
+[x:0.30, y:0.41, caps:0.18] (Election Date) (Name of City/Town or State)*
+[x:0.07, y:0.43, caps:0.02] * Note: If this expenditure is made to influence a local ballot question, a copy of this form should be filed with the city or
+[x:0.14, y:0.45, caps:0.00] town clerk or election commission.
+[x:0.10, y:0.48, caps:0.14] Fill in Dates: Reporting Period Beginning October 16,_1992and Ending November5,_1992
+[x:0.07, y:0.50, caps:0.01] I certify that this report is a true statement of the amount or value of every gift, payment, expenditure or contribution or
+[x:0.07, y:0.52, caps:0.00] promise to give, pay, expend or contribute, together with the date, purpose, and full name and address of the person to whom
+[x:0.07, y:0.54, caps:0.06] it was made. I make this report in accordance with the requirements of Mass. General Laws, Chapter 55, Section 22, as amended.
+[x:0.07, y:0.56, caps:0.03] Signed,under the penalties of perjury.
+[x:0.11, y:0.59, caps:0.15] elImuald March 30, 1993
+[x:0.07, y:0.61, caps:0.14] Freasurer Signature - Date
+[x:0.07, y:0.62, caps:0.64] Assistant Treasurer EXPENDITURES OR DISBURSEMENTS
+[x:0.11, y:0.66, caps:0.25] Date To Whom Paid Amount
+[x:0.10, y:0.67, caps:0.13] Paid (Alphabetical Listing Mandatory) Address Purpose or Value**
+[x:0.09, y:0.69, caps:0.21] 10/26/92 Comaittee Against Unfair Taves P.O. Box 5979, Boston, MA 02114 Tax increase Oppose 28,482.00
+[x:0.09, y:0.72, caps:0.27] 10/30/92 Committee Against Unfair Taxes P.O. BoX 5979, BoSton, MA 02114 Tax Increas Oppose 19, 603.00
+[x:0.52, y:0.92, caps:0.11] Total Expenditures or Disbursements on This Report 48, 085.00
+[x:0.08, y:0.95, caps:0.07] • In-kind contributions should be included here. Total Expenditures or Disbursements Previously Reported 508, 789.00
+[x:0.09, y:0.96, caps:0.07] Attach additional pages if necessary. Total Expenditures or Disbursements to Date 556, 874.00

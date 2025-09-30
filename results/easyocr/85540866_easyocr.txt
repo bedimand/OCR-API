@@ -1,0 +1,9 @@
+[x:0.30, y:0.09, caps:1.00] MEDIA CONTACT SHEET
+[x:0.07, y:0.15, caps:0.06] (Publlcatlon or statlon) (Locallon/address)
+[x:0.07, y:0.19, caps:0.17] (Name) (Positlon)
+[x:0.07, y:0.23, caps:0.13] (Date) (Phone number)
+[x:0.07, y:0.26, caps:0.12] Reason tor Contact
+[x:0.07, y:0.42, caps:0.11] Questions/Responses
+[x:0.07, y:0.71, caps:0.11] Additional Comments 1
+[x:0.07, y:0.95, caps:0.06] Inquiry handled by:
+[x:0.27, y:0.97, caps:0.25] (Name)

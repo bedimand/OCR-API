@@ -1,0 +1,27 @@
+[x:0.05, y:0.06, caps:1.00] CREATIVE INPUT DOCUMENT
+[x:0.08, y:0.12, caps:1.00] SPECIFICS
+[x:0.05, y:0.15, caps:0.30] Date/Time: 10/30/98 1:46 PM Client Name:
+[x:0.05, y:0.17, caps:0.18] Prepared By: Matter Number:
+[x:0.05, y:0.20, caps:0.14] Milestone Presentation Date: Project Title:
+[x:0.05, y:0.22, caps:0.14] Estimated Creative Budget: Est. Production Budget:
+[x:0.05, y:0.24, caps:0.14] Concept: Execution: Media:
+[x:0.07, y:0.28, caps:1.00] OBJECTIVE
+[x:0.05, y:0.31, caps:0.05] Why are we advertising?
+[x:0.05, y:0.33, caps:0.05] What do we plan to achieve?
+[x:0.11, y:0.35, caps:0.11] Retationship-Building Retention Acquisition Loyalty
+[x:0.11, y:0.36, caps:0.17] Competitive Blocking Cross-Sell Up-Sell Lead Generation
+[x:0.11, y:0.38, caps:0.17] New Product/Package Intro. Direct Sale Awareness Trial
+[x:0.10, y:0.39, caps:0.15] Change Image Perception Other
+[x:0.09, y:0.43, caps:1.00] TARGET
+[x:0.05, y:0.46, caps:0.06] To whom are we talking?
+[x:0.04, y:0.48, caps:0.03] Who is the primary target? Is there a secondary target? What is their relationship to the brand, and what do they currently think about it?
+[x:0.07, y:0.55, caps:1.00] COMMUNICATION PLATFORM
+[x:0.04, y:0.58, caps:0.02] What is the single most important message/idea we are trying to communicate?
+[x:0.04, y:0.60, caps:0.02] What is the unique selling position that wit help us achieve our advertising goal? Are there any secondary messages?
+[x:0.05, y:0.65, caps:0.03] What is the key benefit to the target?
+[x:0.04, y:0.67, caps:0.05] What's in it for the reader?
+[x:0.05, y:0.72, caps:0.04] Is there an offer/call to action?
+[x:0.05, y:0.73, caps:0.02] What are we offerting the target to persuade him/her to act now? (A prernium, sweepstakes, limited-time offer, free information, or something else?)
+[x:0.05, y:0.78, caps:0.03] What would we like our target to think?
+[x:0.05, y:0.80, caps:0.02] What would our target say after being exposed to our program?
+[x:0.03, y:0.89, caps:0.07] c:\my documents\wp\sample cid.doc 1 of 2 86079776 10/30/98 01:46 PM

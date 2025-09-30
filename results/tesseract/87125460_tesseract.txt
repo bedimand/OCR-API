@@ -1,0 +1,25 @@
+[x:0.70, y:0.06, caps:1.00] INE
+[x:0.69, y:0.07, caps:1.00] NESEIVER
+[x:0.35, y:0.10, caps:0.80] PIWAL REPORT AMENDMENT ' estar!
+[x:0.10, y:0.16, caps:0.30] STUDY NAME_tnduction of Hepatic Enzymes in Rats (5202) ° "~~ 7
+[x:0.11, y:0.18, caps:1.00] STUDY NUMBER 1-7016.401 : .
+[x:0.11, y:0.21, caps:0.72] INITIATION DATEOctober 27, 1986 DATE OF FINAL REPORT February 26, 1987
+[x:0.11, y:0.24, caps:1.00] PART OF FINAL REPORT TO BE AMENDED (EXACT LOCATION) .
+[x:0.10, y:0.26, caps:0.00] a
+[x:0.10, y:0.35, caps:0.00] a
+[x:0.10, y:0.38, caps:0.00] a
+[x:0.10, y:0.41, caps:0.50] Sa
+[x:0.11, y:0.44, caps:0.00] eo
+[x:0.11, y:0.45, caps:0.27] AMENDMENT (Attach additional sheets as necessary) FS
+[x:0.11, y:0.53, caps:0.00] eo
+[x:0.11, y:0.56, caps:0.00] eo
+[x:0.11, y:0.62, caps:0.00] a
+[x:0.59, y:0.67, caps:0.00] /
+[x:0.11, y:0.68, caps:0.90] APPROVALS y . ' 2
+[x:0.22, y:0.70, caps:0.33] O re
+[x:0.14, y:0.70, caps:0.08] g/t 29 {hoo nro’ —D) an. ny
+[x:0.11, y:0.73, caps:0.94] DAT STUpY DIRECTAR FY
+[x:0.61, y:0.74, caps:0.50] OG ay
+[x:0.89, y:0.76, caps:0.00] g
+[x:0.11, y:0.77, caps:0.20] o8)nj 8? aT
+[x:0.11, y:0.82, caps:1.00] DATE QUALITY ASSURANCE

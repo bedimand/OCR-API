@@ -1,0 +1,43 @@
+[x:0.03, y:0.00, caps:0.80] nant REQUEST FOR CRANOE
+[x:0.32, y:0.03, caps:0.00] pei001 7/68 re 960029
+[x:0.55, y:0.05, caps:0.07] papeaneee, Pots | en17-00_
+[x:0.04, y:0.06, caps:0.36] aaTSHNATON Wawos Dan Bera Dave Prepared Fae Jouve
+[x:0.04, y:0.08, caps:0.18] peetetes Jr tepone Bs Receives By D. Marah
+[x:0.04, y:0.10, caps:0.10] separtment Wane apd Loeetion range Seder Womber
+[x:0.60, y:0.10, caps:0.00] 3398,
+[x:0.13, y:0.12, caps:0.13] e1ini3_3¢4 Fleer Leccos?
+[x:0.04, y:0.13, caps:0.14] Brand[Ranenbiy Material Atfocted
+[x:0.04, y:0.17, caps:0.17] Polaee Mat and slit Clase Nat,
+[x:0.05, y:0.21, caps:0.00] __ naateton __ design spec change __ bersecr
+[x:0.05, y:0.21, caps:0.08] = peletion Compatibity Cost Reduction = urgent
+[x:0.05, y:0.24, caps:0.15] =X change = Manufacturabinity "X_ other TX Routine
+[x:0.04, y:0.27, caps:0.10] [Description of Problem
+[x:0.08, y:0.28, caps:0.01] The current specifications for glass mat and slit glass mat can be made more accurate
+[x:0.08, y:0.30, caps:0.00] and complete with the following changes!
+[x:0.08, y:0.33, caps:0.02] Giese nats delete coplass from itea description.
+[x:0.27, y:0.34, caps:0.03] Change glass softening poine to 756 +/~ 10 degrees fron 750.
+[x:0.27, y:0.36, caps:0.04] Change rolls per pallet to 2 from 1.
+[x:0.08, y:0.39, caps:0.12] Slit Glass Mat: Delete C-glass from item description.
+[x:0.27, y:0.41, caps:0.04] Change bobbing per stack te 47 frow 45.
+[x:0.27, y:0.42, caps:0.06] fad Suteide dlanater spece of 30-0, 26.0 ~ 31.0 Anches.
+[x:0.04, y:0.52, caps:0.50] pT
+[x:0.04, y:0.53, caps:0.06] Froponed soration
+[x:0.08, y:0.54, caps:0.06] ‘change the current MSS specifications ae outlined above.
+[x:0.94, y:0.61, caps:0.00] 5
+[x:0.94, y:0.64, caps:1.00] S
+[x:0.94, y:0.66, caps:0.00] z
+[x:0.04, y:0.72, caps:0.00] pd
+[x:0.29, y:0.73, caps:0.17] Signature Fieve Tate
+[x:0.07, y:0.75, caps:0.09] Accepted for
+[x:0.07, y:0.76, caps:0.08] Tovestigation
+[x:0.05, y:0.78, caps:0.09] Final biaposition ———npproved efectos eT aE
+[x:0.65, y:0.80, caps:0.33] Del he F-17-4
+[x:0.05, y:0.81, caps:0.25] Action Taken or Reason for Rejection COLNE -17-
+[x:0.68, y:0.83, caps:1.00] PROGUCT REYIEW COMMITTEE)
+[x:0.70, y:0.83, caps:0.50] ye BC Ka
+[x:0.69, y:0.87, caps:1.00] LI \— FAL:
+[x:0.41, y:0.87, caps:0.09] opened Ffaceive pater | pou! agloraMce Sea
+[x:0.18, y:0.89, caps:0.25] : Sepenlay, P The.
+[x:0.43, y:0.92, caps:0.14] Als|se ae
+[x:0.66, y:0.93, caps:0.12] (5% wo ibe Nyy
+[x:0.67, y:0.95, caps:0.00] av)

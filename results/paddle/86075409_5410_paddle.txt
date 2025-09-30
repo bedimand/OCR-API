@@ -1,0 +1,25 @@
+[x:0.01, y:0.08, caps:0.16] From: Lynnette Stevens
+[x:0.01, y:0.11, caps:0.21] To: Kelli Scruggs
+[x:0.00, y:0.14, caps:0.24] CC: Vincent Losito Don Kisling
+[x:0.07, y:0.15, caps:0.26] George Baroody S. Tesh C.Hill
+[x:0.14, y:0.20, caps:0.14] Brand(s) Applicable Newport Parent. Lights. & 120's
+[x:0.14, y:0.23, caps:0.21] Media Type Direct Mail
+[x:0.14, y:0.26, caps:0.12] Media Name Competitive 21 - 34 years
+[x:0.14, y:0.29, caps:0.17] Issue Frequency / Year
+[x:0.14, y:0.32, caps:0.20] * Space / Color
+[x:0.15, y:0.35, caps:0.20] Coupon Issue Date 4/14/00
+[x:0.15, y:0.38, caps:0.15] Coupon Expiration Date 9/30/00
+[x:0.15, y:0.42, caps:0.41] Circulation (#) APPROX. 600,000
+[x:0.43, y:0.43, caps:1.00] AR.AZ.AK.CA.CO.FL.ID.IA.CT.ME.MASS.MN.MT,NE.
+[x:0.15, y:0.45, caps:0.63] Geographical Area(s) TiersS II & IV NV.NM.NY.ND.OK.OR.RI.SD.IFT.WA.D.C.WY
+[x:0.16, y:0.48, caps:0.36] Coupon Value $1.50 OFF
+[x:0.16, y:0.51, caps:0.32] Pack and / or Carton? PACK
+[x:0.16, y:0.54, caps:0.14] Advertising Creative Tile Jathaye Jervens
+[x:0.16, y:0.59, caps:0.10] Signature of Initiator
+[x:0.17, y:0.62, caps:0.19] Date Initiated 21-Jan-0
+[x:0.05, y:0.66, caps:0.09] Analyticai Requirements:
+[x:0.36, y:0.73, caps:1.00] FOR CONTROL USE ONLY
+[x:0.29, y:0.76, caps:0.17] Code Assigned 05787
+[x:0.29, y:0.78, caps:0.22] Job Number
+[x:0.30, y:0.81, caps:0.15] Est. Redemption 13°%
+[x:0.05, y:0.85, caps:0.13] •Where Applicable 86075409

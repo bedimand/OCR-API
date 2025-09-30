@@ -1,0 +1,40 @@
+[x:0.06, y:0.04, caps:1.00] 5 STOUT INDUSTRIES,INC; 10675
+[x:0.26, y:0.14, caps:0.91] 6425 w FLOAISSANT AVE St LOUIS, MO 63136 (314) 385-2280
+[x:0.39, y:0.18, caps:1.00] PROPOSAL
+[x:0.13, y:0.21, caps:0.14] Lorillard Corporation Metal Pack Plaque
+[x:0.05, y:0.22, caps:0.50] ADDRESS 666_Eifth Avenue DATE October T6 _ 1987
+[x:0.05, y:0.24, caps:0.19] city New York D. Steinberg
+[x:0.05, y:0.26, caps:0.36] StaTe New York 10103 Mr .
+[x:0.16, y:0.27, caps:0.48] Attn: Hr . Robert Kennedy 70.= FCORESE J4T  E
+[x:0.06, y:0.30, caps:0.03] Jt i ow plealune ta phopale the ballowing:
+[x:0.06, y:0.34, caps:0.36] ITEM: Hastex Davidson Metal Plaque SIZE 174 * 235" 025"
+[x:0.06, y:0.36, caps:1.00] MATERIAL: ALUMINUM OTHER GAUGE
+[x:0.06, y:0.38, caps:0.15] COLORS: Transparent_gold, opaque black white and orange
+[x:0.06, y:0.40, caps:0.81] BASE COLOR Aluminun SINGLE FACE DOUBLE FACE
+[x:0.06, y:0.43, caps:1.00] HOLES YES %X NOL NUMBER OF
+[x:0.06, y:0.44, caps:0.95] CORNERS; ROUND SQUARE kJ ANGLE Oi CUT TO SHAPE [J
+[x:0.06, y:0.47, caps:1.00] EDGES: HEMMED CURLED EMBOSSED @ BEADED BORDER D
+[x:0.06, y:0.48, caps:1.00] STAMP FRAME RIGHT ANGLE BEND BACK FRAME
+[x:0.06, y:0.52, caps:1.00] PACKING: PER CARTON PER CRATE PER BUNDLE
+[x:0.06, y:0.53, caps:0.13] OTHER: Price based on reproduction customer_supplied "Pack box _
+[x:0.14, y:0.54, caps:0.04] Tooling: Forndie brass emboss die achieve_detail on eaqle
+[x:0.06, y:0.58, caps:0.39] QUANTITIES: 500 Plaques One time tooling 53,015.00
+[x:0.06, y:0.60, caps:0.37] PRICE: 59.18 each Steel tips S1,045.00
+[x:0.68, y:0.63, caps:0.33] Soh)
+[x:0.06, y:0.68, caps:0.83] BILLING xlBIlL AS MANUFACTURE: BILL AS ShIP FOR, 0 MOS; Oiz Mos.
+[x:0.06, y:0.70, caps:0.91] WAREHOUSING KJ SHIP IMMEDIATELY: MOS WHSE: 12 Mos WHSE "86sd
+[x:0.06, y:0.73, caps:0.96] DAOP SHIPPiNG PER SHIPMENT.
+[x:0.06, y:0.76, caps:1.00] (ADIOIS
+[x:0.06, y:0.77, caps:0.59] Dkg Qi oifu HERTA Enle EURKAYI COstc MART !OR IMmima AcAt
+[x:0.06, y:0.78, caps:0.15] Eahil rnra untad Nenalduumn J4C Andcr Fe flec chinec: Mjicujl im Uh  <-
+[x:0.06, y:0.79, caps:0.18] Pnt n n= Wul4 Wan ubect rrbul chintct unict cunleicd Cnline Melm e Mle Init cuminint LOUIS Mo
+[x:0.11, y:0.81, caps:0.10] ieen'uciei 4Mineen Mnat ollict cJu netond Caltab
+[x:0.06, y:0.82, caps:0.12] Purchi et Keeeh tctfun uriucigum Fent Ine 4uanly Wan
+[x:0.09, y:0.83, caps:0.17] Tutrt Finc0u4i ~Jtte acnin  Aa iCumict acenh Ihz Drawl[ Vani dclcry undci CS
+[x:0.06, y:0.84, caps:0.16] Iulutc I4_ aceuni nuier Lhu A Hnan heicol hc *Il unan Uenan 87528380
+[x:0.17, y:0.85, caps:0.11] Ldn ~hipnicnls Iquca Saippce Koeinni collaci
+[x:0.10, y:0.86, caps:0.18] CCTG dnt WciA nrepaid ~hipmens Wtnc nuic nigttt
+[x:0.07, y:0.90, caps:0.88] TerMS NET 10 DAYS STOUT
+[x:0.09, y:0.91, caps:0.17] service charge 0f 1%580 per month will be INDusRies INC,
+[x:0.07, y:0.92, caps:0.00] appliedito all unpaid balances over 30 days.
+[x:0.80, y:0.95, caps:0.12] Wtelrtia

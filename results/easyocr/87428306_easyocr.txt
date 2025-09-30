@@ -1,0 +1,27 @@
+[x:0.33, y:0.12, caps:1.00] COMPOUND PHYSICAL PARAMETERS
+[x:0.15, y:0.15, caps:0.76] LRC FILt RUUp{a LOT HuLaER
+[x:0.17, y:0.16, caps:0.00] 1221
+[x:0.18, y:0.18, caps:0.20] Hanae
+[x:0.19, y:0.19, caps:0.02] crystalline golid at roon temperature which neltg at 256'Ce
+[x:0.17, y:0.22, caps:0.09] The PH 504 concentration of A221 in water wag theoretically
+[x:0.17, y:0.23, caps:0.03] calculated to be 26 at 22'C from golution in 79.5+ aqueous
+[x:0.17, y:0.25, caps:0.02] diorane accordlng to the extrapolation procedures of Dr .
+[x:0.17, y:0.26, caps:0.13] Schickedantz _ Lorillard Accegsion Mumber 662 _ Reference A4s-10-1
+[x:0.15, y:0.29, caps:1.00] SPECEC QN
+[x:0.17, y:0.30, caps:0.17] Hot Deterined
+[x:0.15, y:0.35, caps:0.20] Gontt
+[x:0.16, y:0.36, caps:0.45] DuI CyonstHI
+[x:0.16, y:0.37, caps:0.09] 4221 i3 goluble in EtOH at g/ml, with gtirring, roon
+[x:0.16, y:0.39, caps:0.17] temperature _ Reference BC3O-88
+[x:0.16, y:0.43, caps:0.03] "{221 forms golution corn 0il 0.5 9/0.5 mL, with stirring
+[x:0.19, y:0.45, caps:0.15] room temperature Reference BC3O-88 _
+[x:0.16, y:0.50, caps:0.00] 4221 forms golution in corn 0il at 9/0.5 with stirring
+[x:0.19, y:0.52, caps:0.15] room temperature Reference BC3O-88
+[x:0.15, y:0.58, caps:1.00] LCUTE CLEDAONAAAAAF
+[x:0.16, y:0.60, caps:0.11] A221 ingoluble for this procedure Re ference BC30-88 _
+[x:0.15, y:0.64, caps:0.12] Ttonlce Aecoluliot
+[x:0.16, y:0.64, caps:0.05] Refrigerate in amber gla53 bottle at no more than 8"C _ 1
+[x:0.15, y:0.74, caps:0.64] COLPOUd Hlln
+[x:0.24, y:0.76, caps:0.58] Hut CCSRE Oena
+[x:0.15, y:0.79, caps:0.39] Wli ColueniS (suooIsIeD HMOlING MIciclaea
+[x:0.15, y:0.88, caps:0.58] LCRLLUD RESEAR Wiatu)Cxas bInbu 22 [199 rO 9 @nD

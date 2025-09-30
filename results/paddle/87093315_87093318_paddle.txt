@@ -1,0 +1,35 @@
+[x:0.42, y:0.01, caps:0.31] Sample No. 1194-90 Date: 3/14/90 90-B-1
+[x:0.36, y:0.04, caps:0.13] Type of Cigarette 100 mm Filter
+[x:0.41, y:0.06, caps:0.17] Batch Size 47.5 lbs.
+[x:0.04, y:0.08, caps:0.24] Original Request Made By J.H. Bell on 2/15/90
+[x:0.04, y:0.10, caps:0.14] Purpose of Sample Cigarette Modification B-451
+[x:0.04, y:0.13, caps:0.18] Sample Specifications Written By C.W. Lassiter
+[x:0.04, y:0.16, caps:1.00] BLEND CASING RECASING FINAL FLAVOR MENTHOL
+[x:0.04, y:0.17, caps:0.18] Attached None Attached None None
+[x:0.04, y:0.20, caps:0.12] Cigarettes Filters
+[x:0.07, y:0.23, caps:0.30] Maker MK 8 Section A Section B
+[x:0.07, y:0.26, caps:0.08] Length 99.0 nm 27 mm mm
+[x:0.07, y:0.28, caps:0.17] Filter Length 27 mm Kind 3.3/35,000
+[x:0.07, y:0.30, caps:0.21] Circumference 24.8 mm OG Lt.
+[x:0.07, y:0.33, caps:0.17] Weight 78.0g/100 Rod Length 108 mm
+[x:0.07, y:0.35, caps:0.16] Paper 81-01-07 Pressure Drop 400 mm
+[x:0.07, y:0.37, caps:0.13] Tip. Paper 25-04-07 Circumference 24.45 mm
+[x:0.26, y:0.40, caps:0.14] 67 mm White Weight 75.3g/100
+[x:0.07, y:0.42, caps:0.25] Tip. Paper Por. 430 Plast. 78 Kent
+[x:0.07, y:0.44, caps:0.26] Glue Roller G Plug Wrap 84-52-28
+[x:0.07, y:0.46, caps:0.26] Air Dilution 13.0 % Plug Wrap Por. 655 C
+[x:0.44, y:0.49, caps:0.25] Comb. Wrap
+[x:0.44, y:0.51, caps:0.27] Comb. Wrap Por.
+[x:0.04, y:0.54, caps:0.09] Wrapping Responsibility
+[x:0.07, y:0.56, caps:0.16] Labels White Tobacco Blend Lassiter/Douglas
+[x:0.07, y:0.58, caps:0.23] Closures Blue Filter Production MFG.
+[x:0.06, y:0.61, caps:0.19] Tear Tape White Making & Packing James
+[x:0.06, y:0.63, caps:0.15] Cartons White Shipping
+[x:0.06, y:0.65, caps:0.15] Markings Sample No. on Sample Requistion James
+[x:0.26, y:0.68, caps:0.14] each Carton (Form 02:20:06)
+[x:0.03, y:0.71, caps:0.10] Requirements Laboratory Analysis:
+[x:0.06, y:0.72, caps:0.14] Laboratory 1 Tray Mainstream Smoke Analysis
+[x:0.06, y:0.75, caps:0.00] other
+[x:0.39, y:0.80, caps:0.11] Special Requirements
+[x:0.91, y:0.80, caps:0.00] 87093315
+[x:0.63, y:0.94, caps:0.12] Director, Product Development

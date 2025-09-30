@@ -1,0 +1,26 @@
+[x:0.18, y:0.08, caps:0.91] 47th TCRC REGISTRATION FORM
+[x:0.10, y:0.12, caps:0.06] Please type or prine
+[x:0.10, y:0.14, caps:0.25] Name:
+[x:0.22, y:0.16, caps:0.20] Title First Middle Last
+[x:0.10, y:0.19, caps:0.09] Institution:
+[x:0.10, y:0.23, caps:0.14] Address:
+[x:0.22, y:0.25, caps:0.33] Street P.O. Boxi
+[x:0.22, y:0.30, caps:0.32] Cty State ZIP Code Country
+[x:0.10, y:0.33, caps:0.33] Telephone: FAX #:
+[x:0.10, y:0.36, caps:0.09] Name of guest:
+[x:0.19, y:0.40, caps:0.10] Continential Breakfast on Tuesday Breakfast on Wednesday
+[x:0.18, y:0.42, caps:0.15] Fall Foliage Tour on Tuesday Crafisman Village Tour on Wednesday
+[x:0.11, y:0.47, caps:0.11] Advance Registration Fee: (prior to September 1) $135.00
+[x:0.10, y:0.49, caps:0.12] Late Registration Fee: (after September 1) $150.00
+[x:0.16, y:0.51, caps:0.05] Extra banquet tickets @ $40.00
+[x:0.11, y:0.52, caps:0.07] Ground Transportation (round trip) $ 30.00
+[x:0.65, y:0.56, caps:1.00] TOTAL
+[x:0.10, y:0.59, caps:0.04] Please complete this portion if you need transportation from and to the Knoxville Airport.
+[x:0.10, y:0.63, caps:0.22] No. in Party:
+[x:0.22, y:0.66, caps:1.00] DATE TIME CARRIER FLIGHT #
+[x:0.10, y:0.70, caps:0.14] Arrival :
+[x:0.10, y:0.73, caps:0.11] Departure:
+[x:0.10, y:0.80, caps:0.03] Send this registration form, along with payment to the address noted below. Enclose a check
+[x:0.10, y:0.81, caps:0.14] Mail to: Dr. Phil P. Hunter or international money order payable in U.S. funds to the Universiry of Tennessee - 47th TCRC. 87332450
+[x:0.18, y:0.86, caps:0.19] Route 5 Box 113 U. T. Tobacco Experiment Station Telephone: (615) 638-6532
+[x:0.18, y:0.89, caps:0.38] Greeneville, TN 37743 FAX: (615) 638-6458

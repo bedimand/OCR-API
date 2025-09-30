@@ -1,0 +1,15 @@
+[x:0.31, y:0.18, caps:1.00] LORILLARD TOBACCO COMPANY
+[x:0.26, y:0.20, caps:0.11] Market Planning and Information Department
+[x:0.22, y:0.26, caps:0.25] To: Mike Mozina
+[x:0.22, y:0.28, caps:0.57] Firm: MSA
+[x:0.22, y:0.30, caps:0.36] FAX #: Autodial
+[x:0.22, y:0.34, caps:0.21] From: Susan Smith_
+[x:0.22, y:0.36, caps:1.00] FAX #: 335-7733
+[x:0.22, y:0.39, caps:0.20] Phone #: 335-7150
+[x:0.22, y:0.42, caps:0.25] Date: 8/31/98
+[x:0.22, y:0.45, caps:0.04] # Pages: 3 (including this cover page)
+[x:0.16, y:0.56, caps:0.25] Mike,
+[x:0.16, y:0.60, caps:0.06] As promised, here are:
+[x:0.17, y:0.65, caps:0.16] Approval for AWS Quarterly Store Count Database to begin 3rd Quarter 998
+[x:0.17, y:0.69, caps:0.05] Table showing signiticant jump in Convenience Store market importance
+[x:0.16, y:0.71, caps:0.12] Talk t0 you soonl in 2nd Quarter 1998 Sw) 1

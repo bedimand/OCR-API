@@ -1,0 +1,25 @@
+[x:0.31, y:0.09, caps:1.00] COMPOUND PHYSICAL PARAMETERS
+[x:0.10, y:0.12, caps:1.00] LAC FILE NUMBER A221 LOT NUMBER
+[x:0.10, y:0.15, caps:1.00] PHYSICAL STATE
+[x:0.11, y:0.16, caps:0.08] DH A crystalline solid at room temperature which melts at >56°C.
+[x:0.12, y:0.20, caps:0.03] The pH of a 50% concentration of A221 in water was theoretically calculated to be 7.26 at 22°c from a 0.5% solution in 79.5t aqueous
+[x:0.12, y:0.23, caps:0.06] dioxane according to the extrapolation procedures of Dr. P. D.
+[x:0.12, y:0.24, caps:0.11] Schickedantz, Lorillard Accession Number 1662. Referencea 45-10-1.
+[x:0.11, y:0.27, caps:1.00] SPECFIC GRAVITY
+[x:0.12, y:0.28, caps:0.15] Not Determined.
+[x:0.10, y:0.33, caps:1.00] SOLUBLITY
+[x:0.12, y:0.35, caps:1.00] MUTAGENICITY SOLVENTS
+[x:0.12, y:0.36, caps:0.11] A22l is soluble in EtOH at 0.2 g/mL, with stirring, at room temperature. Reference Bc30-88.
+[x:0.12, y:0.43, caps:0.07] "A221 forms a solution in corn oil at 0.5 g/0.5 mL, with stirring at room temperature. Reference BC30-88.
+[x:0.12, y:0.48, caps:1.00] ORAL
+[x:0.12, y:0.50, caps:0.07] A221 forms a solution in corn oil at 0.5 g/0.5 mL, with stirring at room temperature. Reference BC30-88.
+[x:0.10, y:0.58, caps:1.00] ACUTE CAROHOVASCULAR
+[x:0.11, y:0.60, caps:0.10] A221 is insoluble for this procedure. Reference BC3o-88.
+[x:0.10, y:0.64, caps:1.00] STORAGE RECOMMENDATIONS
+[x:0.11, y:0.66, caps:0.05] Refrigerate in an amber glass bottle at no more than 8°C. • 87428306
+[x:0.10, y:0.76, caps:1.00] COUPOUNO SENSITIVE TO
+[x:0.12, y:0.78, caps:1.00] DA JHEAT MOISTURE OTHER
+[x:0.09, y:0.81, caps:1.00] SAFETY COMIMENTS (SUGGESTED HANOLING PROCEDURE:
+[x:0.10, y:0.90, caps:0.38] SIGNATU Eliabithl.Crouse A - 13 7 Movetu 28,1990
+[x:0.09, y:0.93, caps:1.00] LORLLARD RESEARC CENTER
+[x:0.85, y:0.95, caps:1.00] FORM 9 (987)

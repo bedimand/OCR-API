@@ -1,0 +1,48 @@
+[x:0.37, y:0.04, caps:0.12] Executive Offices
+[x:0.19, y:0.05, caps:1.00] 1 GULF+WESTE PLAZA + NEWYORK, NEWYORK = 23-7773 -
+[x:0.38, y:0.07, caps:0.00] (212) 373-7500
+[x:0.17, y:0.09, caps:1.00] PRENTICE HALL CORPORATE SERVICES
+[x:0.04, y:0.13, caps:0.15] United States Corporation Company The Prentice-Hall Corporation System, Inc
+[x:0.09, y:0.14, caps:0.42] aun? ______ RECEIVED yx asesa u
+[x:0.04, y:0.15, caps:0.00] pave; _12-13-89
+[x:0.04, y:0.17, caps:0.79] TO: LORTLLARD, INC. fas 7 Oo
+[x:0.11, y:0.19, caps:0.89] ONE PARK AVENUE 18TH FL be 14 89
+[x:0.11, y:0.21, caps:1.00] NEW YORK, N.Y. 10016
+[x:0.11, y:0.22, caps:1.00] ATIN: MR. ARTHUR STEVENS, ESQ.A. J. STEVENS MOTOR CARRIER —____
+[x:0.60, y:0.23, caps:0.50] oR
+[x:0.56, y:0.24, caps:0.00] stavuony —% __
+[x:0.68, y:0.27, caps:0.00] 033052
+[x:0.04, y:0.27, caps:0.57] re; ___EORELLARD» INC. 0 count ge
+[x:0.21, y:0.30, caps:0.11] (Represented Company)
+[x:0.31, y:0.32, caps:1.00] NOTICE OF SERVICE OF PROCESS
+[x:0.07, y:0.34, caps:0.02] We enclose the following documents which were served upon:
+[x:0.17, y:0.35, caps:1.00] UNITED STATES CORPORATION COMPANY IN TEXAS
+[x:0.05, y:0.38, caps:0.00] as registered agent for the above-captioned corporation on_12=13-89 vi:
+[x:0.17, y:0.39, caps:0.13] Personal Service __x__ Mail: Regular ______or Certified ___Certiied #
+[x:0.04, y:0.42, caps:0.10] Summons __-Asel-adtiressed stamped _____Notice of Mechanic's Lien
+[x:0.04, y:0.44, caps:0.08] Complaint envelope enclosed Notice of Default Jucgment |
+[x:0.04, y:0.46, caps:0.10] Duplicate copies of the Notice and _-_Garnishment Subpoena I
+[x:0.09, y:0.49, caps:0.09] ‘Acknowledgement enclosed _—__Nolice of Attorney's Lien
+[x:0.06, y:0.50, caps:0.89] X_ Other: __CETATION AND FIRST ORIGINAL PETITION
+[x:0.04, y:0.53, caps:0.00] i
+[x:0.04, y:0.56, caps:0.50] TITLE OF ACTION: —_iygestexcuzcc
+[x:0.47, y:0.57, caps:0.33] ) Case No. 475,592
+[x:0.12, y:0.59, caps:0.97] Re J. REYNOLDS TOBACCO COMPANY, ET AL_}
+[x:0.04, y:0.59, caps:0.00] vs.
+[x:0.04, y:0.63, caps:0.48] COURT OR JURISDICTION cial District Court Travis County, Tx
+[x:0.04, y:0.65, caps:0.29] RETURN DATE Monday next 20 days from date oF service
+[x:0.04, y:0.67, caps:0.18] Tel Call Placed Direct Collect _ Spoke to ________ Agent called New York Office ___
+[x:0.04, y:0.69, caps:0.50] COMMENTS: Neen ee enn ne nn EEE
+[x:0.13, y:0.72, caps:0.50] Sa
+[x:0.04, y:0.75, caps:1.00] ATTORNEYS FOR CLAIMANT
+[x:0.31, y:0.77, caps:0.50] Fa 2
+[x:0.57, y:0.79, caps:0.00] = pkbph78-4873
+[x:0.04, y:0.82, caps:1.00] PAPERS TRANSMITTED TO CLIENT 3
+[x:0.04, y:0.84, caps:0.33] Fed-X __y Reg. Mail __ 8
+[x:0.04, y:0.84, caps:0.26] omer eM __sronm prepanep ey FAT WiccINS _| &
+[x:0.88, y:0.86, caps:0.00] a
+[x:0.04, y:0.87, caps:0.99] PLEASE ACKNOWLEDGE RECEIPT OF THIS NOTICE AND THE ENCLOSURES BY SIGNING AND RETUBMING WHEE a
+[x:0.04, y:0.89, caps:1.00] SUPLICATE COPY. A BUSINESS REPLY ENVELOPE 1S ENCLOSED FOR YOUR CONVENIENCE 77” A
+[x:0.04, y:0.90, caps:0.00] mneons 2/2/02 res |
+[x:0.21, y:0.92, caps:0.50] {hPL a
+[x:0.43, y:0.95, caps:1.00] ORIGINAL

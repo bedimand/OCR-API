@@ -1,0 +1,32 @@
+[x:0.63, y:0.06, caps:0.00] 2
+[x:0.14, y:0.09, caps:0.85] ATT, GEN. ADMIN, OFFICE Fax:614~466-508? Dec 1098 17:46 POL
+[x:0.09, y:0.14, caps:0.28] SAA) Attorney General
+[x:0.02, y:0.16, caps:0.16] ee =v Getty D. Montgomery
+[x:0.36, y:0.25, caps:1.00] CONFIDENTIAL FACSIMILE
+[x:0.35, y:0.27, caps:1.00] ‘TRANSMISSION COVER SHEET
+[x:0.39, y:0.30, caps:1.00] FAX NO, (614) 466-5087
+[x:0.14, y:0.33, caps:0.27] ‘TO: _Georse Baroody
+[x:0.14, y:0.38, caps:1.00] FAX NUMBER: (336) 335-7392. PHONE NUMBER: (336) 335-7363
+[x:0.14, y:0.41, caps:1.00] DATE: 2/0/98
+[x:0.14, y:0.44, caps:1.00] NUMBER OF PAGES INCLUDING COVER SHEET: 3
+[x:0.14, y:0.46, caps:0.55] ‘SENDER/PHONE NUMBER: __June Fiynn for Erie Brown/(614) 466-8980
+[x:0.03, y:0.51, caps:0.95] e SPECIAL INSTRUCTIONS:
+[x:0.23, y:0.60, caps:0.71] You. OF OP}
+[x:0.36, y:0.61, caps:1.00] PLEASE CONTACT SENDER
+[x:0.39, y:0.62, caps:1.00] {ASSOON AS POSSIBLE
+[x:0.14, y:0.68, caps:0.96] NOTE: THIS MESSAGE 16 INTENDED ONLY FOR THE USE OF THE INDIVIDUAL on ENTY 70
+[x:0.22, y:0.70, caps:0.95] CONRDENTIAL, AND EXEMPT FROM DISCLOSURE UNDER. APPLICABLE LAW. If ae
+[x:0.22, y:0.71, caps:1.00] WHOM IT 18 ADDRESSED AND MAY CONTAIN INFORMATION THAT 18 PRIVILEGED,
+[x:0.21, y:0.73, caps:0.00] reader of this message is not the intended recipient or the employee or agent responsible for delivering |
+[x:0.21, y:0.74, caps:0.00] the message to the intended recipient, you are hereby notified that any dissemination, disribusion,
+[x:0.21, y:0.74, caps:0.04] corn. or conefng cfs eamuseon In) amet sety pohbed"Afyou hv
+[x:0.21, y:0.76, caps:0.02] frogrel tis comaaion la or, pase voi us tnmediely Wy liens ea ara |
+[x:0.21, y:0.77, caps:0.15] Grgnal mesage w us oe izes low via be US. Poul Serv, Thankyou er your] NO
+[x:0.25, y:0.80, caps:0.17] al me Ss
+[x:0.22, y:0.80, caps:0.25] eee S
+[x:0.84, y:0.83, caps:1.00] S
+[x:0.84, y:0.87, caps:0.00] 3
+[x:0.24, y:0.87, caps:0.22] Sete Ofice Tower! 0 East Broad Sree Coumbus, Oho 42215-0428
+[x:0.39, y:0.90, caps:0.27] Ana Obani Eye
+[x:0.42, y:0.90, caps:0.00] womagatoctuin
+[x:0.39, y:0.92, caps:0.12] Suwannee |

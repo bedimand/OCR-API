@@ -1,0 +1,36 @@
+[x:0.62, y:0.04, caps:0.40] Date: 3/14/90 90-B-1
+[x:0.42, y:0.05, caps:0.17] Sanple 1.1194-90
+[x:0.36, y:0.06, caps:0.14] Type of Cigarette 100 Eilter
+[x:0.41, y:0.07, caps:0.20] Batch Size 4751 s>
+[x:0.07, y:0.10, caps:0.26] Original Request Made By JH Bell 2/15/90
+[x:0.07, y:0.12, caps:0.14] purpose Of Sanple Cigarette Ibdification B-451
+[x:0.06, y:0.14, caps:0.18] Sauple Specifications Rritten By GW_Lassiter
+[x:0.07, y:0.17, caps:1.00] BLED CSTG RECASIG FIAL FLAWOR MEHHHOL
+[x:0.07, y:0.18, caps:0.18] Attached None Attached None Nore
+[x:0.06, y:0.21, caps:0.12] Cigarettes Filters
+[x:0.09, y:0.24, caps:0.20] Maker Section Section B
+[x:0.09, y:0.26, caps:0.17] Length 99_0
+[x:0.09, y:0.28, caps:0.19] Filter Length Kind 3.3/35_000
+[x:0.09, y:0.30, caps:0.27] Circuference 24.8 @SLL:
+[x:0.09, y:0.33, caps:0.19] Reight 78.09/100 Rod Length 108 m
+[x:0.09, y:0.35, caps:0.22] Paper 81-01-02 Pressure DrOp 400 m
+[x:0.09, y:0.37, caps:0.15] Tip:  Paper 25-04-02 Circuference 24.45
+[x:0.30, y:0.39, caps:0.08] mhhite Reight 75_344100
+[x:0.09, y:0.41, caps:0.25] Tip. Paper Bor _ 430 Plast. 72 Kent
+[x:0.09, y:0.43, caps:0.22] Glue Poller Plug Wrap 84-52-28
+[x:0.09, y:0.45, caps:0.20] Air Dilution 13.0 8 Plug #ap Bor . 655 @
+[x:0.44, y:0.47, caps:0.29] Cob. Krap
+[x:0.44, y:0.50, caps:0.27] Conb. Hrap For_
+[x:0.06, y:0.53, caps:0.05] #rapping Responsibilitx
+[x:0.09, y:0.55, caps:0.13] Labels Khite Tbbacop Blend Lassiterdgouglas
+[x:0.09, y:0.57, caps:0.23] Closures Blue Filter Production MFG
+[x:0.09, y:0.58, caps:0.19] Tear Tape Khite Making Packing Janes
+[x:0.09, y:0.61, caps:0.05] cartons khite Shipping
+[x:0.09, y:0.63, caps:0.14] Markings Sanple : Sanple Requistion Janes
+[x:0.28, y:0.65, caps:0.14] each Carton (Fomm 02:20:06)
+[x:0.07, y:0.68, caps:0.10] Requirerents Laboratory Analysis:
+[x:0.09, y:0.69, caps:0.14] Laboratory Trax Mainstream Smoke Analysis
+[x:0.09, y:0.72, caps:0.20] Other
+[x:0.40, y:0.76, caps:0.11] Special Requirements
+[x:0.88, y:0.76, caps:0.00] 1
+[x:0.63, y:0.90, caps:0.16] DLrector Product Devolopent

@@ -1,0 +1,22 @@
+[x:0.02, y:0.02, caps:1.00] -*05/01/00 10:21 612 894 9690 LORILLARD RGN#II M001/004
+[x:0.36, y:0.09, caps:0.65] Lorillard TOBACCO COMPANY
+[x:0.11, y:0.21, caps:0.33] Fax
+[x:0.11, y:0.30, caps:0.23] To: Mr. Randy Spell From: Rick Redfield
+[x:0.11, y:0.33, caps:0.30] Fax: Date: May 1, 2000
+[x:0.11, y:0.36, caps:0.26] CC: Mr. Fred Paternostro Faxi 952 894-9690
+[x:0.11, y:0.39, caps:0.19] Re: Legal - lowa Pages: 4
+[x:0.11, y:0.42, caps:0.17] Urgent For Review Please Commont Please ReplyPlease Recycle
+[x:0.11, y:0.48, caps:0.12] Comments:
+[x:0.11, y:0.51, caps:0.11] Attached is the lowa Department of Revenue and Finance Minimum Legal Prices
+[x:0.11, y:0.52, caps:0.05] on Cigarettes as of April 3, 2o0o. I am attempting to obtain a copy of the actual
+[x:0.11, y:0.54, caps:0.07] Fair Trade Law and will forward as soon as obtained.
+[x:0.11, y:0.57, caps:0.25] Rick
+[x:0.41, y:0.75, caps:1.00] CONFIDENTIALITY NOTE
+[x:0.10, y:0.77, caps:0.03] This facsimile may contain privileged and confidential iaformation inbended only for the uso of the individual or entity named facsimlle to us at the address below via the U. S. Postal Service. 82562350
+[x:0.10, y:0.78, caps:0.00] aov. f the raader of the facsimne is not the intended reclplent or employee or ugent respansible for defivering it to the
+[x:0.10, y:0.80, caps:0.00] innddepin u  her notifd ta  eation  copng of facss siy poblte.av
+[x:0.10, y:0.81, caps:0.00] reivd this fa in eo peas noliy s immediately y talephone (number indicated below) nd retur the gia!
+[x:0.42, y:0.89, caps:0.18] 20s River Ridge Circle
+[x:0.45, y:0.90, caps:0.50] P.O. 9ox 1589
+[x:0.43, y:0.91, caps:0.27] Bumsville, MN 55337
+[x:0.41, y:0.93, caps:0.11] Telephone: (952) 894-2238

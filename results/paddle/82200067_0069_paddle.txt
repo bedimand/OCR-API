@@ -1,0 +1,25 @@
+[x:0.09, y:0.02, caps:1.00] 09/17/97 10:55 503 641 1898 LORILLARD PTLD 0001
+[x:0.08, y:0.10, caps:0.45] TO: K. A. Sparrow
+[x:0.08, y:0.13, caps:0.68] FROM: T. D. Blachly MAY 12 AUG
+[x:0.62, y:0.16, caps:1.00] JUN 23 SEP 15 X
+[x:0.08, y:0.19, caps:1.00] SUBJECT: ULTRA LIGHTS 1OO'S- PROGRESS REPORT
+[x:0.08, y:0.23, caps:1.00] AAO
+[x:0.08, y:0.26, caps:1.00] REGION:
+[x:0.08, y:0.29, caps:1.00] (ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)
+[x:0.08, y:0.32, caps:1.00] DIVISION:
+[x:0.11, y:0.35, caps:0.61] DIVISION: Partland # REPS: 6 DIVISION: Seattle South # REPS: 7
+[x:0.11, y:0.38, caps:0.65] DIVISION: Boise # REPS: 2.5 DIVISiON: Sealle North # REPS: 4
+[x:0.11, y:0.41, caps:0.72] DIVISION: Eugene 0 REPS: 5 DIVISION: Helena # REPS: 4
+[x:0.20, y:0.46, caps:1.00] CTEDLTEUTONEA
+[x:0.12, y:0.49, caps:1.00] DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION
+[x:0.08, y:0.50, caps:1.00] (15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 1OO'S
+[x:0.12, y:0.57, caps:1.00] NAME OEAC! VOLUME TOR
+[x:0.08, y:0.58, caps:0.15] Taxaco - Scattle 105/ 5 225
+[x:0.08, y:0.60, caps:0.14] Texaco - Portland 61/3 27
+[x:0.09, y:0.62, caps:0.27] Maid-O-Clover 20/2 15
+[x:0.09, y:0.65, caps:0.25] Darl-Mart 125/ 5 31
+[x:0.09, y:0.67, caps:0.29] Zip Trip 106 / 4 18
+[x:0.09, y:0.69, caps:0.12] Maverick 77/1 19
+[x:0.08, y:0.70, caps:0.25] Astro Gas 600 / 7 20
+[x:0.94, y:0.79, caps:0.00] 82200067
+[x:0.11, y:0.94, caps:0.37] A-1: 0GMUD-15.xdc Page1 of 3 Pages

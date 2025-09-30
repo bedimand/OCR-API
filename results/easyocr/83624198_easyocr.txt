@@ -1,0 +1,26 @@
+[x:0.14, y:0.08, caps:1.00] FEB 25 '58 10;23 FR #128557-282# P.01
+[x:0.13, y:0.12, caps:1.00] FAX TRANSMISSION
+[x:0.68, y:0.14, caps:1.00] DICKSTENN
+[x:0.68, y:0.16, caps:0.71] SHApiRO
+[x:0.69, y:0.18, caps:1.00] MORIV&
+[x:0.68, y:0.20, caps:1.00] OSHTNSKY
+[x:0.13, y:0.24, caps:0.42] DATE: Fcbruarz 25,1998
+[x:0.13, y:0.27, caps:1.00] CLIENT NO:; L8557.002
+[x:0.13, y:0.30, caps:0.48] MESSAGE TO: Ronald Milstcin
+[x:0.13, y:0.33, caps:0.36] COMPANY: Lorlard Tobacco Company
+[x:0.13, y:0.36, caps:1.00] FAX NUMBER: 910/335-7707
+[x:0.13, y:0.38, caps:1.00] PHONE: 910/335-7718
+[x:0.13, y:0.42, caps:0.40] FROM; Andy Zausner_
+[x:0.13, y:0.45, caps:1.00] PHONE: 202/828-2259
+[x:0.13, y:0.47, caps:0.64] PAGES (Including Cover Sheet): HARD COPY TO FOLLOW: YES NO
+[x:0.13, y:0.50, caps:0.16] MESSAGE; Scc attached @x fom thc Committce on Comnierce just received in my
+[x:0.22, y:0.52, caps:0.05] ofticc_ Call me to discuss
+[x:0.22, y:0.71, caps:0.04] Ifyour rercipt of this rransmission is in crTOr; pleasc notify this fin immediatcly by
+[x:0.22, y:0.73, caps:0.04] collccr call Facsimile Department ar 202-861-9106_ and scrd thc original
+[x:0.22, y:0.74, caps:0.02] cansmission [0 Us by rchum mail at thc addrcss bclow.
+[x:0.22, y:0.77, caps:0.06] Tis [nnsmission Iniccuco for Lcsolc uc ofithc Individid and ceuty whcm icb 1ilexd
+[x:0.25, y:0.78, caps:0.01] contin infomxtion thet privilget conidential ond Sxempr fon disclosure under spplicabk
+[x:0.26, y:0.80, caps:0.04] You arc hocby notlicd Lbat ay disscminalion, distbuton duplicaton of this Dansmission hy
+[x:0.23, y:0.81, caps:0.01] tomcodc otherthan theintendcd Jddratttt orir daslgnatcd #gcnt bs stctly protlbitcd
+[x:0.85, y:0.84, caps:0.00] 0
+[x:0.21, y:0.93, caps:0.32] 2101 Sbeet NW Washington: DC 25037-1528 Tel 202-785-9700 Fax 202-887-0688

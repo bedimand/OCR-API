@@ -1,0 +1,32 @@
+[x:0.05, y:0.07, caps:0.26] SA pep as 150 1023 Fe QP To Qe szessronnt ot
+[x:0.08, y:0.13, caps:1.00] * FAX TRANSMISSION
+[x:0.69, y:0.14, caps:1.00] DICKSTEIN
+[x:0.69, y:0.16, caps:1.00] SHAPIRO
+[x:0.69, y:0.18, caps:1.00] MORIN &
+[x:0.69, y:0.20, caps:1.00] OSHINSKY
+[x:0.14, y:0.23, caps:0.42] DATE: February 25, 1998 .
+[x:0.14, y:0.27, caps:1.00] CLIENTNO.: —L8557.002_
+[x:0.14, y:0.30, caps:0.50] MESSAGE TO: Ronald S. Milstein .
+[x:0.14, y:0.32, caps:0.33] COMPANY: Lorillard ‘Tobacco Company
+[x:0.14, y:0.36, caps:1.00] FAX NUMBER: 910/335-7707
+[x:0.14, y:0.38, caps:1.00] PHONE: 910/335-7718
+[x:0.14, y:0.42, caps:0.40] FRON: Andy Zausner
+[x:0.14, y:0.45, caps:1.00] PHONE: 202/828-2259
+[x:0.14, y:0.47, caps:0.64] PAGES (Including Cover Sheet): _12_ HARD COPY TO FOLLOW: YES NO
+[x:0.14, y:0.49, caps:0.15] MESSAGE: [ce attached fax om the Committee on Commerce just received in my
+[x:0.23, y:0.52, caps:0.05] office, Call me to discuss.
+[x:0.23, y:0.70, caps:0.00] {fyour receipt of this ransmision isin error, please notify this fim immediately by
+[x:0.23, y:0.72, caps:0.04] ‘collect call to our Facsimile Department at 202-861-9106, and send the original
+[x:0.22, y:0.73, caps:0.00] transmission to us by return mail atthe address below.
+[x:0.22, y:0.76, caps:0.01] “Tis oncumiston i inked forthe sole se ofthe individ and catty to whom iis addres, and
+[x:0.22, y:0.77, caps:0.02] toay conan infoamaion cit pepe, concata and carmg Gm dllovaretaderapplcble
+[x:0.23, y:0.78, caps:0.02] few. You ae hechy noed tat any dacainaton,dbtion or dition of tha tarratsion by
+[x:0.22, y:0.80, caps:0.00] someone oer than the intended addrence ors dented ages stacy patie,
+[x:0.86, y:0.83, caps:0.00] o
+[x:0.86, y:0.84, caps:0.00] oe
+[x:0.86, y:0.85, caps:0.00] a
+[x:0.86, y:0.87, caps:0.50] nD
+[x:0.86, y:0.88, caps:0.00] =
+[x:0.86, y:0.90, caps:0.00] xo
+[x:0.86, y:0.92, caps:0.00] o
+[x:0.21, y:0.92, caps:0.32] 2101 Sueet NW Washington, OC 20097-1628. Tel 202-785-9700 Fax 202-887-0680

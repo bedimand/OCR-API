@@ -1,0 +1,19 @@
+[x:0.21, y:0.06, caps:1.00] DECISION TREE ESTIMATION OF TOXIC RISK
+[x:0.01, y:0.09, caps:0.44] HAME J. D. Ergle and R. F. Dufresne DATE August 14, 1990
+[x:0.01, y:0.13, caps:1.00] COMPOUND NAME
+[x:0.06, y:0.15, caps:0.11] Vanitrope
+[x:0.00, y:0.19, caps:1.00] STRUCTURE
+[x:0.32, y:0.27, caps:1.00] CH3CH2O
+[x:0.50, y:0.31, caps:1.00] OH
+[x:0.00, y:0.34, caps:1.00] ESTIMATEO TOXICITY CLASS LORILLARD COMPOUND CODE NUMBER
+[x:0.20, y:0.36, caps:1.00] III B134
+[x:0.02, y:0.38, caps:1.00] OMMENTS
+[x:0.06, y:0.41, caps:0.09] This ethoxy substituted aromatic falls into class III.
+[x:0.63, y:0.59, caps:0.33] I Aedle
+[x:0.62, y:0.63, caps:0.43] J.D. Ergle
+[x:0.62, y:0.64, caps:0.13] Research Chemist
+[x:0.62, y:0.68, caps:0.18] RuckrdDufre
+[x:0.62, y:0.72, caps:0.30] R. F. Dufresne
+[x:0.62, y:0.73, caps:0.13] Research Chemist
+[x:0.90, y:0.83, caps:0.00] 87086073
+[x:0.88, y:0.98, caps:1.00] FORM I (5 0]

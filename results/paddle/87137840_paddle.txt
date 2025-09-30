@@ -1,0 +1,15 @@
+[x:0.25, y:0.11, caps:1.00] T07281A
+[x:0.16, y:0.15, caps:0.79] SPONSCR'S NAME:  LOT1lard
+[x:0.16, y:0.20, caps:1.00] TEST ARTTCLE IDENTIFICATION:: B220
+[x:0.15, y:0.23, caps:0.95] Lor #: 012590 CONDITION OF SHIEMENT: GOODBROKEN LZAKED
+[x:0.15, y:0.29, caps:0.82] SHIPPED VIA:DirECT ExrESS
+[x:0.14, y:0.34, caps:0.60] PHYSICAL DESCRIPTION: Clear brOwn liquid
+[x:0.14, y:0.39, caps:0.88] NO. OF CONTAINERS: ne
+[x:0.14, y:0.43, caps:0.72] GROSS WEIGH:lOt rOVICEd NET WEIGHT (if prOVIDed) : 100 g
+[x:0.13, y:0.48, caps:0.67] EXPTRATION DATE:iot roVidEd
+[x:0.14, y:0.53, caps:0.57] SPECIAL HANDLING REUTREMENIS: . Store refrigeratEd in dark
+[x:0.13, y:0.61, caps:0.35] cevo o HalaPane DATE: 03/01790
+[x:0.13, y:0.68, caps:0.84] STUDY DIRECTCR/DEPARIMENT: - RaY David
+[x:0.12, y:0.71, caps:0.11] sIoune o cmmon cnstane, Hasdd Dane
+[x:0.13, y:0.76, caps:1.00] DATE: 03/02/90
+[x:0.89, y:0.83, caps:0.00] 87137840

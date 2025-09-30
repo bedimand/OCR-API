@@ -1,0 +1,15 @@
+[x:0.75, y:0.01, caps:1.00] ECEIVE
+[x:0.36, y:0.05, caps:0.92] PINAL REPORT AMENDMENT AliG 2 : 1987
+[x:0.09, y:0.12, caps:0.34] STUDY NAME Induction of Hepatic Enzymes in Rats (B202)
+[x:0.58, y:0.14, caps:0.00] i.
+[x:0.10, y:0.15, caps:1.00] STUDY NUMBER I-7016.401
+[x:0.09, y:0.17, caps:0.72] INITIATION DATEOctober 27, 1986 DATE OF FINAL REPORT February 26, 1987
+[x:0.09, y:0.21, caps:1.00] PART OF FINAL REPORT TO BE AMENDED (EXACT LOCATION)
+[x:0.14, y:0.24, caps:0.17] Page 14 and Table 4
+[x:0.09, y:0.28, caps:0.59] REASON FOR THE AMENDMENT Request from Sponsor
+[x:0.09, y:0.45, caps:0.24] AMENDMENT (Attach additional sheets as necessary)
+[x:0.24, y:0.49, caps:0.00] see attached
+[x:0.08, y:0.71, caps:1.00] APPROVALS
+[x:0.07, y:0.72, caps:1.00] DATE 8/7/87 STUBY DIRECTOR 87125460
+[x:0.06, y:0.83, caps:1.00] DATE 08/14/87
+[x:0.60, y:0.89, caps:1.00] QUALITY ASSURANCE

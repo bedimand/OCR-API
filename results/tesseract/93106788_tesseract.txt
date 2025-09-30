@@ -1,0 +1,40 @@
+[x:0.37, y:0.08, caps:1.00] LORILLARD MEDIA SERVICES
+[x:0.28, y:0.10, caps:1.00] ONE PARK AVENUE, NEW YORK, NY 10016-5896
+[x:0.36, y:0.13, caps:1.00] MAGAZINE INSERTION ORDER
+[x:0.13, y:0.19, caps:0.62] 0: Essence DATE: _MARCH 17, 1998
+[x:0.21, y:0.21, caps:1.00] 1800 BROADWAY
+[x:0.21, y:0.23, caps:1.00] NEW YORK, NY 10096 ‘ADVERTISER: _LORILLARD
+[x:0.21, y:0.24, caps:1.00] [ATTN JOYCE WINSTON
+[x:0.63, y:0.26, caps:1.00] PRODUCT: _NEWPORT.
+[x:0.13, y:0.29, caps:0.97] “Tuts ADVERTISEMENT COMPLIES WITH THE FTC REGUIREMENT FOR A WARNING STATEMENT AND "TAR AND NICOTINE LINE
+[x:0.13, y:0.30, caps:1.00] WHICH MUST APPEAR INALL CIGARETTE ADVERTISING. CHECK MATERIA: YOU RECEIVE AGAINST THE PROOF TO BE SURE 18
+[x:0.13, y:0.32, caps:1.00] ‘CORRECT. YNDER NO CIRCUMSTANCES ARE TO YOU BLN SUBSTITUTE MATEBIALS ALTER OR OMIT ANY COPY WITHOUT PRIOR,
+[x:0.13, y:0.33, caps:1.00] ‘AEPROVAL FROM LOBI\LARD MEDIA SERVICES,
+[x:0.13, y:0.36, caps:0.83] AD ‘CAPTION: _sPAce: ____ BATE:
+[x:0.13, y:0.39, caps:0.57] Neress3-7 FOUNTAIN COUPLE Psce sone 1995
+[x:0.12, y:0.44, caps:0.50] Po #7218
+[x:0.12, y:0.47, caps:1.00] \F UNABLE TO INSERT ON THE DATE ORDERED, KINDLY NOTIFY US AT ONCE AND WAIT FOR NEW INSERTION DATE. NO CREDIT
+[x:0.13, y:0.48, caps:1.00] (GAN BE ALLOWED SHOULD THIS ADVERTISEMENT APPEAR INCORRECTLY OR ON A DATE OTHER THAN THAT AUTHORIZED.
+[x:0.13, y:0.51, caps:0.96] POSmION URGENTLY REQUESTED: TO
+[x:0.13, y:0.55, caps:1.00] FAR FORWARD, OPPOSITE FULL EDITORIAL
+[x:0.13, y:0.57, caps:0.03] Ne coupon ad on backing page. — Mainian atleast sxpage separation from compative eds,
+[x:0.13, y:0.59, caps:0.02] No adhoivadverising mater enthetealto gets wii 6 pages of oad _
+[x:0.13, y:0.61, caps:1.00] COPY INSTRUCTIONS:
+[x:0.61, y:0.62, caps:0.81] SURGEEN GENERAL'S MOPHING ciete
+[x:0.61, y:0.63, caps:0.14] Shove borane Caden Moone.
+[x:0.13, y:0.65, caps:1.00] ‘5 COLOR PROOF ATTACHED, FILM FROM COLLIER WITH *D" WARNING J
+[x:0.13, y:0.67, caps:1.00] IMPORTANT INGTRUCTIONS: — ‘SPACE BILLING INSTHUGTIONS:
+[x:0.13, y:0.70, caps:0.06] ‘A. Chock masaal carouly agains rect “Tos space is being ecered by:
+[x:0.16, y:0.72, caps:0.75] respect LORILARD MEDIA SERVICES
+[x:0.15, y:0.72, caps:0.00] tomaha sue tooreeponds in every
+[x:0.13, y:0.73, caps:0.06] 8B. Please inspect repro metal immedatey
+[x:0.15, y:0.74, caps:0.04] They noua procuce good ping res Dict a invotes and tl shecking corios
+[x:0.15, y:0.77, caps:0.02] ‘avo us promptly # ct aatactany Gf agra and natona conse
+[x:0.13, y:0.77, caps:0.05] (© Poor priming wl not be pai tr Lomuiano ugora services
+[x:0.60, y:0.78, caps:0.56] ‘Gre Par VEN
+[x:0.13, y:0.80, caps:0.28] ©. Adio us atoncetinstucion 8 nt ITH FLOOR 8
+[x:0.16, y:0.81, caps:0.56] ear NEW YORK NEw yor 10018-5206 5
+[x:0.60, y:0.83, caps:0.64] TIN Steve WOLLoY 3
+[x:0.13, y:0.84, caps:0.03] Under nocrumstances aro youto space a
+[x:0.16, y:0.85, caps:0.00] ‘ut cur aavorisementwiheut space, 2
+[x:0.15, y:0.85, caps:0.08] Inston tom us. i

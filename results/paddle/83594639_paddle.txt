@@ -1,0 +1,12 @@
+[x:0.04, y:0.02, caps:1.00] 09/22/97 MON 15:35 FAX 12124554900 ROPER STARCH WORLDWIDE 001
+[x:0.36, y:0.08, caps:1.00] S"TAR"C"H
+[x:0.24, y:0.13, caps:1.00] TURNINE DATA INTO INTELLI
+[x:0.12, y:0.17, caps:0.33] Fax Fax Fax Fax Fax Fax Fax Fax Fax
+[x:0.09, y:0.21, caps:0.15] Date: September 22, 1997
+[x:0.09, y:0.24, caps:0.29] To: Ron Milstein From: "JJ" Klein
+[x:0.09, y:0.28, caps:0.12] Company: Lorillard
+[x:0.08, y:0.31, caps:0.12] Fax Number: (910) 335-7707 Pages (Including cover page): 3
+[x:0.94, y:0.68, caps:0.00] 83594639
+[x:0.08, y:0.88, caps:0.15] Roper Starch Worldwide Inc. 205 East 42nd Steet Roper Markating and Public Opinion Research
+[x:0.08, y:0.90, caps:0.17] New York NY 10017 212 559 0700 Tal Starch Advertising and Media Ressarch Friedinan Marketing Services
+[x:0.08, y:0.92, caps:0.29] 212867 7008 Fex INRA Workd Headquarters

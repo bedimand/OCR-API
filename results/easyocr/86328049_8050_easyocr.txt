@@ -1,0 +1,45 @@
+[x:0.08, y:0.08, caps:0.59] Fen-24-99 10a53 Fron-HUNTCN 1426 T-122 P.01/u4 1-186
+[x:0.37, y:0.10, caps:0.89] TeLeCOPY INFORMATION
+[x:0.39, y:0.14, caps:0.93] HuNTON & WILLIAMS
+[x:0.42, y:0.16, caps:0.13] Riverfront Plaza
+[x:0.40, y:0.17, caps:0.19] 951 East Byrd Street Telecopier Nos:
+[x:0.35, y:0.19, caps:0.12] Richmond, Virginia 23219-4074 (804)788-8218
+[x:0.42, y:0.20, caps:0.00] (804)788-8200 (804)788-8219
+[x:0.40, y:0.22, caps:0.12] 2nd Floar Telecopier (804)788-8689
+[x:0.13, y:0.25, caps:1.00] TO:
+[x:0.13, y:0.27, caps:0.21] Name: Ken Forrest
+[x:0.18, y:0.28, caps:1.00] FAXNQ: 212-403-2211
+[x:0.13, y:0.30, caps:0.20] Name: Tom Frederck
+[x:0.18, y:0.31, caps:0.83] EAXNOi 312-558-5700
+[x:0.13, y:0.33, caps:0.21] Name; Tom Griffin
+[x:0.18, y:0.34, caps:1.00] EAXNP: 617-523-1231
+[x:0.13, y:0.36, caps:0.21] Name: Even Humwiz
+[x:0.18, y:0.37, caps:1.00] EAXNO:: 202-942-5998
+[x:0.13, y:0.39, caps:0.22] Name: Bamy LeviniCurt Caton
+[x:0.18, y:0.40, caps:1.00] EAXNQ 415-772-6268
+[x:0.13, y:0.42, caps:0.17] Nama; Barbara Robbins
+[x:0.18, y:0.43, caps:0.83] FAXNOt 212-403-2033
+[x:0.13, y:0.45, caps:0.23] Name: Greg StonciRon Olson
+[x:0.18, y:0.47, caps:0.80] EXNQi 213-687-3702
+[x:0.13, y:0.48, caps:0.22] Namo: Bill AllinderI Jeff Nelson
+[x:0.18, y:0.50, caps:1.00] FAXNQ:: 816-421-2708
+[x:0.13, y:0.52, caps:0.18] Name: Steve Krlgbaum
+[x:0.18, y:0.53, caps:0.80] EXNQi 917-663-5593
+[x:0.13, y:0.55, caps:0.21] Name: Tom Stoever
+[x:0.18, y:0.56, caps:0.83] FAXNOj 303-832-0428
+[x:0.13, y:0.58, caps:0.18] Namo: Judy Bernstein-Gaeta
+[x:0.18, y:0.59, caps:1.00] FAXNA: 202-942-5999
+[x:0.13, y:0.61, caps:0.23] Name: Dal Burton
+[x:0.18, y:0.62, caps:1.00] EXNO: 404-581-8330
+[x:0.13, y:0.64, caps:0.29] Name: Andy McGaan
+[x:0.18, y:0.65, caps:0.80] BXNDf 312-861-2200
+[x:0.13, y:0.67, caps:0.20] Namc: James Wilson
+[x:0.18, y:0.69, caps:1.00] EAXNO : 336-335-7707
+[x:0.13, y:0.70, caps:0.19] Name; Eric SarnerIpoug Flemming/
+[x:0.31, y:0.72, caps:0.25] Peter McKenna
+[x:0.18, y:0.73, caps:1.00] FAXNOL 212-735-2000
+[x:0.13, y:0.75, caps:0.27] Name: Thomas McKim
+[x:0.18, y:0.76, caps:0.80] BXNDt 336-741-0671
+[x:0.12, y:0.78, caps:0.29] Name: D, Scott Wise
+[x:0.18, y:0.79, caps:0.83] FAXNOt 212-450-4800 8
+[x:0.30, y:0.82, caps:0.13] Original t0 follaw in mail: Pages (Including Caver) Yes 0 No 1

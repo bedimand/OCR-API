@@ -1,0 +1,39 @@
+[x:0.36, y:0.08, caps:1.00] LORILLARD MEDIA SERVICES
+[x:0.27, y:0.10, caps:1.00] ONE PARK AVENUE_ NEW YORK, NY 10016-5896
+[x:0.36, y:0.12, caps:1.00] MAGAZINE INSERTION QRDER
+[x:0.21, y:0.19, caps:1.00] ESSENCE DATE: VARCH 17, 1995
+[x:0.21, y:0.21, caps:0.82] Isp0 BAOADWAY
+[x:0.21, y:0.22, caps:0.89] NEX YORK, NY 10026 AdveATSER; LORILLAAD
+[x:0.21, y:0.24, caps:0.33] AMN; Joyce Winston
+[x:0.63, y:0.26, caps:0.57] PFODUCT: Newport
+[x:0.13, y:0.30, caps:0.71] This ADVEATISE'MENT COMPLIeS Wthtkettc RecuiReMENT Fcr_ WARNINS StaTeMeNT AnD TAR'ANDRICCTNE UNE
+[x:0.13, y:0.32, caps:0.72] whichMUST APPEAAIN ALL CIZARETTE ADvefNSING, CHECK MATEF IAL YOU AECeiVE AGAINST Tle prooftO Be Suretis
+[x:0.13, y:0.33, caps:1.00] CCRAECT, UNDEENO CIRCLHSTANCES AREJOYCLEUMSUBSTITUTEMATEAALS ALIEIOEQNILANYCQOFYWTHCUT PRICR
+[x:0.13, y:0.34, caps:0.76] Apppoval EIoMLQEILLABQMEDIA SERMICES
+[x:0.13, y:0.37, caps:1.00] A2# CAPTCN SPACE: DATE:
+[x:0.13, y:0.40, caps:0.92] NPT-531 FOUNTAIN COUPLE PscB JUNE 1995
+[x:0.13, y:0.45, caps:0.50] Po /7219
+[x:0.14, y:0.48, caps:0.82] UNABLE To INSEAT On THE Cate OADERED, KinDLY Notify Ls AT OnCe ANDWAIT FOA NEW INSEATION DATE NOCFEDM
+[x:0.16, y:0.49, caps:0.73] B2 ALLOwED SHOULD This Advert SEVeNT APPEAR IncOrRECTLY ORON DATE OTHERTHAN THAT AJthofized,
+[x:0.13, y:0.52, caps:0.50] POSITON URgenTLy reQuested;
+[x:0.13, y:0.55, caps:1.00] FAR FORWARD; OPPOSITE FULL EDITORIAL
+[x:0.14, y:0.58, caps:0.09] 7o colfon Dic*ing 0090- Maintun at Icast * % Page scparaticn fron compostiva aJ6
+[x:0.16, y:0.60, caps:0.06] adhonalle ~ Rotaeng makcranyinercal to cic9{e ta3 Wrilior poccs Df 40
+[x:0.13, y:0.61, caps:0.44] CCFY INSTAUCTICNS: {urczcn GemerAl"s Waphing Fesrette
+[x:0.61, y:0.63, caps:0.12] {r Ljnijin: 4193i Fonftile.
+[x:0.14, y:0.64, caps:0.98] CoLOR PAOOF ATTACHED , FILM FAOM COLLIER WITH WARNING
+[x:0.13, y:0.67, caps:1.00] IMFCRTANT INSTAUCTONS; SPACE ! ILLING INSTRUCTIONS:
+[x:0.15, y:0.70, caps:0.06] Chockmatenel cnretuly ojoins prc -| W7i? 9racq bcing ojdered Dy:
+[x:0.17, y:0.72, caps:0.13] Mrin Tm cortogpondyin Ovoc!
+[x:0.15, y:0.72, caps:0.65] [osdoct LORILLAAD #EDIA SerMCeS
+[x:0.15, y:0.74, caps:0.03] Pleaao inazec: tcpro melarial immealately:
+[x:0.15, y:0.75, caps:0.04] Theyihould produco pojd brnunatogulis Cirecta | invoicuy anotull enechno Coci0s
+[x:0.15, y:0.76, caps:0.02] Ecuet prompuy cota-klnctort j0g onal and nabonal cditjate 0:
+[x:0.16, y:0.79, caps:0.57] Poor Printbaki Eeto paic o LORILLAAD MECIA SERVICES
+[x:0.59, y:0.80, caps:0.86] CNE ?ARKAVENUE ATTN: StevEE 1
+[x:0.15, y:0.81, caps:0.24] Royso onso minstrucjong Elm FLCOR
+[x:0.16, y:0.81, caps:0.74] CCn{ NEX YORK NEX FoYiox 10016-5238
+[x:0.15, y:0.84, caps:0.20] Lnde Grcuna9n43 {onzC
+[x:0.16, y:0.85, caps:0.00] out cil ndvcnigemenlkhculspechc
+[x:0.16, y:0.86, caps:0.07] inglrucucn} (tom Us_
+[x:0.75, y:0.95, caps:0.00] 5

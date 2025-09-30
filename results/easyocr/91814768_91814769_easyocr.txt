@@ -1,0 +1,38 @@
+[x:0.43, y:0.03, caps:1.00] CORRECTED FORX"
+[x:0.26, y:0.05, caps:0.14] Whe Commtonfuealth of Zlassachusetts Offe: Usa Oul;
+[x:0.26, y:0.09, caps:1.00] OFFICE OF CAMPAIGN AND POLITICAL FINANCE
+[x:0.19, y:0.13, caps:1.00] REPORT OF
+[x:0.13, y:0.14, caps:0.88] CORPORATE TREASURER Form CPF 22
+[x:0.57, y:0.16, caps:0.30] (formerl} CPF 10)
+[x:0.07, y:0.17, caps:0.42] File with: Director (CHECK ONE)
+[x:0.14, y:0.19, caps:0.18] Oifice of Campaign & Political Finance Ore Ashburton Place, Boston MA 02108 D 6th Day Prior Election
+[x:0.75, y:0.21, caps:0.38] D Sth Day Lc Mont
+[x:0.75, y:0.23, caps:0.24] 2 ZOtn Day of tht Month
+[x:0.10, y:0.24, caps:0.13] Please Print or Type except Signatures. Finzl
+[x:0.09, y:0.26, caps:0.13] Name of Treasurer Alfred Petersoni Assi cant Treasureii Peter Marzullo
+[x:0.09, y:0.29, caps:0.12] Nare of Corporation Lorillard Tobacco_Company
+[x:0.09, y:0.31, caps:0.15] Address of Corporation One Park Avenue
+[x:0.29, y:0.34, caps:0.44] New York NY 10016-5895
+[x:0.09, y:0.37, caps:0.14] Question No. relating i0 Tobacco Excise Tax_Increase
+[x:0.57, y:0.38, caps:0.04] (Describe question brielly)
+[x:0.07, y:0.41, caps:0.04] submitted t0 the voters on Novenber 1937the Mas84chusetts ballot:
+[x:0.29, y:0.43, caps:0.18] (Election Date) (Name of City  Town or State)"
+[x:0.09, y:0.45, caps:0.02] Nots; If this expenditure made influence local ballo: question_ copy of this form should be filed with the city o
+[x:0.14, y:0.47, caps:0.00] roti clerk or election commission:
+[x:0.11, y:0.49, caps:0.14] Filt in Dates: Reporting Period Beginning _Occober 16, 92 and Ending November 1992
+[x:0.09, y:0.52, caps:0.00] certify that this report is true statement 0l the amouni valu: of every gift, payment, expenditure contribution
+[x:0.08, y:0.53, caps:0.06] promise i0 give Pi; expend Or =ontrbute_ {ogerhe: with &he da::; ?U:Pos: _ znd full nam2 1nd address of the person to whom Laws, Chapter 55, Section 22,a5 amended
+[x:0.08, y:0.55, caps:0.03] i:was mace. make this report in accordance #ith the require enis of Mass. Genera
+[x:0.08, y:0.58, caps:0.03] Signedunder the penalties ol perjury
+[x:0.50, y:0.60, caps:0.20] March 30 _ 993
+[x:0.08, y:0.62, caps:0.17] Trcorr Sighatzc Date
+[x:0.08, y:0.64, caps:0.64] Assistanc Treasurer EXPENDITURES OR DISBURSEMENTS
+[x:0.11, y:0.67, caps:0.22] Date To Whom Paid Purpose Amount Value"
+[x:0.11, y:0.68, caps:0.13] Paid (Alphabetical Listing Mandatory) Address
+[x:0.10, y:0.70, caps:0.34] 10426/92 Srauutee_Agains In-ALr_LAZA: P.o. Box 3979 . Boston_4 0211- Zax 0588 82s2 282,00
+[x:0.10, y:0.72, caps:0.28] 10/30/92 Cczaittee AGAlns1 [uair Texe] 2O;Box 3972 BostonL" ML Tiz Ozpose1s 602.00
+[x:0.96, y:0.77, caps:0.00] 1
+[x:0.51, y:0.91, caps:0.12] Total Expendiltes Disbursemenis on This Report
+[x:0.10, y:0.93, caps:0.07] Ic-kinc corins diions shocld ineludec nere. Totz] Expendiltes Disbursements Previousl; Reported 508 784.00
+[x:0.11, y:0.94, caps:0.14] A5tach adciticria 22828 Jeceseary, Total Expendilutes Discutstenus Dare 556 . 87L.C0
+[x:0.21, y:0.98, caps:0.15] RfportincReoi"r WrCtC coftivdorfieref Sidfe

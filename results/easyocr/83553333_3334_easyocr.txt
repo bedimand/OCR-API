@@ -1,0 +1,30 @@
+[x:0.06, y:0.07, caps:0.38] UTdcm 19:42 4GuU Juat Uuzt
+[x:0.32, y:0.11, caps:0.82] DAVIS Pork & WARDWELL
+[x:0.06, y:0.15, caps:0.15] Far Transmittal Sender
+[x:0.06, y:0.17, caps:0.14] 450 Lexington Avenue Charleg Dyggan
+[x:0.06, y:0.19, caps:0.19] New York; NY 10017 Date Number Of Pages (this page included)
+[x:0.06, y:0.20, caps:1.00] 212-450-A000
+[x:0.34, y:0.21, caps:0.12] November 12, 1999
+[x:0.34, y:0.23, caps:0.11] Sunder Vaice Number IEproblems recciving this fx call
+[x:0.34, y:0.25, caps:0.00] 212 450-4785 212-450-4785
+[x:0.34, y:0.27, caps:0.17] Sender Fxx Numbcr Rcfcrence
+[x:0.34, y:0.28, caps:0.00] 212-450-3785 17555 002
+[x:0.27, y:0.32, caps:0.17] Fax Number Company Recipient Phonc Number
+[x:0.06, y:0.34, caps:0.21] Thomas M. Sobol 617439-3278 Brown Rudnick Freed 617-330-9000
+[x:0.51, y:0.36, caps:0.17] & Gesmer
+[x:0.06, y:0.39, caps:0.24] Joseph F Rice 843-720-9290 Ness, Motley, 843-720-9000
+[x:0.51, y:0.41, caps:0.12] Loadholt;
+[x:0.51, y:0.43, caps:0.10] Richardson &
+[x:0.51, y:0.44, caps:0.20] Poole
+[x:0.06, y:0.48, caps:0.17] Robert V. Costcllo 617-722-0286 Schnoider, Reilly _ 617-227-7500
+[x:0.06, y:0.49, caps:0.19] Jeffrey D. Woolf Zabin & Costello
+[x:0.06, y:0.53, caps:0.18] Richard M. Heimann 415-956-1008 Lieff; Cabraser & 415-956-1000
+[x:0.51, y:0.55, caps:0.14] Heimann
+[x:0.06, y:0.58, caps:0.18] Michael P_ Thornton 617-720-2445 Thomton; Early & 617-720-1333
+[x:0.51, y:0.60, caps:0.17] Naumes
+[x:0.06, y:0.64, caps:0.14] Message:
+[x:0.85, y:0.72, caps:0.00] 1
+[x:0.09, y:0.90, caps:0.11] Cenudzu uuty 04  1EfLnlaD Incndcdotly [Cr taeperono  ZltyWtuieeeoe]endtny C03(aic infanytientlio prvileg 4 Fonbdet7
+[x:0.10, y:0.91, caps:0.02] otlern a nuleahd roz ds-lotue Dissaah1bon disrbulion or oopying o thi faximite 0 Le inforuiation herein by anyoae ether than the inanjed
+[x:0.09, y:0.92, caps:0.13] TLEELL L CapLct "574 N srontibl-fet L lvringlemts totha intmndud nsipkri b prohibred Eyoa have faccived thisaimikein 4765,
+[x:0.09, y:0.93, caps:0.06] picuc uotr [ETidislelyo" [eieelen= ud tet4m une fersinik-- by mtiL

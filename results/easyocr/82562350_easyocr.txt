@@ -1,0 +1,22 @@
+[x:0.07, y:0.06, caps:1.00] 705/01/00 10:21 3612 89 { 9090 LORILLARD_RGN#HI 0001/004
+[x:0.36, y:0.13, caps:0.68] Coeiland IOBACCO COMPANY
+[x:0.15, y:0.25, caps:0.33] Fax
+[x:0.16, y:0.33, caps:0.23] Tot Mr: Randy Spell From: Rick Redlield
+[x:0.16, y:0.36, caps:0.30] Fax Date; May 2000
+[x:0.16, y:0.39, caps:0.27] CC: Mr; Fred Paternostro Fax 952 894-9690
+[x:0.16, y:0.42, caps:0.25] Rc: Legal Iowa Pages:
+[x:0.16, y:0.45, caps:0.16] Durgent Oror Ruview Oplease Commont Oetcare Reply Oplcaso Recyclc
+[x:0.16, y:0.50, caps:0.12] Comments:
+[x:0.16, y:0.52, caps:0.14] Attached Is the Iowa Department of Revenue and Finance Minimum Legal Prices
+[x:0.16, y:0.54, caps:0.04] on Cigarettes as of April 3, 2000, am allempling t0 obtain capy of the actual
+[x:0.16, y:0.55, caps:0.07] Fair Trade Law end will forward as soon &5 oblained,
+[x:0.16, y:0.58, caps:0.25] Rick
+[x:0.41, y:0.74, caps:1.00] CORFDCNTIALIY NOTE
+[x:0.16, y:0.76, caps:0.08] Thu bcxlknrcnbn Mndeged J7d conldenl-1 Ikamation Intznded only lor to Usc of he indidu or onbty (med poamle '0 us atthe eddrns3 bekuvia to U: Postd Senor . ]
+[x:0.16, y:0.77, caps:0.07] JocYA mdr maxtoltha Bxronlla is notthe intended nciolnt & emokyen or Daent fesponsibk kr defyeing #Io the
+[x:0.16, y:0.79, caps:0.06] hendcd rdpicr yoluc tenby noFied ualany disemlnstpn Cpying c Uis fcoiio is sbicly Rrohiblled: Ifyouhavo
+[x:0.16, y:0.80, caps:0.12] neccived this lacemkMEIO , Please nolly us medlately by ueptione (cullbor IIJIted bLkow) and ralan Iho &pinal
+[x:0.42, y:0.86, caps:0.21] 205 River Rldje Chck
+[x:0.44, y:0.88, caps:0.60] PO: Box 1589
+[x:0.42, y:0.89, caps:0.27] Bumsville MN55317
+[x:0.41, y:0.91, caps:0.11] Telephone: (952) 891-2238

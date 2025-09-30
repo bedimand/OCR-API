@@ -1,0 +1,22 @@
+[x:0.38, y:0.06, caps:0.89] THE  obACCO INSTITUTE
+[x:0.11, y:0.08, caps:1.00] SHERATQOTGARLTORE PIPTH ANNUAL FEBRUARY ' 19-21 _ 1986
+[x:0.13, y:0.12, caps:0.97] HASHINOTON,D c= COLLEOE OP TOBACCO" KNOWLEDGE
+[x:0.40, y:0.15, caps:1.00] REO ISTRATION RORM
+[x:0.11, y:0.21, caps:1.00] NANE GEORGE_ TELFORD
+[x:0.12, y:0.24, caps:0.41] TITLE: Brand_Manager
+[x:0.11, y:0.27, caps:0.50] COMPANY; Lorillard
+[x:0.11, y:0.31, caps:0.44] ADDRESS 666 EiftlAuenue Nex York 10019
+[x:0.11, y:0.34, caps:1.00] PKONE: (212 ) 841-8787
+[x:0.11, y:0.40, caps:0.22] CHECK ONE Pleasa roberve room for me 4t tho Shereton-Carlton
+[x:0.32, y:0.44, caps:0.09] wIllemake Dy Okn housing arrengementa
+[x:0.10, y:0.50, caps:0.89] ARRIVAL DATE And TIME 2/18/80 :00
+[x:0.10, y:0.53, caps:0.95] DEPARTURE DATE ANd TIME 2/21/80 4.00
+[x:0.10, y:0.59, caps:0.02] Elease attach briof (50 words 8) autobiographicel okotch
+[x:0.10, y:0.62, caps:0.10] Note Your fIrot nane or nfcknane _ Your current prore8sIonal
+[x:0.10, y:0.65, caps:0.02] spon? 1bflitiou_ eployment background and whetover Pereonal
+[x:0.10, y:0.68, caps:0.06] formet1on you feo] would be holpful In g1vIng your fellow In-
+[x:0.10, y:0.70, caps:0.08] an Idea your actIvitiod and Interojte. tudenta
+[x:0.62, y:0.73, caps:0.07] The oretcheg w1ll
+[x:0.10, y:0.75, caps:0.07] e8gembled and Provided at tho opening clabo Be88Ion .
+[x:0.10, y:0.80, caps:0.17] Any que9 + Ions ? Call Connto Drath or Carol Mubgrava 4t 800/424-9876.
+[x:0.09, y:0.87, caps:0.90] "PLEASE RETURN IX SELP-ADDRESSED ENVELOPE BY PRIDAY , JanuarY 18, 1980'

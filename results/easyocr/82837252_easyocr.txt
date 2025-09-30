@@ -1,0 +1,23 @@
+[x:0.40, y:0.10, caps:0.60] New COMPETITIVE ProducTs Mla
+[x:0.13, y:0.14, caps:0.88] reporTED BYi BOBBY HILLS REGIONAL SALES HGR INDIANAPOLIS
+[x:0.18, y:0.18, caps:1.00] DATE; 8/10/90 TIME:
+[x:0.12, y:0.23, caps:1.00] SOURCE OF BALL RODECAP , NCBLESVILLE
+[x:0.13, y:0.24, caps:1.00] NFORMATION;
+[x:0.13, y:0.28, caps:1.00] MANUFACTURER:
+[x:0.12, y:0.33, caps:0.96] BRAND NAME; VICEROY KING BOX nd VICEROY LIGHTS KING BOX
+[x:0.12, y:0.38, caps:1.00] TYPE OF
+[x:0.12, y:0.39, caps:0.57] PrODUct:
+[x:0.12, y:0.43, caps:1.00] SIZE OR SIZES:
+[x:0.12, y:0.48, caps:1.00] UST PAICE:
+[x:0.12, y:0.52, caps:1.00] EXTENT OF
+[x:0.12, y:0.54, caps:1.00] DISTRIBUTION:
+[x:0.12, y:0.62, caps:1.00] OTHER
+[x:0.13, y:0.63, caps:1.00] INFORMATION: SEE ATTACEED INFORHATION SHEET
+[x:0.12, y:0.77, caps:1.00] CC:
+[x:0.14, y:0.78, caps:0.20] H: Tisch Telford Tetulli
+[x:0.14, y:0.79, caps:0.28] H. Orcut Schulz H. Korsh 1
+[x:0.13, y:0.81, caps:0.24] M.A Petorson w. Spears J.r- Slater
+[x:0.14, y:0.83, caps:0.27] H: Mau Rultalo
+[x:0.14, y:0.84, caps:0.24] Gordon Achey 8. T. Jonos
+[x:0.16, y:0.85, caps:0.18] Mastandrea McCann R.8 Goldbronnor
+[x:0.35, y:0.87, caps:0.27] Oiacolo ER Hartow

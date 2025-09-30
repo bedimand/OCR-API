@@ -1,0 +1,21 @@
+[x:0.06, y:0.10, caps:0.68] To: Mrs. KA Sparrow SUBMISSION DATE:
+[x:0.06, y:0.14, caps:0.79] FROM: RG Ryan JUNE 7
+[x:0.68, y:0.16, caps:1.00] AUG: 2
+[x:0.68, y:0.17, caps:1.00] OCT,
+[x:0.22, y:0.21, caps:1.00] NEWPORI LIGHIS HEAVY UP PROGRESS REPORT
+[x:0.06, y:0.27, caps:1.00] EFFECTIVENESS OF DISTRIBUTION ALLQWANCE
+[x:0.06, y:0.31, caps:1.00] DIRECT ACCOUNTNHOLESALERS:
+[x:0.06, y:0.33, caps:0.03] Distribution allowance was very effective in accomplishing our objectives: Allaccounts
+[x:0.06, y:0.35, caps:0.00] have purchased introductory products_
+[x:0.06, y:0.44, caps:1.00] DIRECT ACCOUNT CHAINS:
+[x:0.06, y:0.46, caps:0.13] Eagle Foods is the only Void;
+[x:0.06, y:0.55, caps:1.00] NON_DIRECT ACCOUNT CHAINS:
+[x:0.06, y:0.57, caps:0.01] Reception from these accounts most positive with solid incentitive t0 purchase
+[x:0.06, y:0.66, caps:1.00] EFFECTIVENESS OF THE
+[x:0.06, y:0.68, caps:1.00] RETAIL (1.00 OFF CARTON)
+[x:0.06, y:0.70, caps:0.31] DISTRIBUTION ALLOWANCE: Has been most helpful_in acquiring desireable distribution
+[x:0.37, y:0.72, caps:0.10] when needed by Sales Reps
+[x:0.06, y:0.80, caps:1.00] PROMQTIONAL ACTIIY
+[x:0.06, y:0.82, caps:0.88] 40c OFF PACK 8
+[x:0.06, y:0.85, caps:0.22] GENERAL MARKET: The 40c off promotions continue to be well received at the retail 3
+[x:0.27, y:0.87, caps:0.00] stores and by consumers as well:

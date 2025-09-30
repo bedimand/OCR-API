@@ -1,0 +1,15 @@
+[x:0.03, y:0.09, caps:1.00] . MEDIA CONTACT SHEET
+[x:0.07, y:0.15, caps:0.06] (Publication or station) (Locatlon/address)
+[x:0.07, y:0.19, caps:0.17] (Name) (Position)
+[x:0.07, y:0.22, caps:0.13] (Date) (Phone number)
+[x:0.07, y:0.25, caps:0.12] Reason for Contact
+[x:0.07, y:0.43, caps:0.11] Questions/Responses_——
+[x:0.06, y:0.71, caps:0.00] ln
+[x:0.94, y:0.73, caps:0.50] Rn
+[x:0.06, y:0.74, caps:0.77] esSsSsSsSsSsSsSSSsSSSSSSSSSSSSSSSSSSSSS
+[x:0.95, y:0.75, caps:0.00] 2
+[x:0.07, y:0.76, caps:0.11] Additional Comments 3
+[x:0.95, y:0.78, caps:0.00] a
+[x:0.06, y:0.79, caps:0.00] a
+[x:0.07, y:0.96, caps:0.06] Inquiry handled by:
+[x:0.28, y:0.97, caps:0.25] (Name)

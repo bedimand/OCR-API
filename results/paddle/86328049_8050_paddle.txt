@@ -1,0 +1,45 @@
+[x:0.06, y:0.04, caps:0.50] Feb-24-99 10:53 From-HUnton WILl 1426 T-122 P.01/04 F-066
+[x:0.38, y:0.07, caps:1.00] TELECOPY INFORMATION
+[x:0.40, y:0.10, caps:0.57] HUNton & WILliaMS
+[x:0.44, y:0.12, caps:0.13] Riveriront Plaza
+[x:0.41, y:0.14, caps:0.19] 951 East Byrd Street Telecopier Nos.
+[x:0.36, y:0.16, caps:0.12] Richmond, Virginia 23219-4074 (804)788-8218
+[x:0.43, y:0.17, caps:0.00] (804)788-8200 (804)788-8219
+[x:0.40, y:0.19, caps:0.12] 2nd Floor Telecopier (804)788-8669
+[x:0.09, y:0.22, caps:1.00] TO:
+[x:0.09, y:0.24, caps:0.21] Name: Ken Forrest
+[x:0.16, y:0.26, caps:1.00] FAX NO.: 212-403-2211
+[x:0.09, y:0.27, caps:0.19] Name: Tom Frederick
+[x:0.15, y:0.29, caps:1.00] FAX NO.: 312-558-5700
+[x:0.09, y:0.31, caps:0.21] Name: Tom Griffin
+[x:0.15, y:0.33, caps:1.00] FAX NO.: 617-523-1231
+[x:0.09, y:0.34, caps:0.20] Name: Even Hurwitz
+[x:0.15, y:0.36, caps:1.00] FAX NO.: 202-942-5999
+[x:0.09, y:0.38, caps:0.22] Name: Barry Levin/Curt Caton
+[x:0.15, y:0.39, caps:1.00] FAX NO.: 415-772-6268
+[x:0.08, y:0.41, caps:0.17] Name: Barbara Robbins
+[x:0.15, y:0.43, caps:1.00] FAX NO.: 212-403-2033
+[x:0.08, y:0.45, caps:0.24] Name: Greg Stone/Ron Olson
+[x:0.14, y:0.46, caps:1.00] FAX NQ.: 213-687-3702
+[x:0.08, y:0.48, caps:0.19] Name: Bill Allinder/Jeff Nelson
+[x:0.15, y:0.50, caps:1.00] FAX NO.: 816-421-2708
+[x:0.08, y:0.52, caps:0.18] Name: Steve Krigbaum
+[x:0.14, y:0.53, caps:1.00] FAX NO.: 917-663-5593
+[x:0.08, y:0.55, caps:0.21] Name: Tom Stoever
+[x:0.14, y:0.56, caps:1.00] FAX NO.: 303-832-0428
+[x:0.08, y:0.58, caps:0.18] Name: Judy Bernstein-Gaeta
+[x:0.14, y:0.60, caps:1.00] FAX NO.: 202-942-5999
+[x:0.08, y:0.62, caps:0.23] Name: Dal Burton
+[x:0.14, y:0.63, caps:1.00] FAX NO.: 404-581-8330
+[x:0.08, y:0.65, caps:0.29] Name: Andy McGaan
+[x:0.14, y:0.67, caps:1.00] FAX NO.: 312-861-2200
+[x:0.08, y:0.68, caps:0.20] Name: James Wilson
+[x:0.14, y:0.70, caps:1.00] FAX NO.: 336-335-7707
+[x:0.08, y:0.72, caps:0.19] Name: Eric Sarner/Doug Flemming/
+[x:0.29, y:0.73, caps:0.25] Peter McKenna
+[x:0.14, y:0.75, caps:1.00] FAX NO.: 212-735-2000
+[x:0.08, y:0.77, caps:0.27] Name: Thomas McKim
+[x:0.14, y:0.78, caps:1.00] FAX NO.: 336-741-0671
+[x:0.08, y:0.80, caps:0.29] Name: D. Scott Wise
+[x:0.14, y:0.82, caps:1.00] FAX NO.: 212-450-4800
+[x:0.29, y:0.82, caps:0.13] Original to follow in mail:YesNo _Pages (Including Cover) 86328049

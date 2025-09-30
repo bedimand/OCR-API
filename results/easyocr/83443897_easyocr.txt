@@ -1,0 +1,26 @@
+[x:0.12, y:0.06, caps:1.00] JAN 11 59 16.29 FR 8223 TO 32121123557F0024
+[x:0.12, y:0.11, caps:1.00] FAX TRANSMISSION
+[x:0.67, y:0.13, caps:1.00] DICKSTENN
+[x:0.67, y:0.14, caps:1.00] SHAPIRO
+[x:0.68, y:0.16, caps:1.00] MORIV &
+[x:0.68, y:0.18, caps:1.00] OSHINSKY
+[x:0.12, y:0.22, caps:0.40] DAT: January14,1999
+[x:0.12, y:0.25, caps:0.90] CLIENT NO:: L855z.002
+[x:0.12, y:0.29, caps:0.55] MESSAGE TO: Dewcy Tcdder
+[x:0.12, y:0.31, caps:0.33] COMPANY; Lorillard Tobacco Company
+[x:0.12, y:0.34, caps:1.00] FAX NUMBER: 336/373-6217
+[x:0.12, y:0.37, caps:1.00] PHONE: 336/373-6750
+[x:0.12, y:0.40, caps:0.31] FROM: Andy Zausncr and Rob Mang2s
+[x:0.12, y:0.43, caps:0.62] PHONE: 202 828-2259 and 202/828-2241
+[x:0.12, y:0.46, caps:0.64] PAGES (Including Cover Shoet): HARD COPY TO FOLLOW: YES NO
+[x:0.12, y:0.48, caps:0.26] MESSAGE: IThe following is for your rcview.
+[x:0.60, y:0.57, caps:0.50] Ky ISco
+[x:0.21, y:0.70, caps:0.06] Ifyour reccipt of chis transmission in cITOr, pleasc notify this firm irnmediarely by
+[x:0.21, y:0.72, caps:0.04] collect call to our Facsimilc Dcpartmcnt at 202-861-9106,and send thc original
+[x:0.21, y:0.73, caps:0.00] tansmission by rcnum miail at thc addrcss bclow.
+[x:0.21, y:0.76, caps:0.04] This transmision intcuded for thc solc usc ofthc indivjdual and cndnr IO wnom addresscd , ard
+[x:0.24, y:0.77, caps:0.03] conf un inlamction tbit privileged, couEdantbi and cxcmpt cAca tc undci "pplablc
+[x:0.29, y:0.79, caps:0.00] bereby noticd that any dscminaton disuribution duplicadon ofthis tausmixion b}
+[x:0.21, y:0.80, caps:0.01] aonicong nther tamahe intcndcdnudtcrcOrid dcsignatcd agcnr stictly prohibited
+[x:0.88, y:0.80, caps:0.00] 1
+[x:0.19, y:0.92, caps:0.33] 2101 Street NW Washinglcn; DC 20037-1526 Tel 202-785-9700 Fax 202-387-0E39

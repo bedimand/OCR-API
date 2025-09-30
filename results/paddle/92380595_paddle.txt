@@ -1,0 +1,41 @@
+[x:0.42, y:0.00, caps:0.00] xecutive
+[x:0.19, y:0.01, caps:1.00] 1 GULF+WESTE PLAZANEW YORK, NEW YORK 23-7773
+[x:0.42, y:0.04, caps:0.00] (212) 373-7500
+[x:0.16, y:0.05, caps:1.00] PRENTICE HALL CORPORATE SERVICES
+[x:0.00, y:0.09, caps:0.15] United States Corporation Company The Prentice-Hall Corporation System, Inc.
+[x:0.00, y:0.12, caps:1.00] DATE: 12-13-89 RECEIVED
+[x:0.00, y:0.14, caps:1.00] TO: LORILLARD, INC. ..TX 13951
+[x:0.09, y:0.16, caps:1.00] ONE PARK AVENUE 18TH FL DEC 14 89
+[x:0.08, y:0.18, caps:1.00] NEW Y0RK, N.Y. 10016
+[x:0.08, y:0.20, caps:1.00] ATTN: MR. ARTHUR STEVENS, ESQ.A. J. STEVENS MOTOR CARRIER
+[x:0.61, y:0.22, caps:1.00] STATUTORY OR X
+[x:0.00, y:0.25, caps:1.00] RE:: LORILLARD, INC. 033052
+[x:0.61, y:0.27, caps:0.14] Account #
+[x:0.20, y:0.28, caps:0.11] (Represented Company)
+[x:0.32, y:0.30, caps:1.00] NOTICE OF SERVICE OF PROCESS
+[x:0.03, y:0.32, caps:0.02] We enclose the following documents which were served upon:
+[x:0.16, y:0.34, caps:1.00] UNITED STATES CORPORATION COMPANY IN TEXAS
+[x:0.01, y:0.37, caps:0.00] as registered agent for the above-captioned corporation on_12-1:3-89_ via:
+[x:0.16, y:0.40, caps:0.13] Personal Service x Mail: Regular or Certified Certified #
+[x:0.05, y:0.43, caps:0.10] Summons A self-addressed stamped Notice of Mechanic's Lien
+[x:0.06, y:0.45, caps:0.08] Complaint envelope enclosed Notice of Default Jucgment
+[x:0.05, y:0.47, caps:0.08] Duplicate copies of the Notice and Garnishment _Subpoena
+[x:0.06, y:0.49, caps:0.09] Acknowledgement enclosed _Notice of Attorey's Lien
+[x:0.03, y:0.50, caps:0.87] x_Other: CITATION AND FIRST ORIGINAL PETITION
+[x:0.00, y:0.56, caps:1.00] TITLE OF ACTION: WEBSTER CRECC
+[x:0.67, y:0.57, caps:0.33] Case No. _475,592
+[x:0.00, y:0.60, caps:0.93] vs. R. J. REYNOLDS TOBACCO COMPANY, ET AL
+[x:0.00, y:0.64, caps:0.45] COURT OR JURISDICTION _ 345th Judicial District Court Travis County, Tx
+[x:0.00, y:0.65, caps:0.27] RETURN DATE Monday next 20 days from date of service
+[x:0.00, y:0.69, caps:0.18] Tel Call Placed Direct Coilect Spoke to Agent called New York Office
+[x:0.00, y:0.71, caps:1.00] COMMENTS:
+[x:0.00, y:0.75, caps:0.68] ATTORNEYS FOR CLAIMANT Mary Ellen Felps
+[x:0.27, y:0.77, caps:0.29] 1000 West Ave.
+[x:0.27, y:0.78, caps:0.38] Austin, TX. 78701
+[x:0.65, y:0.81, caps:1.00] P5626478-4873
+[x:0.00, y:0.84, caps:1.00] PAPERS TRANSMITTED TO CLIENT 92380595
+[x:0.00, y:0.86, caps:0.72] Other Fed-X × Reg. Mail FORM PREPARED BY PAT WIGGINS
+[x:0.00, y:0.90, caps:1.00] PLEASE ACKNOWLEDGE RECEIPT OF THIS NOTICE AND THE ENCLOSURES BY SIGNING AND RETURNING THE
+[x:0.00, y:0.92, caps:1.00] OUPLICATE COPY. A BUSINESS REPLY ENVELOPE IS ENCLOSED FOR YOUR CONVENIENCE
+[x:0.00, y:0.95, caps:0.17] Date Received: Signed:
+[x:0.44, y:0.97, caps:1.00] ORIGINAL

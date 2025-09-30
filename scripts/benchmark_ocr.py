@@ -12,10 +12,12 @@ from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Sequence, Tuple
 
 from difflib import SequenceMatcher
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
 
-from paddleocr import PaddleOCR
 from easyocr import Reader as EasyOCRReader
-from PIL import Image
+from paddleocr import PaddleOCR
 
 from engines import easyocr, paddle, tesseract
 from engines.utils import SUPPORTED_IMAGE_EXTS, load_pages
@@ -29,6 +31,7 @@ class SampleResult:
     char_similarity: Optional[float]
     expected_chars: int
     predicted_chars: int
+    lines: List[str]
 
 
 def read_ground_truth(csv_path: Path) -> Dict[str, str]:
@@ -105,23 +108,6 @@ def normalize_for_char_accuracy(value: str) -> str:
     return normalized
 
 
-def downscale_pages(pages, factor):
-    if factor is None or factor <= 0:
-        return pages
-    if factor >= 0.9999:
-        return pages
-    resized = []
-    for page in pages:
-        width, height = page.size
-        new_width = max(1, int(width * factor))
-        new_height = max(1, int(height * factor))
-        if new_width == width and new_height == height:
-            resized.append(page)
-            continue
-        resized.append(page.resize((new_width, new_height), Image.BILINEAR))
-    return resized
-
-
 def compute_similarity(expected: str, predicted: str) -> Tuple[Optional[float], Optional[float], int, int]:
     normalized_exp = normalize_for_similarity(expected)
     normalized_pred = normalize_for_similarity(predicted)
@@ -144,6 +130,23 @@ def compute_similarity(expected: str, predicted: str) -> Tuple[Optional[float], 
     return seq_similarity, char_similarity, len(char_exp), len(char_pred)
 
 
+def downscale_pages(pages: Sequence, factor: float):
+    if factor is None or factor <= 0:
+        return list(pages)
+    if factor >= 0.9999:
+        return list(pages)
+    resized = []
+    for page in pages:
+        width, height = page.size
+        new_width = max(1, int(width * factor))
+        new_height = max(1, int(height * factor))
+        if new_width == width and new_height == height:
+            resized.append(page)
+        else:
+            resized.append(page.resize((new_width, new_height)))
+    return resized
+
+
 def benchmark_engine(
     engine: str,
     samples: Sequence[Tuple[Path, Optional[str]]],
@@ -164,6 +167,7 @@ def benchmark_engine(
             return paddle.format_page_lines(page, ocr)
 
     elif engine == "tesseract":
+
         def process_page(page):
             return tesseract.format_page_lines(page, lang=tess_lang, psm=tess_psm, config=tess_config)
 
@@ -183,7 +187,7 @@ def benchmark_engine(
             continue
         try:
             pages, truncated = load_pages(path, dpi=dpi, max_pages=max_pages)
-        except Exception as exc:
+        except Exception as exc:  # noqa: BLE001
             print(f"Failed to load {path}: {exc}", file=sys.stderr)
             continue
         if not pages:
@@ -194,40 +198,46 @@ def benchmark_engine(
                 f"[{engine}] Warning: {path} exceeds {max_pages} pages, only first {max_pages} processed",
                 file=sys.stderr,
             )
+
         pages = downscale_pages(pages, downscale_factor)
+
         start = time.perf_counter()
         page_lines: List[List[str]] = []
         for page in pages:
             page_lines.append(process_page(page))
         end = time.perf_counter()
+
         flat_lines = flatten_lines(page_lines)
         flattened_text = strip_formatting(flat_lines)
         seq_similarity = None
         char_similarity = None
-        expected_char_count = 0
-        predicted_char_count = 0
+        expected_chars = predicted_chars = 0
         if expected_text is not None:
-            seq_similarity, char_similarity, expected_char_count, predicted_char_count = compute_similarity(
+            seq_similarity, char_similarity, expected_chars, predicted_chars = compute_similarity(
                 expected_text,
                 flattened_text,
             )
+        else:
+            predicted_chars = len(flattened_text)
+
         results.append(
             SampleResult(
                 path=path,
                 duration=end - start,
                 similarity=seq_similarity,
                 char_similarity=char_similarity,
-                expected_chars=expected_char_count,
-                predicted_chars=predicted_char_count,
+                expected_chars=expected_chars,
+                predicted_chars=predicted_chars,
+                lines=flat_lines,
             )
         )
     return results
 
 
-def summarize(engine: str, results: Sequence[SampleResult]) -> None:
+def summarize(engine: str, results: Sequence[SampleResult]):
     if not results:
         print(f"No samples processed for engine {engine}.")
-        return
+        return None
     durations = [r.duration for r in results]
     total_time = sum(durations)
     avg_time = statistics.mean(durations)
@@ -243,91 +253,112 @@ def summarize(engine: str, results: Sequence[SampleResult]) -> None:
         print(f"95th percentile time: {p95_time:.2f}s")
 
     seq_similarities = [r.similarity for r in results if r.similarity is not None]
+    avg_token = statistics.mean(seq_similarities) if seq_similarities else None
+    median_token = statistics.median(seq_similarities) if seq_similarities else None
     if seq_similarities:
-        print(f"Average similarity (token): {statistics.mean(seq_similarities):.3f}")
-        print(f"Median similarity (token): {statistics.median(seq_similarities):.3f}")
+        print(f"Average similarity (token): {avg_token:.3f}")
+        print(f"Median similarity (token): {median_token:.3f}")
+    else:
+        print("Average similarity (token): N/A")
 
     char_similarities = [r.char_similarity for r in results if r.char_similarity is not None]
+    avg_char = statistics.mean(char_similarities) if char_similarities else None
+    median_char = statistics.median(char_similarities) if char_similarities else None
     if char_similarities:
-        print(f"Average similarity (char): {statistics.mean(char_similarities):.3f}")
-        print(f"Median similarity (char): {statistics.median(char_similarities):.3f}")
+        print(f"Average similarity (char): {avg_char:.3f}")
+        print(f"Median similarity (char): {median_char:.3f}")
+    else:
+        print("Average similarity (char): N/A")
 
-    missing = sum(1 for r in results if r.similarity is None and r.char_similarity is None)
-    if missing:
-        print(f"Skipped similarity for {missing} unlabeled documents")
+    return {
+        "engine": engine,
+        "documents": len(results),
+        "total_time": total_time,
+        "avg_time": avg_time,
+        "median_time": median_time,
+        "avg_token": avg_token,
+        "median_token": median_token,
+        "avg_char": avg_char,
+        "median_char": median_char,
+    }
 
-    slowest = max(results, key=lambda r: r.duration)
-    print(f"Slowest document: {slowest.path} ({slowest.duration:.2f}s)")
+
+def save_plots(summaries: List[dict], output_prefix: str) -> None:
+    if not summaries:
+        return
+    engines = [s["engine"] for s in summaries]
+
+    avg_times = [s["avg_time"] for s in summaries]
+    plt.figure(figsize=(8, 4))
+    plt.bar(engines, avg_times, color="steelblue")
+    plt.ylabel("Average Time (s)")
+    plt.title("Average Processing Time per Engine")
+    plt.tight_layout()
+    time_path = Path(f"{output_prefix}_time.png")
+    plt.savefig(time_path)
+    plt.close()
+
+    if any(s["avg_token"] is not None for s in summaries):
+        token_values = [s["avg_token"] if s["avg_token"] is not None else 0 for s in summaries]
+        plt.figure(figsize=(8, 4))
+        plt.bar(engines, token_values, color="seagreen")
+        plt.ylabel("Average Token Similarity")
+        plt.ylim(0, 1)
+        plt.title("Average Token Similarity per Engine")
+        plt.tight_layout()
+        token_path = Path(f"{output_prefix}_token.png")
+        plt.savefig(token_path)
+        plt.close()
+    else:
+        token_path = None
+
+    if any(s["avg_char"] is not None for s in summaries):
+        char_values = [s["avg_char"] if s["avg_char"] is not None else 0 for s in summaries]
+        plt.figure(figsize=(8, 4))
+        plt.bar(engines, char_values, color="mediumpurple")
+        plt.ylabel("Average Char Similarity")
+        plt.ylim(0, 1)
+        plt.title("Average Character Similarity per Engine")
+        plt.tight_layout()
+        char_path = Path(f"{output_prefix}_char.png")
+        plt.savefig(char_path)
+        plt.close()
+    else:
+        char_path = None
+
+    print(f"Saved visualization charts: {time_path}", file=sys.stderr)
+    if token_path:
+        print(f"Saved token similarity chart: {token_path}", file=sys.stderr)
+    if char_path:
+        print(f"Saved character similarity chart: {char_path}", file=sys.stderr)
+
+
+def export_results(engine: str, results: Sequence[SampleResult], dataset_root: Path, output_dir: Path) -> None:
+    output_dir.mkdir(parents=True, exist_ok=True)
+    engine_dir = output_dir / engine.replace(" ", "_")
+    engine_dir.mkdir(exist_ok=True)
+    for item in results:
+        rel_name = item.path.name
+        file_path = engine_dir / f"{Path(rel_name).stem}_{engine}.txt"
+        file_path.parent.mkdir(parents=True, exist_ok=True)
+        file_path.write_text("\n".join(item.lines), encoding="utf-8")
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Benchmark OCR engines across the dataset")
-    parser.add_argument(
-        "--root",
-        type=Path,
-        default=Path("dataset-high-quality"),
-        help="Dataset root directory to scan for CSVs and images",
-    )
-    parser.add_argument(
-        "--limit",
-        type=int,
-        default=10,
-        help="Maximum number of documents to process (0 means all)",
-    )
-    parser.add_argument(
-        "--dpi",
-        type=int,
-        default=300,
-        help="DPI used when rasterizing PDFs",
-    )
-    parser.add_argument(
-        "--max-pages",
-        type=int,
-        default=30,
-        help="Maximum number of pages per PDF",
-    )
-    parser.add_argument(
-        "--downscale",
-        type=float,
-        default=1.0,
-        help="Uniform scale factor applied to images before OCR (<=1 to downscale)",
-    )
-    parser.add_argument(
-        "--paddle-lang",
-        default="en",
-        help="Language code for PaddleOCR",
-    )
-    parser.add_argument(
-        "--tesseract-lang",
-        default="eng",
-        help="Language code for Tesseract",
-    )
-    parser.add_argument(
-        "--tesseract-psm",
-        type=int,
-        default=6,
-        help="Tesseract page segmentation mode",
-    )
-    parser.add_argument(
-        "--tesseract-config",
-        default=None,
-        help="Additional config string passed to Tesseract",
-    )
-    parser.add_argument(
-        "--easyocr-langs",
-        default="en",
-        help="Comma-separated language codes for EasyOCR",
-    )
-    parser.add_argument(
-        "--easyocr-gpu",
-        action="store_true",
-        help="Enable GPU acceleration for EasyOCR",
-    )
-    parser.add_argument(
-        "--include-unlabeled",
-        action="store_true",
-        help="Also benchmark unlabeled images (without similarity scores)",
-    )
+    parser.add_argument("--root", type=Path, default=Path("dataset-high-quality"), help="Dataset root directory to scan for files")
+    parser.add_argument("--limit", type=int, default=10, help="Maximum number of documents to process (0 means all)")
+    parser.add_argument("--dpi", type=int, default=300, help="DPI used when rasterizing PDFs")
+    parser.add_argument("--max-pages", type=int, default=30, help="Maximum number of pages per PDF")
+    parser.add_argument("--downscale", type=float, default=1.0, help="Uniform scaling factor applied before OCR (<=1 to downscale)")
+    parser.add_argument("--paddle-lang", default="en", help="Language code for PaddleOCR")
+    parser.add_argument("--tesseract-lang", default="eng", help="Language code for Tesseract")
+    parser.add_argument("--tesseract-psm", type=int, default=6, help="Tesseract page segmentation mode")
+    parser.add_argument("--tesseract-config", default=None, help="Additional config string passed to Tesseract")
+    parser.add_argument("--easyocr-langs", default="en", help="Comma-separated language codes for EasyOCR")
+    parser.add_argument("--easyocr-gpu", action="store_true", help="Enable GPU acceleration for EasyOCR")
+    parser.add_argument("--include-unlabeled", action="store_true", help="Also benchmark unlabeled files (without similarity scores)")
+    parser.add_argument("--export-results", action="store_true", help="Write OCR outputs to the results/ directory")
     parser.add_argument(
         "--engines",
         nargs="+",
@@ -364,9 +395,13 @@ def main() -> None:
     if not easyocr_langs:
         easyocr_langs = ["en"]
 
-    downscale_factor = args.downscale if args.downscale and args.downscale > 0 else 1.0
+    print(
+        f"Benchmarking {len(samples)} document(s) from {root} "
+        f"(downscale={args.downscale})"
+    )
 
-    print(f"Benchmarking {len(samples)} document(s) from {root}")
+    summaries: List[dict] = []
+    all_results: dict[str, List[SampleResult]] = {}
     for engine in args.engines:
         results = benchmark_engine(
             engine=engine,
@@ -379,10 +414,22 @@ def main() -> None:
             tess_config=args.tesseract_config,
             easyocr_langs=easyocr_langs,
             easyocr_gpu=args.easyocr_gpu,
-            downscale_factor=downscale_factor,
+            downscale_factor=args.downscale,
         )
-        summarize(engine, results)
+        all_results[engine] = results
+        summary = summarize(engine, results)
+        if summary:
+            summaries.append(summary)
+
+    if summaries:
+        save_plots(summaries, output_prefix="benchmark_ocr")
+
+    if args.export_results:
+        export_dir = Path("results")
+        for engine, results in all_results.items():
+            export_results(engine, results, dataset_root=root, output_dir=export_dir)
 
 
 if __name__ == "__main__":
     main()
+

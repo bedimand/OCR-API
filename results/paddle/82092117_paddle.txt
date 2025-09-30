@@ -1,0 +1,23 @@
+[x:0.09, y:0.05, caps:0.88] ATT. GEN. ADMIN, OFFICE FaX:614-466-5087 Dec 10 '98 17:46 P.01
+[x:0.16, y:0.14, caps:0.13] Attorney General
+[x:0.16, y:0.16, caps:0.19] Betty D. Montgomery
+[x:0.35, y:0.24, caps:1.00] CONFIDENTIAL FACSIMILE
+[x:0.33, y:0.26, caps:1.00] TRANSMISSION COVER SHEET
+[x:0.38, y:0.29, caps:1.00] FAX NO. (614) 466-5087
+[x:0.09, y:0.34, caps:0.27] TO: George Baroody
+[x:0.09, y:0.38, caps:1.00] FAXNUMBER: (336) 335-7392 PHONE NUMBER: (336) 335-7363
+[x:0.09, y:0.41, caps:1.00] DATE: 12/10/98
+[x:0.09, y:0.45, caps:1.00] NUMBER OF PAGES INCLUDING COVER SHEET: 3
+[x:0.09, y:0.48, caps:0.61] SENDER/PHONE NUMBER: _June Flynn for Eric BroWT/(614) 466-8980
+[x:0.08, y:0.52, caps:1.00] SPECLAL INSTRUCTIONS:
+[x:0.19, y:0.61, caps:1.00] IF YOU DO NOT RECEIVE ANY OF THE PAGES PROPERLY,
+[x:0.35, y:0.63, caps:1.00] PLEASE CONTACT SENDER
+[x:0.37, y:0.65, caps:1.00] AS SOON AS POSSIBLE
+[x:0.09, y:0.71, caps:1.00] NOTE: THIS MESSAGE IS INTENDED ONLY FOR THE USE OF THE INDIVIDUAL OR ENTITY TO WHOM IT IS ADDRESSED AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED,
+[x:0.18, y:0.73, caps:0.37] CONFIDENTLAL, AND EXEMPT FROM DISCLOSURE UNDER APPLICABLE LAW. If the reader of this message is not the intended recipient or the employee or agent responsible for delivering
+[x:0.18, y:0.76, caps:0.00] the message to the intended recipient, you are hereby notified that any dissemination, distribution. copying. or conveying of this communication in any manner is strictly prohibited. if you have
+[x:0.18, y:0.79, caps:0.00] recaived this communication in error, please notify us immedintely by telephone and retirn the 82092117
+[x:0.18, y:0.83, caps:0.00] cooperation.
+[x:0.21, y:0.91, caps:0.14] State Office Tower / 30 East Broad Street/ Columbus, Ohio 43215-3428 www.ag.state.oh.us
+[x:0.38, y:0.94, caps:0.15] An Equal Opportunity Employer
+[x:0.38, y:0.97, caps:0.09] Cprinted on Peayelod repor

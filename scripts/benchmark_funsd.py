@@ -1,4 +1,4 @@
-"""Benchmark OCR performance on the FUNSD dataset."""
+"""Benchmark OCR engines performance on the FUNSD dataset."""
 
 import argparse
 import json
@@ -9,9 +9,12 @@ import time
 import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, Iterable, List, Optional, Sequence, Tuple
+from typing import Dict, List, Optional, Sequence, Tuple
 
 from difflib import SequenceMatcher
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
 
 from easyocr import Reader as EasyOCRReader
 from paddleocr import PaddleOCR
@@ -29,6 +32,7 @@ class SampleResult:
     char_similarity: Optional[float]
     expected_chars: int
     predicted_chars: int
+    lines: List[str]
 
 
 @dataclass
@@ -103,7 +107,7 @@ def downscale_image(image: Image.Image, factor: float) -> Image.Image:
     new_height = max(1, int(height * factor))
     if new_width == width and new_height == height:
         return image
-    return image.resize((new_width, new_height), Image.BILINEAR)
+    return image.resize((new_width, new_height))
 
 
 def collect_funsd_samples(root: Path, split: str, limit: int) -> List[FunsdSample]:
@@ -239,15 +243,16 @@ def benchmark_engine(
                 char_similarity=char_similarity,
                 expected_chars=expected_chars,
                 predicted_chars=predicted_chars,
+                lines=lines,
             )
         )
     return results
 
 
-def summarize(engine: str, results: Sequence[SampleResult]) -> None:
+def summarize(engine: str, results: Sequence[SampleResult]):
     if not results:
         print(f"No samples processed for engine {engine}.")
-        return
+        return None
     durations = [r.duration for r in results]
     total_time = sum(durations)
     avg_time = statistics.mean(durations)
@@ -261,26 +266,104 @@ def summarize(engine: str, results: Sequence[SampleResult]) -> None:
     print(f"Median time per doc: {median_time:.2f}s")
     if p95_time is not None:
         print(f"95th percentile time: {p95_time:.2f}s")
-
+    
     seq_similarities = [r.similarity for r in results if r.similarity is not None]
+    avg_token = statistics.mean(seq_similarities) if seq_similarities else None
+    median_token = statistics.median(seq_similarities) if seq_similarities else None
     if seq_similarities:
-        print(f"Average similarity (token): {statistics.mean(seq_similarities):.3f}")
-        print(f"Median similarity (token): {statistics.median(seq_similarities):.3f}")
+        print(f"Average similarity (token): {avg_token:.3f}")
+        print(f"Median similarity (token): {median_token:.3f}")
+    else:
+        print("Average similarity (token): N/A")
 
     char_similarities = [r.char_similarity for r in results if r.char_similarity is not None]
+    avg_char = statistics.mean(char_similarities) if char_similarities else None
+    median_char = statistics.median(char_similarities) if char_similarities else None
     if char_similarities:
-        print(f"Average similarity (char): {statistics.mean(char_similarities):.3f}")
-        print(f"Median similarity (char): {statistics.median(char_similarities):.3f}")
+        print(f"Average similarity (char): {avg_char:.3f}")
+        print(f"Median similarity (char): {median_char:.3f}")
+    else:
+        print("Average similarity (char): N/A")
 
-    slowest = max(results, key=lambda r: r.duration)
-    print(f"Slowest document: {slowest.path} ({slowest.duration:.2f}s)")
+    return {
+        "engine": engine,
+        "documents": len(results),
+        "total_time": total_time,
+        "avg_time": avg_time,
+        "median_time": median_time,
+        "avg_token": avg_token,
+        "median_token": median_token,
+        "avg_char": avg_char,
+        "median_char": median_char,
+    }
+
+
+def save_plots(summaries: List[dict], output_prefix: str) -> None:
+    if not summaries:
+        return
+    engines = [s["engine"] for s in summaries]
+
+    avg_times = [s["avg_time"] for s in summaries]
+    plt.figure(figsize=(8, 4))
+    plt.bar(engines, avg_times, color="steelblue")
+    plt.ylabel("Average Time (s)")
+    plt.title("Average Processing Time per Engine")
+    plt.tight_layout()
+    time_path = Path(f"{output_prefix}_time.png")
+    plt.savefig(time_path)
+    plt.close()
+
+    if any(s["avg_token"] is not None for s in summaries):
+        token_values = [s["avg_token"] if s["avg_token"] is not None else 0 for s in summaries]
+        plt.figure(figsize=(8, 4))
+        plt.bar(engines, token_values, color="seagreen")
+        plt.ylabel("Average Token Similarity")
+        plt.ylim(0, 1)
+        plt.title("Average Token Similarity per Engine")
+        plt.tight_layout()
+        token_path = Path(f"{output_prefix}_token.png")
+        plt.savefig(token_path)
+        plt.close()
+    else:
+        token_path = None
+
+    if any(s["avg_char"] is not None for s in summaries):
+        char_values = [s["avg_char"] if s["avg_char"] is not None else 0 for s in summaries]
+        plt.figure(figsize=(8, 4))
+        plt.bar(engines, char_values, color="mediumpurple")
+        plt.ylabel("Average Char Similarity")
+        plt.ylim(0, 1)
+        plt.title("Average Character Similarity per Engine")
+        plt.tight_layout()
+        char_path = Path(f"{output_prefix}_char.png")
+        plt.savefig(char_path)
+        plt.close()
+    else:
+        char_path = None
+
+    print(f"Saved visualization charts: {time_path}", file=sys.stderr)
+    if token_path:
+        print(f"Saved token similarity chart: {token_path}", file=sys.stderr)
+    if char_path:
+        print(f"Saved character similarity chart: {char_path}", file=sys.stderr)
+
+
+def export_results(engine: str, results: Sequence[SampleResult], dataset_root: Path, output_dir: Path) -> None:
+    output_dir.mkdir(parents=True, exist_ok=True)
+    engine_dir = output_dir / engine.replace(" ", "_")
+    engine_dir.mkdir(exist_ok=True)
+    for item in results:
+        rel_name = item.path.name
+        file_path = engine_dir / f"{Path(rel_name).stem}_{engine}.txt"
+        file_path.parent.mkdir(parents=True, exist_ok=True)
+        file_path.write_text("\n".join(item.lines), encoding="utf-8")
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Benchmark OCR engines on the FUNSD dataset")
     parser.add_argument("--root", type=Path, default=Path("dataset-funsd"), help="FUNSD root directory")
     parser.add_argument("--split", choices=["training", "testing"], default="testing", help="Dataset split to benchmark")
-    parser.add_argument("--limit", type=int, default=1, help="Limit number of documents (0 means all)")
+    parser.add_argument("--limit", type=int, default=0, help="Limit number of documents (0 means all)")
     parser.add_argument("--downscale", type=float, default=1.0, help="Uniform scaling factor applied before OCR (<=1 to downscale)")
     parser.add_argument("--paddle-lang", default="en", help="Language code for PaddleOCR")
     parser.add_argument("--tesseract-lang", default="eng", help="Language code for Tesseract")
@@ -288,10 +371,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--tesseract-config", default=None, help="Additional config string passed to Tesseract")
     parser.add_argument("--easyocr-langs", default="en", help="Comma-separated language codes for EasyOCR")
     parser.add_argument("--easyocr-gpu", action="store_true", help="Enable GPU acceleration for EasyOCR")
+    parser.add_argument("--export-results", action="store_true", help="Write OCR outputs to the results/ directory")
     parser.add_argument(
         "--engines",
         nargs="+",
-        default=["paddle"],
+        default=["paddle", "tesseract", "easyocr"],
         choices=["paddle", "tesseract", "easyocr"],
         help="OCR engines to benchmark",
     )
@@ -314,14 +398,18 @@ def main() -> None:
     if not easyocr_langs:
         easyocr_langs = ["en"]
 
-    downscale_factor = args.downscale if args.downscale and args.downscale > 0 else 1.0
+    print(
+        f"Benchmarking {len(samples)} document(s) from {args.split} split under {root} "
+        f"(downscale={args.downscale})"
+    )
 
-    print(f"Benchmarking {len(samples)} document(s) from {args.split} split under {root} (downscale={downscale_factor})")
+    summaries: List[dict] = []
+    all_results: dict[str, List[SampleResult]] = {}
     for engine in args.engines:
         results = benchmark_engine(
             engine=engine,
             samples=samples,
-            downscale_factor=downscale_factor,
+            downscale_factor=args.downscale,
             paddle_lang=args.paddle_lang,
             tess_lang=args.tesseract_lang,
             tess_psm=args.tesseract_psm,
@@ -329,8 +417,21 @@ def main() -> None:
             easyocr_langs=easyocr_langs,
             easyocr_gpu=args.easyocr_gpu,
         )
-        summarize(engine, results)
+        all_results[engine] = results
+        summary = summarize(engine, results)
+        if summary:
+            summaries.append(summary)
+
+    if summaries:
+        output_prefix = f"benchmark_funsd_{args.split}"
+        save_plots(summaries, output_prefix)
+
+    if args.export_results:
+        export_dir = Path("results")
+        for engine, results in all_results.items():
+            export_results(engine, results, dataset_root=root, output_dir=export_dir)
 
 
 if __name__ == "__main__":
     main()
+

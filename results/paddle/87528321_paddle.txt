@@ -1,0 +1,37 @@
+[x:0.31, y:0.00, caps:1.00] F-1001 7/88 RFC 880029
+[x:0.00, y:0.03, caps:0.42] ORIGINATOR NAme: Dan Straka Date Prepared Page Date
+[x:0.00, y:0.05, caps:0.09] Position 8-17-88 i_of_1 8-17-88
+[x:0.57, y:0.07, caps:0.22] Telephone No. Received By D. Marsh
+[x:0.60, y:0.09, caps:0.00] 5398
+[x:0.00, y:0.10, caps:0.14] Department Name and Location Change Order Number
+[x:0.10, y:0.11, caps:0.14] 611-13_3rd_Floor 8410059
+[x:0.00, y:0.13, caps:0.14] Brand/Assembly/Material Affected
+[x:0.01, y:0.14, caps:0.22] Glass Mat and Slit Glass Mat
+[x:0.00, y:0.16, caps:0.17] Type of Change
+[x:0.06, y:0.19, caps:0.12] addition Design Spec Change Emergency
+[x:0.06, y:0.21, caps:0.13] Deletion Compatibity Cost Reduction Urgent
+[x:0.01, y:0.23, caps:0.11] x Change Manufacturability Other x Routine
+[x:0.00, y:0.26, caps:0.10] Description of Problem
+[x:0.04, y:0.28, caps:0.01] The current epecifications for glass mat and slit glass mat can be made more accurate
+[x:0.04, y:0.29, caps:0.00] and complete with the following changes:
+[x:0.04, y:0.32, caps:0.10] Glass Mat: Delete C-glass from item description.
+[x:0.25, y:0.34, caps:0.03] Change glass softening point to 756 +/- 1o degrees from 750.
+[x:0.26, y:0.36, caps:0.04] Change rolls per pallet to 2 from 1.
+[x:0.05, y:0.39, caps:0.12] Slit Glass Mat: Delete C-glass from item description.
+[x:0.26, y:0.41, caps:0.04] Change bobbins per stack to 47 from 45.
+[x:0.26, y:0.42, caps:0.03] Add outside diameter specs of 3o.0, 26.0 - 31.0 inches.
+[x:0.00, y:0.54, caps:0.12] Proposed Solution
+[x:0.05, y:0.55, caps:0.04] Change the current Mss specifications as outlined above.
+[x:0.96, y:0.60, caps:0.00] 51484 3791
+[x:0.04, y:0.74, caps:0.14] Accepted for Signature Title Date
+[x:0.04, y:0.77, caps:0.08] Investigation
+[x:0.01, y:0.80, caps:0.33] Final Disposition Approved Rejected SPEC HOLBER
+[x:0.94, y:0.82, caps:1.00] DATE
+[x:0.01, y:0.83, caps:0.13] Action Taken or Reason for Rejection 8-17-88
+[x:0.67, y:0.85, caps:1.00] PROOUCT REVIEW COMMITTEE
+[x:0.67, y:0.87, caps:0.83] KAE KAn
+[x:0.67, y:0.89, caps:0.25] Rouf
+[x:0.39, y:0.91, caps:0.62] Proposed Effective Date: PRODUCT AGCEPTANCE COMMITTEE
+[x:0.40, y:0.93, caps:0.17] 9/8/88 isy Dnu 9/2/88
+[x:0.67, y:0.96, caps:1.00] N 748:
+[x:0.87, y:0.97, caps:0.00] 542

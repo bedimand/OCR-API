@@ -1,0 +1,30 @@
+[x:0.09, y:0.08, caps:0.70] “11/08/07 11:03 tpe1a 884 oses LORILLARD_TAXPA ++ GREENSBOR @ov2/003
+[x:0.29, y:0.19, caps:0.16] Retail Excel Progress Report
+[x:0.12, y:0.20, caps:0.07] Submission for: Distribution by/to:
+[x:0.12, y:0.21, caps:0.32] “uly 3 ) OM to RSM 1st of Month
+[x:0.12, y:0.23, caps:0.37] August29() To: B.W.Caldarella RSM to RW.C, 10th
+[x:0.12, y:0.24, caps:0.29] September 30 ( ) oo: DOS.
+[x:0.12, y:0.27, caps:0.23] October 31 (xX) From: Kent 8, Mills
+[x:0.12, y:0.29, caps:0.12] November28 ( )
+[x:0.12, y:0.30, caps:0.17] December30 ( ) Area: 5 Region: 17
+[x:0.12, y:0.34, caps:0.08] Acceptance/Response: What is the retailers response to Lorillard's Excel
+[x:0.12, y:0.35, caps:0.06] Merchandising pian?
+[x:0.11, y:0.40, caps:0.10] ‘system we have not heen as successful, The P.O.S. requirements of the P-1 Plan
+[x:0.11, y:0.44, caps:0.00] a
+[x:0.11, y:0.45, caps:0.00] a
+[x:0.11, y:0.47, caps:0.08] Independents:
+[x:0.11, y:0.57, caps:0.50] eS
+[x:0.11, y:0.59, caps:0.06] Hardware Evaluation/Effectiveness: Comment on the assembly of displays and
+[x:0.11, y:0.61, caps:0.00] application of shields:
+[x:0.11, y:0.64, caps:0.00] sanceming the inability to be flush with the counter andior up against the register.
+[x:0.11, y:0.71, caps:0.00] a
+[x:0.10, y:0.73, caps:0.22] Plans Only:
+[x:0.31, y:0.76, caps:0.00] 7 .
+[x:0.11, y:0.78, caps:0.00] a
+[x:0.10, y:0.78, caps:0.00] a
+[x:0.11, y:0.83, caps:0.00] a ©
+[x:0.91, y:0.85, caps:0.00] ie
+[x:0.91, y:0.88, caps:0.00] a
+[x:0.91, y:0.91, caps:0.00] a
+[x:0.91, y:0.92, caps:0.50] oS
+[x:0.91, y:0.93, caps:0.00] =

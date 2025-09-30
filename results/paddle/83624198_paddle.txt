@@ -1,0 +1,26 @@
+[x:0.10, y:0.05, caps:1.00] FEB 25 '98 18:23 FR TO #128557*882# P.01
+[x:0.09, y:0.12, caps:1.00] FAX TRANSMISSION
+[x:0.72, y:0.14, caps:1.00] DICKSTEIN
+[x:0.72, y:0.16, caps:1.00] SHAPIRO
+[x:0.72, y:0.18, caps:1.00] MORIN
+[x:0.72, y:0.20, caps:1.00] OOSHINSKY
+[x:0.09, y:0.25, caps:0.42] DATE: February 25, 1998
+[x:0.10, y:0.28, caps:1.00] CLIENT NO.: L8557.002
+[x:0.09, y:0.31, caps:0.50] MESSAGE TO: Ronald S. Milstein
+[x:0.09, y:0.34, caps:0.33] COMPANY: Lorillard Tobacco Company
+[x:0.09, y:0.37, caps:1.00] FAX NUMBER: 910/335-7707
+[x:0.09, y:0.40, caps:1.00] PHONE: 910/335-7718
+[x:0.09, y:0.43, caps:0.40] FROM: Andy Zausner
+[x:0.09, y:0.46, caps:1.00] PHONE: 202/828-2259
+[x:0.09, y:0.49, caps:0.67] PAGES (Including CoVer Sheet): 12__ HARD COPY TO FOLLOW: YES NO
+[x:0.09, y:0.52, caps:0.16] MESSAGE: Sec attached fax from the Committee on Commerce just received in my
+[x:0.19, y:0.54, caps:0.05] officc. Call me to discuss.
+[x:0.18, y:0.75, caps:0.01] If your receipt of this transmission is in error, please notify this firm immediately by
+[x:0.18, y:0.76, caps:0.04] collect call to our Facsimile Department at 202-861-9106, and send the original
+[x:0.18, y:0.78, caps:0.00] transmission to us by retum mail at the address below.
+[x:0.17, y:0.81, caps:0.01] This transmission is intcnded for the sole use of the individual and cntity to whom it is addressed, and
+[x:0.17, y:0.82, caps:0.00] may contain information that is privileged, confidential and exempt from disclosure under applicable
+[x:0.17, y:0.83, caps:0.01] law. You are hercby notificd that any discmination, distribution or duplication of this transmission by
+[x:0.17, y:0.85, caps:0.00] someone other than the intended addressce or its designated agent is strictly prohibited.
+[x:0.91, y:0.86, caps:0.00] 83624198
+[x:0.69, y:0.99, caps:0.00] 202-887-0689

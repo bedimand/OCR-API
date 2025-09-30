@@ -1,0 +1,22 @@
+[x:0.32, y:0.18, caps:1.00] LORILLARD TOBACCO COMPANY
+[x:0.27, y:0.21, caps:0.11] Market Planning and Information Department
+[x:0.22, y:0.26, caps:0.25] To: _Mike Mozina
+[x:0.23, y:0.28, caps:0.57] Firm: “MSA
+[x:0.23, y:0.30, caps:0.31] FAX #: __Autodial_ oo
+[x:0.23, y:0.34, caps:0.21] From: Susan Smith __
+[x:0.23, y:0.37, caps:1.00] FAX #: 335-7733, _
+[x:0.23, y:0.38, caps:0.20] Phone #: _ 335-7150
+[x:0.22, y:0.42, caps:0.25] Date: 998
+[x:0.22, y:0.44, caps:0.04] # Pages: __ 3 (including this cover page)
+[x:0.16, y:0.56, caps:0.25] Mike,
+[x:0.16, y:0.61, caps:0.06] As promised, here are:
+[x:0.16, y:0.65, caps:0.16] ~ Approval for AWS Quarterly Store Count Database to begin 3rd Quarter 1998
+[x:0.16, y:0.69, caps:0.05] ~ Table showing significant jump in Convenience Store market importance
+[x:0.88, y:0.71, caps:0.00] o
+[x:0.18, y:0.72, caps:0.08] in 2nd Quarter 1998 g
+[x:0.88, y:0.74, caps:0.00] ic]
+[x:0.88, y:0.75, caps:1.00] S
+[x:0.16, y:0.75, caps:0.12] Talk to you soon! = Sus °
+[x:0.88, y:0.78, caps:0.00] =
+[x:0.88, y:0.79, caps:0.50] So
+[x:0.88, y:0.80, caps:0.00] 3

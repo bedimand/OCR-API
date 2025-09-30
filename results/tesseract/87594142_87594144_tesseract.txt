@@ -1,0 +1,48 @@
+[x:0.53, y:0.09, caps:0.22] 1099 Worrenson Ronn Suite 280 LivicuM, Mo, 21080
+[x:0.59, y:0.09, caps:1.00] CENTER FOR INDOOR AIR RESEARCH
+[x:0.12, y:0.11, caps:0.88] APPLICATION FOR a a
+[x:0.67, y:0.11, caps:0.33] (610) 684-3777 Fax 410) 688-3729
+[x:0.12, y:0.14, caps:1.00] RESEARCH CONTRACT
+[x:0.12, y:0.15, caps:0.93] |. PRINCIPAL INVESTIGATOR. Na, rs TEEPE # AND MAING ADDRESS.
+[x:0.12, y:0.18, caps:0.18] (Steven R. Klecberger, Ph.D. Associate Professor (© (410) 955~-3515/955-0299
+[x:0.12, y:0.18, caps:0.21] it Sz ‘Ramone a7 Fax
+[x:0.06, y:0.21, caps:0.15] \ Environmental Health Sciences _q Johns Hopkins University, School of Hyg. & Pub. With.
+[x:0.11, y:0.21, caps:0.08] Steamer firmer
+[x:0.12, y:0.24, caps:0.12] 615 North Wolfe street, Baltinore, Maryland (21205
+[x:0.06, y:0.26, caps:0.11] j Wetec iar
+[x:0.12, y:0.28, caps:0.26] 2MROKCITME Mechanisns of Chronic Ozone Exposure: Role of Inflamation
+[x:0.12, y:0.29, caps:0.59] 2. KEY WORDS. Pnse rovoe rita) KEY WORDS WICK WL HEED ASREEREKCENAONGSOzone, Inflammation, Mast Cell
+[x:0.12, y:0.31, caps:0.97] ALINSTTTUTION. Nave 10 ADS OF NETTUTION RESTONSIBLE AND ACCOUNTABLE FOR SOSTION OF FUNDS AWARDED ON TE BASS
+[x:0.11, y:0.32, caps:0.00] fete aren
+[x:0.12, y:0.35, caps:0.15] irene Sher Anas
+[x:0.12, y:0.35, caps:0.13] (Johns Hopkins University 615 North Wolfe street
+[x:0.12, y:0.39, caps:0.12] (@ Baltinore (Maryland 21205
+[x:0.12, y:0.40, caps:0.12] oe Seamer
+[x:0.12, y:0.41, caps:0.89] S.LOCATION, List LoCATON WERE RESEARON WILE CONDUCTED OTHER THA STUN ENED WV 4 ave
+[x:0.12, y:0.44, caps:0.00] a
+[x:0.12, y:0.47, caps:0.00] ©
+[x:0.12, y:0.47, caps:0.89] GINCLUSIVE DATES Aso TOTAL COSTS oF rs sec ROE ELATED TO EACH 2 MONT EOD MORE THAN ONE YEARS
+[x:0.12, y:0.48, caps:0.24] funn ro connate moricr, SMa nou BIDET Pat et 1) T aero UNoeseoon Mae wee oO eH
+[x:0.11, y:0.49, caps:0.47] Festus ane Dersowvron GEVTEX MPROVAL etme MERC
+[x:0.00, y:0.52, caps:0.18] + . Jycuusive Date Totat Cost
+[x:0.00, y:0.53, caps:0.19] * (a) Ist 12. Monte peniop —OL/01/94 runy 12/31/94 5 210,910 000
+[x:0.01, y:0.55, caps:0.18] Me (@) 28o 12 wont resioo iF requires —OL/O1/95 __ yy 12/31/95 212,481 00
+[x:0.00, y:0.56, caps:0.00] is (©3012 sosr reo nue 01/01/96 yy 12/31/96 220, 416 _
+[x:0.01, y:0.59, caps:0.53] % ZLINSTITUTIONAL OFFICER. Nave, mz Axo teafmone vorfbx oF poxwoun.Avtok2e0 70 Sok FoR Te NsTTUTON DEMINED
+[x:0.03, y:0.60, caps:0.05] 5 tueapove fre cxousroon Tn the orcas pects ron feurper has Re a ae eerste Cea
+[x:0.03, y:0.63, caps:0.25] 5°) Alan M. Goldberg, Ph.D. [Assoc} DAin/tbr Research
+[x:0.04, y:0.65, caps:0.60] X_GYRa1o) 955-9259 me YY |,
+[x:0.05, y:0.67, caps:0.44] 2 ‘TELEPHONE. Sicily GF Wert poxK omcex Dave -
+[x:0.05, y:0.70, caps:0.48] * gpRetimivaRy sTUDIES® UV
+[x:0.11, y:0.74, caps:1.00] 9. EXPERIMENTAL PLAN®
+[x:0.11, y:0.75, caps:0.00] tabu
+[x:0.11, y:0.76, caps:0.17] 3 Retnos
+[x:0.11, y:0.77, caps:0.05] {Ghlimmrnerenon or esis
+[x:0.11, y:0.79, caps:0.08] (Btmmarone creo @
+[x:0.11, y:0.82, caps:0.97] 10, AVAILABLE FACILITIES AND RESOURCES. z
+[x:0.11, y:0.83, caps:0.67] 11. OTHER suPpoRT 3
+[x:0.11, y:0.85, caps:0.92] + Arann a3 Uc ATRIA A REQUIRED TYPE, SUE SPACE, UE 8-1/2 11" WHITEPAPER AND LABL EAC SHEET WE KAMEOETE BE
+[x:0.11, y:0.87, caps:1.00] [PRINCIPAL INVESTIGATOR IN THE UPPER RIGHT HAND CORNER AND PAGE NUMBER AT THE BOTTOM. CONSECUTIVELY NUMBER EACH ADDENDUM)
+[x:0.11, y:0.87, caps:0.15] nee ww rae 8: Do or ster ices Merwe sous [A 6 Besa daese Ele Nee Mee me eRe
+[x:0.11, y:0.88, caps:0.52] Smo morookarNCLODE2OnotAL St. NOE: EACh Of Pk MINE COPS MOST ace tes Dbes Po oan
+[x:0.11, y:0.91, caps:0.00] remeron

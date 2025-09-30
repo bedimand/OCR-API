@@ -1,0 +1,18 @@
+[x:0.26, y:0.11, caps:1.00] DECISION TREE ESTIMATION OF TOXIC RISK
+[x:0.20, y:0.14, caps:0.14] Ergle and Dufresne August 14, 1990
+[x:0.11, y:0.17, caps:0.82] COtaGAD HAUF
+[x:0.15, y:0.19, caps:0.11] Vanitrope
+[x:0.11, y:0.23, caps:0.33] 578cTu
+[x:0.35, y:0.29, caps:0.83] CH;CHzO
+[x:0.49, y:0.33, caps:1.00] OH
+[x:0.11, y:0.36, caps:0.82] LS1E4Ie0 IOrCI1y CUss LORILLUC COUPOUNG Coc HULAFR
+[x:0.26, y:0.37, caps:1.00] III B134
+[x:0.12, y:0.39, caps:0.14] Oenshis
+[x:0.15, y:0.41, caps:0.09] Thia ethoxy gubstituted aronatic falls into clasa III -
+[x:0.58, y:0.60, caps:0.29] Ja . Ergke
+[x:0.59, y:0.62, caps:0.13] Regearch Chenist
+[x:0.58, y:0.65, caps:0.00] 2 ehuux
+[x:0.64, y:0.69, caps:0.12] Dufresne
+[x:0.59, y:0.70, caps:0.13] Research Cheniet
+[x:0.81, y:0.79, caps:0.00] ]
+[x:0.12, y:0.93, caps:0.95] LoRLLLRO RMLLIDA CFHTERE

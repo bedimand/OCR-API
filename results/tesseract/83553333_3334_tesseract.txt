@@ -1,0 +1,36 @@
+[x:0.07, y:0.11, caps:0.76] 2 0 DAVis PoLk & WARDWELL
+[x:0.05, y:0.13, caps:0.00] ———_—_ eee
+[x:0.06, y:0.16, caps:0.15] Fax Transmittal Sender
+[x:0.06, y:0.18, caps:0.14] 450 Lexington Avenue Charles Duggan
+[x:0.06, y:0.18, caps:0.12] Ae Yo 10077 t= ‘Number of Pages (is page included)
+[x:0.33, y:0.21, caps:0.12] November 12,1999
+[x:0.33, y:0.22, caps:0.09] ‘Sender Voice Number Trproblems receiving this fx, call
+[x:0.34, y:0.24, caps:0.56] 2aza5oa7es BN2ABOATBB
+[x:0.34, y:0.26, caps:0.17] Sender Fax Number Reference
+[x:0.34, y:0.28, caps:0.00] 212-450-3788 17555-002
+[x:0.06, y:0.32, caps:0.21] Te Fax Number Company TReciptent Phone Number
+[x:0.06, y:0.34, caps:0.21] Thomas M.Sobol 617-439-3278 Brown Rudnick Freed 617-330-8000
+[x:0.51, y:0.36, caps:0.17] & Gesmer
+[x:0.06, y:0.39, caps:0.24] Joseph F. Rice 843-720-9290 Ness, Motley, 848-720-8000
+[x:0.51, y:0.41, caps:0.12] Loadholt,
+[x:0.51, y:0.43, caps:0.10] Richardson &
+[x:0.51, y:0.45, caps:0.20] Poole
+[x:0.06, y:0.48, caps:0.17] Robert V. Costello 617-722-0286 Schneider, Reilly, 617-227-7500
+[x:0.06, y:0.50, caps:0.19] Jeffrey D. Woolf Zabin & Costello
+[x:0.06, y:0.53, caps:0.18] Richard M. Heimann 418-956-1008 Lieff, Cabraser & 415-956-1000
+[x:0.51, y:0.55, caps:0.14] Heimann
+[x:0.06, y:0.59, caps:0.18] Michael P. Thornton 617-720-2445 Thomton, Early & 617-720-1333
+[x:0.51, y:0.60, caps:0.17] Naumes:
+[x:0.06, y:0.64, caps:0.14] Message:
+[x:0.85, y:0.72, caps:0.00] o
+[x:0.85, y:0.74, caps:0.00] ow
+[x:0.85, y:0.75, caps:0.00] a
+[x:0.85, y:0.76, caps:0.00] a
+[x:0.85, y:0.78, caps:0.50] oO
+[x:0.85, y:0.79, caps:0.00] w
+[x:0.85, y:0.80, caps:0.00] a
+[x:0.50, y:0.81, caps:0.00] . a
+[x:0.06, y:0.88, caps:0.48] SERIES OE TSS Ty rp oT oN oan ea renga
+[x:0.09, y:0.90, caps:0.02] ‘tere pled fom clone, Dnt, sition vopying of hi iso einai heci y anyone ta han ded
+[x:0.08, y:0.91, caps:0.08] SSETr copier apnt sepa rd Se mesg tes tne span, b oka. oeahaveseeced ibis inom,
+[x:0.09, y:0.92, caps:0.03] ese nt eel Wy tapos nd ean he sine byron,

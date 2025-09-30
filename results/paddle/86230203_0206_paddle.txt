@@ -1,0 +1,27 @@
+[x:0.05, y:0.02, caps:1.00] 12/12/96 08:33 504 7348616 LORILLARD TOB T OXN -** 001/004
+[x:0.06, y:0.10, caps:0.76] TO: K. A. Sperrow SUBMISSION DATE
+[x:0.06, y:0.13, caps:0.55] FROM: F. Strickland DEC 13 x FEB 24
+[x:0.63, y:0.17, caps:1.00] JAN 25 APR 4
+[x:0.07, y:0.21, caps:1.00] SUBJECT: MAVERICK SPECIALS - PROGRESS REPORT
+[x:0.07, y:0.27, caps:1.00] GEOGRAPHY
+[x:0.07, y:0.32, caps:1.00] REGION: FULL X PARTIAL
+[x:0.06, y:0.34, caps:1.00] (ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)
+[x:0.07, y:0.38, caps:1.00] DIVISION: FULL PARTIAL
+[x:0.22, y:0.40, caps:1.00] DIVISION NAME: DIVISION NAME: REPS
+[x:0.23, y:0.43, caps:1.00] DIVISION NAME: DIVISION NAME: # REPS
+[x:0.22, y:0.46, caps:1.00] DIVISION NAME: DIVISION NAME: # REPS
+[x:0.12, y:0.54, caps:1.00] DISTRIBUTION
+[x:0.25, y:0.57, caps:1.00] DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION
+[x:0.33, y:0.59, caps:1.00] (15+ STORES) STOCKING NO MAVERICK SPECIALS
+[x:0.44, y:0.61, caps:1.00] NO. OF NO OFF
+[x:0.17, y:0.63, caps:1.00] NAME OF ACCOUNT STORES NAME OF ACCOUNT STORES
+[x:0.07, y:0.66, caps:0.40] K&B 180 Sayle Oil 20
+[x:0.07, y:0.68, caps:0.12] Delchamps 130 Dantzler 19
+[x:0.07, y:0.70, caps:0.17] Winn Dixie 85 Southeast Foods 18
+[x:0.07, y:0.72, caps:0.14] Schwegmann 39 Compac Foods 18
+[x:0.07, y:0.74, caps:0.20] Autry Greer 36 Bayou Foods 17
+[x:0.07, y:0.77, caps:0.20] Double Quick 36 Econ 16 80230203
+[x:0.07, y:0.79, caps:0.20] Litco 23
+[x:0.07, y:0.81, caps:0.25] Huber Oil 23
+[x:0.07, y:0.84, caps:0.20] Morris Corp 22
+[x:0.06, y:0.98, caps:0.62] 200-96 MAYPBQG Pago 1 of 4

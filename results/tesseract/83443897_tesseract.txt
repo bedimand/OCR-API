@@ -1,0 +1,32 @@
+[x:0.12, y:0.06, caps:0.30] Jat 13°99 16:29 FR 8220 To saramizess7Heea P.O!
+[x:0.09, y:0.11, caps:1.00] .° FAX TRANSMISSION
+[x:0.06, y:0.13, caps:1.00] ‘ DICKSTEIN
+[x:0.68, y:0.15, caps:1.00] SHAPIRO
+[x:0.68, y:0.17, caps:1.00] MORING
+[x:0.68, y:0.18, caps:1.00] OSHINSKY
+[x:0.76, y:0.20, caps:0.00] uu
+[x:0.12, y:0.22, caps:0.45] DATE: Jamuary 11, 1999
+[x:0.12, y:0.25, caps:1.00] CLIENTNO: _L8557.002
+[x:0.12, y:0.29, caps:0.55] MESSAGE TO: Dewey Tedder
+[x:0.12, y:0.32, caps:0.33] COMPANY: Lorillard Tobacco Company
+[x:0.12, y:0.34, caps:1.00] FAX NUMBER: 336/373-6917
+[x:0.12, y:0.36, caps:1.00] PHONE: 336/373-6750
+[x:0.12, y:0.40, caps:0.30] FROM: Andy Zausner and Rob Mangas
+[x:0.12, y:0.42, caps:0.62] PHONE: 202/828-2259 and 202/828-2241
+[x:0.06, y:0.45, caps:0.65] ______ PAGES (Including Cover Sheet): 2 _ HARDCOPYTOFOLLOW:--_- YES __X_NO
+[x:0.12, y:0.48, caps:0.24] MESSAGE: [The following is for your review.
+[x:0.61, y:0.57, caps:0.00] wn 12 1989
+[x:0.21, y:0.70, caps:0.01] Ifyour receipt ofthis transmission isin error, please notify this fiem immediately by
+[x:0.21, y:0.72, caps:0.04] collect call to our Facsimile Department at 202-861-9106, and send the original
+[x:0.21, y:0.73, caps:0.00] transmission to us by cetum mail atthe address below.
+[x:0.20, y:0.75, caps:0.01] “This transmission is nteaded forthe sole wre ofthe invidal and easy to whom itis addresed, and
+[x:0.21, y:0.76, caps:0.01] may contin information cat & pivleged, couBdental and exemge fom dicloure under apliable
+[x:0.21, y:0.78, caps:0.03] Ine. You ae hereby noted tha ay dssminadon, distribution or duplication of tis tantession by oy
+[x:0.20, y:0.79, caps:0.00] soniconc other than the intended addressee ors designated agent is te probibited. w
+[x:0.90, y:0.81, caps:0.00] =
+[x:0.90, y:0.83, caps:1.00] ES
+[x:0.89, y:0.84, caps:0.00] w
+[x:0.89, y:0.85, caps:0.00] ©
+[x:0.89, y:0.87, caps:0.00] ©
+[x:0.89, y:0.88, caps:0.00] _
+[x:0.19, y:0.92, caps:0.32] 21011 Steet NW Washinglon, DC 20037-1528. Tel 202-786-9700 Fax 202-867-0688

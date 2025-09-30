@@ -1,0 +1,34 @@
+[x:0.04, y:0.06, caps:0.00] . 10675
+[x:0.26, y:0.11, caps:0.89] STOUT INDUSTRIES, Inc.
+[x:0.26, y:0.13, caps:1.00] 6425 W. FLORISSANT AVE, ST LOUIS, MO: 63136 + (G14) 365-2280
+[x:0.39, y:0.19, caps:1.00] PROPOSAL
+[x:0.05, y:0.21, caps:0.16] 10 _lerillard Corporation __ FoR Metal "Pack" Plaque
+[x:0.05, y:0.22, caps:0.10] aoveess__666 Fifth Avenue 0 cate October 16, 1987
+[x:0.05, y:0.24, caps:0.22] cy New York
+[x:0.05, y:0.25, caps:0.32] state __New York U0UO3 ____Mr. A.D. Steinberg
+[x:0.16, y:0.27, caps:0.24] ‘Attn: Mr. Robert Kennedy SaesnesentaTIvE
+[x:0.06, y:0.31, caps:0.03] It 4 ovr pleasure ta propose the following:
+[x:0.06, y:0.34, caps:0.32] ITEM:__Harley Davidson Metal Plaque __SIzE 17% x 235"
+[x:0.06, y:0.35, caps:0.97] MATERIAL: STEEL (Cj ALUMINUM (34 OTHER (_]____ GAUGE 025
+[x:0.06, y:0.38, caps:0.15] COLORS._Transparent gold, opaque black, white and orange
+[x:0.06, y:0.40, caps:0.75] BASE COLOR__Aluminum SINGLE FACE fk. DOUBLE FACE [j
+[x:0.06, y:0.42, caps:0.90] HOLES: YES kx NOC) NUMBER OF _4_
+[x:0.06, y:0.44, caps:1.00] CORNERS: ROUND (} SQUARE &]} ANGLE (| CUT TO SHAPE (1)
+[x:0.06, y:0.47, caps:0.97] EDGES: HEMMED (1) CURLED () EMBOSSED [x BEADED BORDER (}
+[x:0.06, y:0.49, caps:1.00] STAMP FRAME [X RIGHT ANGLE BEND [) BACK FRAME ((}
+[x:0.06, y:0.52, caps:1.00] PACKING: PER CARTON 10 PER CRATE PER BUNDLE
+[x:0.06, y:0.53, caps:0.12] OTHER:_Price is based on reproduction of customer supplied "Pack" box.
+[x:0.14, y:0.54, caps:0.04] Tooling: Form die, brass emboss die to achieve detail on eagle.
+[x:0.06, y:0.58, caps:0.39] QUANTITIES: ____500 Plaques ___ ____One time tooling @ $3,015.00
+[x:0.06, y:0.60, caps:0.33] PRICE: 9.18 each Steel tips $1,045.00
+[x:0.69, y:0.63, caps:0.50] Zn —
+[x:0.68, y:0.64, caps:0.00] 405)
+[x:0.06, y:0.68, caps:0.30] BILLING: GJeiue as manuracture. CJent as sHie For. C]6.mos. []12 mos.
+[x:0.06, y:0.70, caps:0.64] WAREHOUSING: — [X] SHIP IMMEDIATELY. Dllemos. wise. []12mos.wHse. ¥ -
+[x:0.06, y:0.72, caps:0.89] OROP SHIPPING: ___PER SHIPMENT. Vide €
+[x:0.06, y:0.76, caps:0.94] PRices QUOIED HEREIN ARE WASED ON CURRENT COSTS AND ARE FOR IMMEDIAIL ACCEBTANCE
+[x:0.06, y:0.85, caps:0.37] F.0.B. SJ. LOUIS. MISSOURI, Shipments via euch sinned fer collect 87528380
+[x:0.44, y:0.88, caps:0.29] srour 1A) \C{).)
+[x:0.07, y:0.88, caps:1.00] TERMS — NET 10 OAYS \\)
+[x:0.07, y:0.91, caps:0.13] A service charge of 1% per month will be Arid YX Wap
+[x:0.07, y:0.91, caps:0.05] applied'to all unpaid balances over 30 days. ‘een VA

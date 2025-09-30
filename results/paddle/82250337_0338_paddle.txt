@@ -1,0 +1,23 @@
+[x:0.27, y:0.09, caps:1.00] COMPETITIVE PRODUCT INTRODUCTION
+[x:0.38, y:0.11, caps:1.00] PROGRESS REPORT
+[x:0.06, y:0.17, caps:0.75] TO: Sam Zolot MANUFACTURER: B&W
+[x:0.06, y:0.19, caps:0.47] FROM: D. J. Landro BRAND: Kool Waterfall
+[x:0.06, y:0.20, caps:0.66] DATE: 2-Dec-97 TYPE OF PACKINGS: All Packings
+[x:0.06, y:0.24, caps:0.72] REPORTING PERIODS: Oct. Nov. X Dec. Jan.
+[x:0.06, y:0.30, caps:0.50] TEST MARKET GEOGRAPHY: Divisions 621 and 627 wisconsin
+[x:0.05, y:0.34, caps:0.44] PRICE POINT: FULL $ PNV $ (Indicate Distributor's Cost Per Carton)
+[x:0.06, y:0.39, caps:1.00] SALES FORCE INVOLVEMENT:
+[x:0.06, y:0.41, caps:0.02] They have crew-worked distribution, and it is reported that they may crew-work it again. Sales force has been busy
+[x:0.05, y:0.44, caps:0.09] promoting old style packs to clean up inventory. All POS is being converted to "B" Kool.
+[x:0.05, y:0.51, caps:1.00] DISTRIBUTORS - ACCEPTANCE/INTRO TERMS/INTRO DEALS/INVOLVEMENT:
+[x:0.05, y:0.54, caps:0.03] All accounts have the new packaging. It was not a problem obtaining new distribution. All accounts appear
+[x:0.05, y:0.56, caps:0.00] to have 100% distribution of new packings.
+[x:0.05, y:0.63, caps:1.00] CHAINS - ACCEPTANCE/MERCHANDISING:
+[x:0.05, y:0.66, caps:0.03] This has not been a problem. New packaging is just following up on the old "packaging".
+[x:0.05, y:0.76, caps:1.00] INDEPENDENTS - ACCEPTANCE/MERCHANDISING:
+[x:0.05, y:0.78, caps:0.02] Very well received. The old packs are bcing consolidated and promoted in select retail locations at 40d
+[x:0.05, y:0.80, caps:0.00] off/$4.00 off cartons.
+[x:0.04, y:0.87, caps:1.00] ADVERTISING - EFFECTIVENESS OF P.O.S.:
+[x:0.04, y:0.90, caps:0.14] The theme "B" Kool has replaced all previous POS. They have effectively replaced all old POS. New
+[x:0.04, y:0.92, caps:0.02] door signage, hour signs, poster mats, and clocks have the new design. "B" Kool also appears on billboards
+[x:0.04, y:0.94, caps:0.10] in Illinois.

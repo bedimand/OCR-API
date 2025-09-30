@@ -1,0 +1,27 @@
+[x:0.09, y:0.10, caps:1.00] CREATIVE INPUT DOCUMENT
+[x:0.12, y:0.15, caps:1.00] SPECIFICS
+[x:0.09, y:0.18, caps:0.36] Date/Time: LQ302146 PM Client Name:
+[x:0.09, y:0.20, caps:0.18] Prepared By: Matter Number:
+[x:0.09, y:0.22, caps:0.14] Milestone Presentation Date: Project Title:
+[x:0.09, y:0.24, caps:0.14] Estlmated Creative Budget: Est_ Production Budget:
+[x:0.09, y:0.26, caps:0.14] Concept: Execution: Media:
+[x:0.12, y:0.30, caps:1.00] OBJECTIVE
+[x:0.09, y:0.32, caps:0.05] Why are we advertising?
+[x:0.09, y:0.34, caps:0.09] What 00 achiovo?
+[x:0.16, y:0.36, caps:0.11] Relationship-Building Rulenton Acquisiton Loyalty
+[x:0.16, y:0.38, caps:0.18] Comaelilve Blocring Ci0ss-Sel Up-Sell Lead Generalicn
+[x:0.16, y:0.39, caps:0.15] Ne " Producupackane Direct Sale Akarcnes3
+[x:0.16, y:0.40, caps:0.15] Charge Image Perceplimn Other
+[x:0.14, y:0.43, caps:1.00] TARGTT
+[x:0.10, y:0.46, caps:0.11] To whom are We talking?
+[x:0.10, y:0.48, caps:0.06] Wic Ing pnmar 'targol? Knere secondary (argol? Wial Is (nek relationship tne brano, and what 0p (hey cunentiy think abcut R?
+[x:0.12, y:0.54, caps:1.00] COMMUNICATIONPLATFORM
+[x:0.10, y:0.57, caps:0.10] What Is the single MOSt important message/idea we are Irying to communicate?
+[x:0.10, y:0.59, caps:0.10] What is lho unique selling Fosiion thot Wil help aCnieve QUr auvorusina 9oal? Are Ihar any secondary Mess398s?
+[x:0.10, y:0.64, caps:0.07] What Is the key benefit t0 the target?
+[x:0.10, y:0.66, caps:0.14] Whal" 5 Florina ren0007
+[x:0.10, y:0.70, caps:0.04] Is there an offer /call to action?
+[x:0.10, y:0.72, caps:0.04] wnu . offering the target t0 persuade rutnvta [0 acl don? (A pramium; swraepstakes Emxted-timg affer, free Itoration, Cr corething 0lse?}
+[x:0.10, y:0.76, caps:0.13] What would we IIke Our target t0 think?
+[x:0.10, y:0.79, caps:0.09] Wnat wauid Oua erpe: Say after bejng oxposad (0 Owr program?
+[x:0.09, y:0.87, caps:0.09] clmy documents wplsampl cid doc of2 J 10/30/98 01:46 PM

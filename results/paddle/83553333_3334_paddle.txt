@@ -1,0 +1,26 @@
+[x:0.00, y:0.00, caps:0.77] RR/ZT/TT 18:32 FAA 212 40U 4800 vrw 1046
+[x:0.85, y:0.03, caps:1.00] WUUZ/UUS
+[x:0.30, y:0.07, caps:1.00] DAVIS POLK&WARDWELL
+[x:0.00, y:0.12, caps:0.15] Fax Transmittal Sender
+[x:0.00, y:0.14, caps:0.22] 450 Lexington Avenue New York, NY 10017 Charles Duggan
+[x:0.00, y:0.17, caps:0.09] 212-450-4000 Date Nunber of Pages (this page included)
+[x:0.32, y:0.19, caps:0.12] November 12, 1999 6
+[x:0.32, y:0.21, caps:0.09] Sender Voice Number If problems receiving this fax, call
+[x:0.32, y:0.23, caps:0.00] 212-450-4785 212-450-4785
+[x:0.32, y:0.26, caps:0.17] Sender Fax Number Reference
+[x:0.32, y:0.27, caps:0.00] 212-450-3785 17555-002
+[x:0.00, y:0.31, caps:0.18] To Fax Number Company Recipient Phonc Number
+[x:0.00, y:0.33, caps:0.21] Thomas M. Sobol 617-439-3278 Brown Rudnick Freed 617-330-9000
+[x:0.51, y:0.35, caps:0.17] & Gesmer
+[x:0.00, y:0.39, caps:0.24] Joseph F. Rice 843-720-9290 Ness, Motiey, 843-720-9000
+[x:0.51, y:0.41, caps:0.12] Loadholt,
+[x:0.51, y:0.43, caps:0.10] Richardson &
+[x:0.51, y:0.45, caps:0.20] Poole
+[x:0.01, y:0.48, caps:0.17] Robert V. Costello 617-722-0286 Schneider, Reilly, 617-227-7500
+[x:0.01, y:0.50, caps:0.19] Jeffrey D. Woolf Zabin & Costello
+[x:0.01, y:0.54, caps:0.18] Richard M. Heimann 415-956-1008 Lieff, Cabraser & 415-956-1000
+[x:0.51, y:0.56, caps:0.14] Heimann
+[x:0.02, y:0.60, caps:0.18] Michael P. Thornton 617-720-2445 Thomton, Early & 617-720-1333
+[x:0.51, y:0.62, caps:0.17] Naumes
+[x:0.01, y:0.66, caps:0.14] Message:
+[x:0.88, y:0.76, caps:0.00] 83553333

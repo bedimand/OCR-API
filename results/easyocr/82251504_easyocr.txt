@@ -1,0 +1,29 @@
+[x:0.09, y:0.09, caps:1.00] 11/05/97 11:0J 381J 884 0663 LORILLARD_INYBA GREENSBOR 3002/003
+[x:0.28, y:0.18, caps:0.16] Retail Excel Progress Report
+[x:0.12, y:0.20, caps:0.10] Submission Ict: Distribution bylto;
+[x:0.12, y:0.22, caps:0.37] July 31 DM a RSM Ist af onth
+[x:0.12, y:0.23, caps:0.38] August 29 To; RW_Caldarella RSM tRWC 10th
+[x:0.12, y:0.25, caps:0.43] September 30 CC: DOS:
+[x:0.12, y:0.27, caps:0.24] Octaber 31 From: Kent B_Mills
+[x:0.12, y:0.28, caps:0.12] Ncvember 28
+[x:0.12, y:0.30, caps:0.21] December 30 Area: 5 Region: 1Z
+[x:0.11, y:0.33, caps:0.08] AcceptancelResponse: What is the rotailers response to Lorillard"s Excel
+[x:0.11, y:0.35, caps:0.06] Merchandising plan?
+[x:0.11, y:0.37, caps:0.05] Chains;_This programhasbeen successfulta date_withchalns where qur "Elex
+[x:0.12, y:0.39, caps:0.10] Bavment_was notuIn_place The chains where we_Wem using the_"Flex Pavment"
+[x:0.11, y:0.41, caps:0.11] sxstem wehave_nqtbeen 38 succesaful IheBQS requirements ofuhe B1Plan _
+[x:0.11, y:0.42, caps:0.06] with Qil Companies is difficultto obtain
+[x:0.11, y:0.47, caps:0.08] Independents:
+[x:0.11, y:0.49, caps:0.09] AdditiqnalE Vmerchandising Is_being secured auickly.
+[x:0.11, y:0.52, caps:0.18] Additionalmonies have assisted Realon LZin fighting PMExclusives and PMRJR
+[x:0.11, y:0.54, caps:0.00] co existence_situations
+[x:0.11, y:0.59, caps:0.06] Hardware EvaluationlEffoctlveness: Comment on the assembly of displays and
+[x:0.11, y:0.61, caps:0.00] application of shields:
+[x:0.11, y:0.63, caps:0.03] Ihe displays are easily assembledand durable Some questions have_been ralsed
+[x:0.11, y:0.65, caps:0.00] conceming the_inability to be iush with the counterandlar_upagainst the registec
+[x:0.11, y:0.67, caps:0.06] Aiwellas theability to place this on the Back BariLthe_settlement goes_through
+[x:0.11, y:0.71, caps:0.16] Pennanent Advertising Evaluation[Eifectiveness Acceptancei (P_IP S865
+[x:0.11, y:0.73, caps:0.22] Plans Only:
+[x:0.27, y:0.75, caps:0.04] Not availlable at this time
+[x:0.90, y:0.84, caps:0.00] :
+[x:0.90, y:0.90, caps:0.00] 2

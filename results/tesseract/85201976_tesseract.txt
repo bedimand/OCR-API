@@ -1,0 +1,28 @@
+[x:0.10, y:0.08, caps:0.21] Marden- Keane, Inc.
+[x:0.04, y:0.14, caps:1.00] : TRUE "YOU FOUND 19" SWEEPSTAKES
+[x:0.05, y:0.16, caps:1.00] . SECOND PRIZE WINNER
+[x:0.37, y:0.19, caps:1.00] TRAVEL INFORMATION SHEET
+[x:0.20, y:0.24, caps:1.00] THE DESTINATION IN THE CONTINENTAL UNITED STATES 2 WISH
+[x:0.20, y:0.25, caps:1.00] TO TRAVEL TO IS: -
+[x:0.20, y:0.29, caps:0.00] wee
+[x:0.20, y:0.32, caps:1.00] ADDRESS
+[x:0.20, y:0.35, caps:0.45] cory STATE ___ up _
+[x:0.20, y:0.40, caps:1.00] HOME PHONE
+[x:0.20, y:0.42, caps:1.00] BUSINESS PHONE
+[x:0.20, y:0.47, caps:1.00] NAME OF GUEST
+[x:0.20, y:0.49, caps:1.00] RCE _
+[x:0.20, y:0.52, caps:1.00] RELATIONSHIP
+[x:0.21, y:0.54, caps:1.00] 10 WIRNER
+[x:0.20, y:0.60, caps:1.00] PLEASE LIST THREE ALTERNATIVE DATES YOU WOULD LIKE TO TRAVEL
+[x:0.24, y:0.64, caps:0.00] te
+[x:0.24, y:0.67, caps:0.00] 2.7 “
+[x:0.24, y:0.69, caps:0.00] 3.
+[x:0.21, y:0.74, caps:1.00] NEAREST YOUR HOME _
+[x:0.20, y:0.77, caps:1.00] AIRLINE:
+[x:0.21, y:0.79, caps:0.80] (CHECK ONE) SMOKING Non-sMoKInG
+[x:0.88, y:0.80, caps:0.50] yN
+[x:0.89, y:0.81, caps:0.50] iJ
+[x:0.20, y:0.82, caps:1.00] SPECIAL DIETARY REQUIREVENTS 8
+[x:0.20, y:0.86, caps:0.93] ANY ADDITIONAL a
+[x:0.08, y:0.87, caps:1.00] : INFORMATION YOU WOULD LIKE TO PROVIDE
+[x:0.23, y:0.92, caps:0.10] se Sage he eg

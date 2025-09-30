@@ -1,0 +1,24 @@
+[x:0.41, y:0.03, caps:1.00] NEW COMPETITIVE PRODUCTS MKA
+[x:0.09, y:0.08, caps:1.00] REPORTED BY: BOBBY MILLS, REGIONAL SALES MGR., INDIANAPOLIS, IN
+[x:0.17, y:0.14, caps:1.00] DATE: 8/10/90 TIME:
+[x:0.10, y:0.19, caps:1.00] SOURCE OF HALL RODECAP, NOBLESVILLE, IN
+[x:0.10, y:0.21, caps:1.00] ENFORMATION:
+[x:0.33, y:0.25, caps:1.00] B&W
+[x:0.10, y:0.26, caps:1.00] (MANUFACTURER:
+[x:0.10, y:0.30, caps:1.00] BRAND NAME: VICEROY KING BOX AND VICEROY LIGHTS KING BOX
+[x:0.10, y:0.36, caps:1.00] TYPE OF
+[x:0.11, y:0.38, caps:1.00] PRODUCT:
+[x:0.11, y:0.42, caps:1.00] SIZE OR SIZES:
+[x:0.11, y:0.47, caps:1.00] LIST PRICE:
+[x:0.11, y:0.52, caps:1.00] EXTENT OF
+[x:0.11, y:0.54, caps:1.00] DISTRIBUTION:
+[x:0.11, y:0.62, caps:1.00] OTHER
+[x:0.11, y:0.64, caps:1.00] INFORMATION: SEE ATTACHED INFORMATION SHEET
+[x:0.11, y:0.80, caps:1.00] CC:
+[x:0.11, y:0.81, caps:0.33] A. H. Tisch G. Telford J. J. Tatulli
+[x:0.11, y:0.83, caps:0.38] R. H. Orcutt F. J. Schultz L. H. Kersh 82837252
+[x:0.11, y:0.84, caps:0.35] M. A. Peterson A. W. Spears J. R. Slater
+[x:0.11, y:0.86, caps:0.47] FT. H. Mau N. P. Ruffalo
+[x:0.11, y:0.87, caps:0.38] L. Gordon T. L. Achey S. T. Jones
+[x:0.11, y:0.89, caps:0.30] J. P. Mastandrea P.J. McCann R. S. Goldbrenner
+[x:0.24, y:0.91, caps:0.39] D A. J. Giacoio E.R. Harrow

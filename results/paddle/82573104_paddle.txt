@@ -1,0 +1,21 @@
+[x:0.76, y:0.03, caps:1.00] XC: RBS
+[x:0.79, y:0.06, caps:0.00] 12-9.99
+[x:0.73, y:0.08, caps:1.00] FROMREVED
+[x:0.21, y:0.11, caps:1.00] C OVINGTON & BURLING DEC - 9 1999
+[x:0.34, y:0.16, caps:0.41] 1201 Pennsylvania Avenue, N.W. R. B. SPELL
+[x:0.41, y:0.18, caps:0.60] P.O.Box 7566
+[x:0.35, y:0.20, caps:0.25] Washington, D.C. 20044-7566
+[x:0.41, y:0.21, caps:0.00] (202) 662-6000
+[x:0.29, y:0.23, caps:0.17] Fax Numbers (202) 662-6291 or (202) 737-0528
+[x:0.36, y:0.24, caps:0.18] Fax Operator: (202) 662-6280
+[x:0.15, y:0.30, caps:1.00] THIS FACSIMILE TRANSMISSION IS INTENDED ONLY FOR THE ADDRESSEE SHOWN
+[x:0.10, y:0.33, caps:1.00] PROTECTED FROM DISCLOSURE. ANY REVIEW, DISSEMINATION OR USE OF THIS TRANSMISSION OR ITS CONTENTS BY PERSONS OTHER THAN THE ADDRESSEE IS STRICTLY PROHIBITED. IF
+[x:0.10, y:0.36, caps:1.00] YOU HAVE RECEIVED THIS TRANSMISSION IN ERROR, PLEASE NOTIFY US IMMEDIATELY AND MAIL THE ORIGINAL TO US AT THE ABOVE ADDRESS.
+[x:0.16, y:0.45, caps:0.17] Date: December 9, 1999
+[x:0.16, y:0.50, caps:0.33] To: Haney H. Bell, Esq.
+[x:0.16, y:0.54, caps:0.27] From: David H. Remes
+[x:0.33, y:0.57, caps:0.00] (202) 778-5212  direct fax
+[x:0.16, y:0.61, caps:0.40] Room: 803E
+[x:0.36, y:0.64, caps:0.05] // Pages (including cover)
+[x:0.17, y:0.72, caps:1.00] MESSAGE:
+[x:0.87, y:0.74, caps:0.00] 82573104

@@ -1,0 +1,38 @@
+[x:0.07, y:0.08, caps:1.00] TO: S.P.ZOLOT
+[x:0.08, y:0.12, caps:0.96] FROM: R. W. RICHARDSON OCT 05 DEC 21 x
+[x:0.47, y:0.15, caps:1.00] NOV 16
+[x:0.08, y:0.17, caps:1.00] SUBJECT: OLD GOLD - LIGHT BOX 100'S PROGRESS REPORT
+[x:0.19, y:0.21, caps:1.00] GEOGRAPHY
+[x:0.08, y:0.24, caps:0.94] REGION: FULL PARTIAL x
+[x:0.08, y:0.26, caps:1.00] (ONLY IF PARTIAL, REGION, CONTINUE WITH DIVISION(S) SCOPE)
+[x:0.07, y:0.28, caps:0.95] DIVISION: FULL x PARTIAL
+[x:0.11, y:0.31, caps:0.62] DIVISION NAME: Detroit North DIVISION NAME: Detroit South # REPS: 13
+[x:0.11, y:0.33, caps:0.64] DIVISION NAME: Detroit East DIVISION NAME: Detroit West # REPS: 12
+[x:0.11, y:0.35, caps:0.73] DIVISION NAME: GraDd Rapids DIVISION NAME: Flint #REPS: 13
+[x:0.20, y:0.39, caps:1.00] DISTRIBUTION
+[x:0.07, y:0.42, caps:0.10] Direct Accounts and Chains Headquartered within the Region
+[x:0.07, y:0.43, caps:0.22] (15+ Stores) Stocking No Old Gold Light Box 100's
+[x:0.09, y:0.45, caps:0.20] Name of Account Ind/Lor Number of Ind/Lor Number of
+[x:0.26, y:0.47, caps:0.17] Volume Stores Volume Stores
+[x:0.07, y:0.48, caps:0.21] Quality Dairy 151/15 31 Speedy Q 196/13 16
+[x:0.06, y:0.50, caps:0.18] Bay Stations 81/9 18
+[x:0.06, y:0.52, caps:0.17] Schmuckal Oil 138/9 22
+[x:0.06, y:0.54, caps:0.22] Wilson Oil 140/13 15
+[x:0.06, y:0.56, caps:0.25] Quik Stop 117/9 2.4
+[x:0.06, y:0.58, caps:0.12] Forwards 118/8 19
+[x:0.06, y:0.60, caps:0.22] Phil Flint 166/15 15
+[x:0.06, y:0.62, caps:0.29] Arbor Rx 115/13 209
+[x:0.05, y:0.64, caps:0.18] Imperial Oil 163/11 32
+[x:0.05, y:0.67, caps:0.12] Direct Accounts and Chains Headquartered Outside the Region
+[x:0.05, y:0.68, caps:0.22] (15+ Stores) Stocking No Old Gold Light Box 100's
+[x:0.07, y:0.70, caps:0.18] Name of Account Ind/Lor Number of Name of Account Ind/Lor. Volume Numberofey
+[x:0.25, y:0.72, caps:0.17] Volume Stores Stores
+[x:0.05, y:0.74, caps:0.25] Clark Gas 142
+[x:0.04, y:0.76, caps:0.25] Emro 237
+[x:0.04, y:0.78, caps:0.13] 7-Eleven Southland 102
+[x:0.04, y:0.80, caps:0.14] Walmart 39 83641919
+[x:0.04, y:0.82, caps:0.17] Ultra Diamond 184
+[x:0.04, y:0.84, caps:0.22] Dairy Mart 32
+[x:0.04, y:0.86, caps:0.25] Mobil Oil 40
+[x:0.04, y:0.88, caps:0.50] ACA Amoco 31
+[x:0.88, y:0.98, caps:0.14] Page l of 3

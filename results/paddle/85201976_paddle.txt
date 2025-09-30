@@ -1,0 +1,25 @@
+[x:0.05, y:0.03, caps:0.23] Marden- Kane, Inc.
+[x:0.31, y:0.09, caps:1.00] TRUE "YOU FOUND IT" SWEEPSTAKES
+[x:0.36, y:0.12, caps:1.00] SECOND PRIZE WINNER
+[x:0.36, y:0.15, caps:1.00] TRAVEL INFORMATION SHEET
+[x:0.16, y:0.20, caps:1.00] H I SI II TNNNN IR  ANAIN IHG
+[x:0.16, y:0.22, caps:1.00] TO TRAVEL TO IS:
+[x:0.16, y:0.26, caps:1.00] NAME
+[x:0.16, y:0.29, caps:1.00] ADDRESS
+[x:0.16, y:0.32, caps:1.00] CITY STATE ZIP
+[x:0.15, y:0.36, caps:1.00] HOME PHONE
+[x:0.15, y:0.40, caps:1.00] BUSINESS PHONE
+[x:0.14, y:0.45, caps:1.00] NAME OF GUEST
+[x:0.14, y:0.48, caps:1.00] AGE
+[x:0.14, y:0.51, caps:1.00] RELATIONSHIP
+[x:0.15, y:0.53, caps:1.00] TO WINNER
+[x:0.13, y:0.59, caps:1.00] PLEASE LIST THREE ALTERNATIVE DATES YOU WOULD LIKE TO TRAVEL
+[x:0.17, y:0.64, caps:0.00] 1.
+[x:0.17, y:0.67, caps:0.00] 2.- -
+[x:0.17, y:0.70, caps:0.00] 3.
+[x:0.13, y:0.74, caps:1.00] MAJOR AIRPORT
+[x:0.14, y:0.76, caps:1.00] NEAREST YOUR HOME
+[x:0.13, y:0.79, caps:1.00] AIRLINE: (CHECK ONE) SMOKING NON-SMOKING 85201976
+[x:0.13, y:0.85, caps:1.00] SPECIAL DIETARY REQUIREMENTS
+[x:0.13, y:0.88, caps:1.00] ANY ADDITIONAL
+[x:0.16, y:0.89, caps:1.00] ON  TE VMG RX NOTNE

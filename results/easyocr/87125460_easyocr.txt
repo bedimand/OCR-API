@@ -1,0 +1,12 @@
+[x:0.73, y:0.06, caps:1.00] ECE DVE
+[x:0.35, y:0.11, caps:0.89] FINAL REPORT AHENDHENT Atz IcPT
+[x:0.10, y:0.16, caps:0.38] STODX NAME Induction Iepatic Lzxnes i Fata (B202)
+[x:0.10, y:0.19, caps:1.00] STUDX NOMBER L-7016.401
+[x:0.10, y:0.21, caps:0.70] INITIATION DATEOctober 1986 DATE FINAL REPORT February 1987
+[x:0.10, y:0.24, caps:0.95] PART FINAL REPORT TO BE  AMENDED (ExaCT LOCATION)
+[x:0.14, y:0.27, caps:0.17] Page 14 and Table
+[x:0.10, y:0.31, caps:0.59] REASON FOR THE ANENDHENT Request Trot suonsor
+[x:0.11, y:0.46, caps:0.24] AKENDHENT (Attach additional sheets as necessary)
+[x:0.25, y:0.49, caps:0.00] see ottachcd
+[x:0.10, y:0.68, caps:0.77] 5+zi APPROVALS Sn 1
+[x:0.11, y:0.77, caps:0.83] DATE Wyl 87 Tl4 ASSURANCZ

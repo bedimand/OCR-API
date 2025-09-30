@@ -1,0 +1,22 @@
+[x:0.00, y:0.11, caps:0.84] S ‘Test ARTICLE FECEIPT
+[x:0.00, y:0.13, caps:1.00] 4 TA 421072810
+[x:0.18, y:0.19, caps:0.57] SPONSOR'S NAME:__lortliaré
+[x:0.18, y:0.23, caps:1.00] TEST ARTICLE TOENTIFICATION: 8220000
+[x:0.00, y:0.27, caps:0.70] . Lor=43__012590 ‘CONDITINN OF sammy coo) ERWGN. _LZARED
+[x:0.00, y:0.41, caps:0.79] is NO. OF CONTAINERS: Sne
+[x:0.00, y:0.44, caps:0.00] ie
+[x:0.00, y:0.44, caps:0.53] Pa GROSS WETGHT: lot rovided NET-WEIGHD (1¢ provided) : 100 9
+[x:0.03, y:0.50, caps:0.58] e EXPIRATION DATE: _ot_“rovided
+[x:0.01, y:0.53, caps:0.55] | SPCIAL HANDLING REQUIREMEIIS: Store refrigeraved in dark:
+[x:0.01, y:0.55, caps:0.00] a a
+[x:0.00, y:0.56, caps:0.00] ¥ ee
+[x:0.01, y:0.60, caps:0.53] d RECEIVED we Atta parE: 93/01/90
+[x:0.02, y:0.67, caps:0.78] q ‘STUDY DIRECTOR/DEPARIMENT®. Ray Davie
+[x:0.54, y:0.70, caps:1.00] L . .
+[x:0.17, y:0.72, caps:1.00] SIGNATURE OF DEPARIMENT CONSIGNEE:,
+[x:0.17, y:0.76, caps:0.00] pate: 03/02/90.
+[x:0.88, y:0.80, caps:0.00] 5
+[x:0.88, y:0.85, caps:0.00] 3
+[x:0.88, y:0.87, caps:0.50] Fy
+[x:0.88, y:0.88, caps:0.00] $
+[x:0.04, y:0.95, caps:0.00] ‘

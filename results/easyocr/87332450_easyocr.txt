@@ -1,0 +1,28 @@
+[x:0.21, y:0.14, caps:0.95] 47h TCRC REGISTRATION FORM
+[x:0.15, y:0.19, caps:0.06] Please type or prinr
+[x:0.15, y:0.20, caps:0.25] Name:
+[x:0.25, y:0.22, caps:0.23] Title Fimx Fedd(0
+[x:0.15, y:0.25, caps:0.10] Instinunon:
+[x:0.15, y:0.28, caps:0.14] Address:
+[x:0.25, y:0.29, caps:0.36] Sreer PO. Boxl
+[x:0.41, y:0.33, caps:0.38] Mule ZIP Cod Counny
+[x:0.15, y:0.36, caps:0.33] Telephone: FAX #
+[x:0.15, y:0.40, caps:0.09] Name of guest:
+[x:0.22, y:0.42, caps:0.12] Connnendal Brealfan Twsdoy Breakfast Wednesday
+[x:0.22, y:0.44, caps:0.16] Fall Foliage Towr Tucsday Caftonan Millare Tow Wednerday
+[x:0.15, y:0.49, caps:0.11] Adwance Registration Fee: (prior September 1) 5135.00
+[x:0.15, y:0.50, caps:0.22] Late Reglstrarion Fee: (after September SISO.00
+[x:0.20, y:0.52, caps:0.05] Extra banquet tickets @ $40.00
+[x:0.15, y:0.53, caps:0.07] Ground Transponation (round trip) 30.00
+[x:0.63, y:0.56, caps:1.00] TOTAL
+[x:0.15, y:0.59, caps:0.05] Please complete this portion If you need transportation from and t0 the Knorville Aimpont:
+[x:0.18, y:0.63, caps:0.33] In Pany:
+[x:0.26, y:0.65, caps:1.00] DATE TIME CARRIER FLIGHT
+[x:0.15, y:0.69, caps:0.17] Amiwal
+[x:0.15, y:0.72, caps:0.11] Departure:_
+[x:0.15, y:0.78, caps:0.03] Send this registration fom _ along with payment [0 the address noted below: Enclose check 1
+[x:0.15, y:0.79, caps:0.14] or Interational moncy Order payable in U.S: funds to the Universiry of Tennessee 47th TCRC:
+[x:0.15, y:0.82, caps:0.29] Mall [0: Dr: Phil P. Hunter
+[x:0.22, y:0.83, caps:0.17] U. T Tobacco Experiment Station Telephone: (615) 638-6532
+[x:0.22, y:0.85, caps:0.45] Route Box 113 FAX: (615) 638-6458
+[x:0.22, y:0.87, caps:0.23] Greeneville , TN 37743

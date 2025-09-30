@@ -1,0 +1,39 @@
+[x:0.83, y:0.02, caps:0.00] 10675
+[x:0.25, y:0.07, caps:0.06] Stout industries, inc.
+[x:0.25, y:0.11, caps:1.00] 6425 W. FL0AISSANT AVE., ST. LOUIS, M0. 63136 · (314) 385-2280
+[x:0.40, y:0.16, caps:1.00] PROPOSAL
+[x:0.01, y:0.18, caps:0.25] TO Lorillard Corporation FOR Metal "Pack" Plaque
+[x:0.01, y:0.20, caps:0.48] ADDRESS 666 Fifth Avenue DATE October 16, 1987
+[x:0.01, y:0.22, caps:0.55] CITY New York
+[x:0.01, y:0.23, caps:0.44] STATE New York 10103 Mr. A. D. Steinberg
+[x:0.14, y:0.25, caps:0.59] Attn: Mr. Robert Kennedy YOUR REPRESENTATIVE
+[x:0.03, y:0.28, caps:0.03] It is our pleasure to propose the following:
+[x:0.03, y:0.32, caps:0.35] ITEM:. Harley Davidson Metal Plaque SIZE: 17x 23
+[x:0.03, y:0.34, caps:0.97] MATERIAL: STEEL ALUMINUMx OTHER GAUGE .025"
+[x:0.02, y:0.36, caps:0.09] CoLoRs: Transparent gold, opaque black, white and orange
+[x:0.03, y:0.39, caps:0.81] BASE COLOR Aluminum SINGLE FACE DOUBLE FACE
+[x:0.03, y:0.42, caps:0.95] HOLES: YES Xx NO NUMBER OF_4
+[x:0.03, y:0.43, caps:1.00] CORNERS: ROUND SQUAREX ANGLE CUT TO SHAPE
+[x:0.02, y:0.47, caps:1.00] EDGES: HEMMED CURLED EMBOSSED BEADED BORDER
+[x:0.03, y:0.48, caps:0.97] STAMP FRAME x RIGHT ANGLE BEND BACK FRAME
+[x:0.03, y:0.51, caps:1.00] PACKING: PER CARTON 10 PER CRATE PER BUNDLE
+[x:0.02, y:0.52, caps:0.12] OTHER: Price is based on reproduction of customer supplied "Pack" box.
+[x:0.12, y:0.54, caps:0.04] Tooling: Form die, brass emboss die to achieve detail on eagle.
+[x:0.03, y:0.59, caps:0.39] QUANTITIES: 500 Plaques One time tooling @ $3,015.00
+[x:0.02, y:0.61, caps:0.33] PRICE: $9.18 each Steel tips $1,045.00
+[x:0.71, y:0.64, caps:0.00] 1060
+[x:0.02, y:0.69, caps:1.00] BILLING: BILL AS MANUFACTURE BILL AS SHIP FOR 6 MO 12 MOS.
+[x:0.03, y:0.71, caps:1.00] WAREHOUSING: SHIP IMMEDIATELY. 6 MOS. WHSE. ]12 MOS. WHSE. ↑
+[x:0.03, y:0.75, caps:1.00] DROP SHIPPING: PER SHIPMENT.
+[x:0.03, y:0.78, caps:1.00] CONDITIONS
+[x:0.02, y:0.79, caps:1.00] PRICES QUOTED HEREIN ARE BASED ON CURRENT COSTS AND ARE FOR IMMEDIATE ACCEPTANCE.
+[x:0.02, y:0.80, caps:0.01] •These prices will bie updated periodically, from date of order. to reflect changes in material and labor costs.
+[x:0.02, y:0.81, caps:0.06] Prices and terms quoted herein are not subject to serbal changes unless confirmed in writing by the home office of this company in ST. L.OUIS. MO: All contracts for delivery. are contingent upon fires, strikes or other causes beyond our control.
+[x:0.03, y:0.84, caps:0.01] Purchaser agrces to accept overrun- or underrun to the extent of 10c; of the quantity ordered.
+[x:0.03, y:0.87, caps:0.00] future law shall be for the account of the buyer who shall promptly pay the amount hereof to-the seller upon demand.
+[x:0.03, y:0.88, caps:0.33] F.O.B. SJ. LOU IS. MISSOUR1. Shipments via truck shipped freight collect. 87528380
+[x:0.02, y:0.89, caps:0.01] A 15r; service charge will be added to freighit costs for all prepaid shipments involving 5 or more pieces.
+[x:0.04, y:0.93, caps:1.00] TERMS - NET 10 DAYS STOUT
+[x:0.04, y:0.94, caps:0.26] A service charge of 1%% per month will be inDUSTRIES,InC.
+[x:0.04, y:0.96, caps:0.00] applied to all unpaid balances over 30 days.
+[x:0.71, y:0.99, caps:0.12] PReypords - leyroch

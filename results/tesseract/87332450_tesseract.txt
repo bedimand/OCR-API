@@ -1,0 +1,28 @@
+[x:0.15, y:0.18, caps:0.40] eT ——evK
+[x:0.15, y:0.19, caps:0.50] Name: OO
+[x:0.25, y:0.21, caps:0.24] Tile Piet Midate Tas
+[x:0.15, y:0.24, caps:0.09] Institution: ——
+[x:0.15, y:0.28, caps:0.14] Address)
+[x:0.25, y:0.28, caps:0.25] ‘Sweet 7.0. Bax
+[x:0.25, y:0.33, caps:0.29] en Sate IP Code Coney
+[x:0.15, y:0.37, caps:0.33] Telephone: PAX
+[x:0.15, y:0.39, caps:0.09] Name of guest:
+[x:0.15, y:0.42, caps:0.12] Continental Breast on Tueslay —__ Breas on Wednesday
+[x:0.21, y:0.43, caps:0.13] Fall Foliage Tour on Tuesday = catanan Vilage Tour on Wednesday
+[x:0.15, y:0.49, caps:0.11] Advance Registration Fee: (prior to September 1) $135.00 _
+[x:0.15, y:0.50, caps:0.12] Late Registration Fee: (after September 1) $150.00
+[x:0.02, y:0.52, caps:0.05] oe Bxtra banquet tickets @ $40.00
+[x:0.15, y:0.53, caps:0.07] Ground Transportation (round trip) $30.00
+[x:0.28, y:0.56, caps:0.60] . TorAL ———
+[x:0.15, y:0.59, caps:0.04] Please complete this portion if you need transportation from and to the Knoxville Airport.
+[x:0.15, y:0.63, caps:0.22] No. in Party:__
+[x:0.25, y:0.65, caps:1.00] DATE TIME CARRIER FLIGHT #
+[x:0.15, y:0.69, caps:0.14] Arvival :
+[x:0.15, y:0.71, caps:0.11] Departure: ——
+[x:0.15, y:0.78, caps:0.03] Send this registration form, along with payment to the address noted below. Enclose a check 0
+[x:0.15, y:0.78, caps:0.11] (or international money order payable in U.S. funds to the University of Tennessee - 47th TCRC. 33
+[x:0.86, y:0.81, caps:0.00] ry
+[x:0.15, y:0.82, caps:0.35] Mall 1o: Dr. Phil P. Hunter ES
+[x:0.22, y:0.84, caps:0.17] U. T. Tobacco Experiment Station Telephone: (615) 638-6532
+[x:0.22, y:0.85, caps:0.45] Route 5 Bor 113 FAX: (615) 638-6458
+[x:0.22, y:0.87, caps:0.23] Greeneville, TN 3743
