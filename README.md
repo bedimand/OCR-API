@@ -98,7 +98,9 @@ uv run python -m engines.paddle sample.pdf --lang en
 
 ## Resultados (Dataset FUNSD)
 
-Gráficos: `assets/benchmark_funsd_testing_time.png`, `assets/benchmark_funsd_testing_token.png`, `assets/benchmark_funsd_testing_char.png`.
+![Tempo de processamento](assets/benchmark_funsd_testing_time.png)
+![Similaridade por token](assets/benchmark_funsd_testing_token.png)
+![Similaridade por caractere](assets/benchmark_funsd_testing_char.png)
 
 | Engine     | Tempo médio (s) | Similaridade (token) | Similaridade (caracteres) |
 |------------|-----------------|-----------------------|----------------------------|
