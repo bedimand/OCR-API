@@ -2,6 +2,8 @@
 
 API REST construída com FastAPI que recebe PDFs digitalizados (até 30 páginas), executa OCR local com PaddleOCR e devolve o texto extraído linha a linha no formato `[x:<valor>, y:<valor>, caps:<valor>] texto`.
 
+Seguindo os resultados dos benchmarks realizados abaixo, PaddleOCR ofereceu o melhor custo-benefício, considerando principalmente documentos escaneados e de qualidade não tão alta. Em documentos de alta resolução, tesseract é uma boa opção pela latência baixa e resultado muito bom.
+
 ## Requisitos e instalação
 
 1. Instale as dependências com [uv](https://docs.astral.sh/uv/):
@@ -16,6 +18,23 @@ API REST construída com FastAPI que recebe PDFs digitalizados (até 30 páginas
    # Windows PowerShell
    & .venv\Scripts\Activate.ps1
    ```
+
+*Para executar com a engine do tesseract é necessário instalar os binários do tesseract.
+
+### Instalando o Tesseract (opcional)
+
+#### Windows (Chocolatey)
+```powershell
+# Requer Chocolatey previamente instalado
+choco install tesseract --yes
+```
+
+#### Linux
+```bash
+# Debian/Ubuntu
+sudo apt update && sudo apt install -y \
+  tesseract-ocr tesseract-ocr-eng tesseract-ocr-por
+```
 
 ## Executando a API
 
