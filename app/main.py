@@ -11,7 +11,6 @@ from fastapi.responses import PlainTextResponse
 from paddleocr import PaddleOCR
 
 from engines.paddle import format_page_lines as paddle_format_page_lines
-from engines.tesseract import format_page_lines as tesseract_format_page_lines
 from engines.utils import load_pages
 
 OCR_DPI = 300
@@ -19,11 +18,30 @@ OCR_MAX_PAGES = 30
 OCR_LANG = "en"
 TESSERACT_PSM = 6
 SUPPORTED_ENGINES = {"paddle", "tesseract"}
-OCR_ENGINE = "tesseract"
+OCR_ENGINE = "paddle"
 
 _app_lock = Lock()
 _paddle_ocr: PaddleOCR | None = None
 _ocr_lock = Lock()
+
+
+_tesseract_formatter = None
+
+
+def _get_tesseract_formatter():
+    global _tesseract_formatter
+    if _tesseract_formatter is None:
+        try:
+            from engines.tesseract import format_page_lines as tesseract_format_page_lines
+        except ModuleNotFoundError as exc:
+            raise HTTPException(
+                status_code=500,
+                detail=(
+                    "Tesseract OCR is not available. Install the Tesseract binary and the pytesseract package, then restart the service."
+                ),
+            ) from exc
+        _tesseract_formatter = tesseract_format_page_lines
+    return _tesseract_formatter
 
 
 _TESSERACT_ALIASES = {
@@ -111,8 +129,9 @@ def _run_tesseract_pages(pages: List) -> List[str]:
     multi_page = len(pages) > 1
     lines: List[str] = []
     tess_lang = _tesseract_lang()
+    formatter = _get_tesseract_formatter()
     for index, page in enumerate(pages, start=1):
-        page_lines = tesseract_format_page_lines(
+        page_lines = formatter(
             page,
             lang=tess_lang,
             psm=TESSERACT_PSM,
