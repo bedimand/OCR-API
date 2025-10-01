@@ -10,15 +10,29 @@ from fastapi import FastAPI, File, HTTPException, UploadFile
 from fastapi.responses import PlainTextResponse
 from paddleocr import PaddleOCR
 
-from engines.paddle import format_page_lines
+from engines.paddle import format_page_lines as paddle_format_page_lines
+from engines.tesseract import format_page_lines as tesseract_format_page_lines
 from engines.utils import load_pages
 
 OCR_DPI = 300
 OCR_MAX_PAGES = 30
 OCR_LANG = "en"
+TESSERACT_PSM = 6
+SUPPORTED_ENGINES = {"paddle", "tesseract"}
+OCR_ENGINE = "tesseract"
 
 _app_lock = Lock()
 _paddle_ocr: PaddleOCR | None = None
+_ocr_lock = Lock()
+
+
+_TESSERACT_ALIASES = {
+    "en": "eng",
+}
+
+
+def _tesseract_lang() -> str:
+    return _TESSERACT_ALIASES.get(OCR_LANG, OCR_LANG)
 
 
 def get_paddle_engine() -> PaddleOCR:
@@ -37,15 +51,14 @@ def run_ocr(pdf_path: Path) -> List[str]:
     if not pages:
         raise HTTPException(status_code=400, detail="No pages found in PDF")
 
-    engine = get_paddle_engine()
-    multi_page = len(pages) > 1
-    lines: List[str] = []
-    for index, page in enumerate(pages, start=1):
-        page_lines = format_page_lines(page, engine)
-        if multi_page:
-            lines.append(f"# Page {index}")
-        lines.extend(page_lines)
-    return lines
+    if OCR_ENGINE not in SUPPORTED_ENGINES:
+        raise HTTPException(status_code=500, detail=f"Configured OCR engine \"{OCR_ENGINE}\" is not supported")
+
+    with _ocr_lock:
+        if OCR_ENGINE == "paddle":
+            engine = get_paddle_engine()
+            return _run_paddle_pages(engine, pages)
+        return _run_tesseract_pages(pages)
 
 
 app = FastAPI(title="OCR API", version="0.1.0")
@@ -53,8 +66,9 @@ app = FastAPI(title="OCR API", version="0.1.0")
 
 @app.on_event("startup")
 async def startup_event() -> None:
-    loop = asyncio.get_running_loop()
-    await loop.run_in_executor(None, get_paddle_engine)
+    if OCR_ENGINE == "paddle":
+        loop = asyncio.get_running_loop()
+        await loop.run_in_executor(None, get_paddle_engine)
 
 
 @app.post("/upload", response_class=PlainTextResponse)
@@ -79,3 +93,31 @@ async def upload(file: UploadFile = File(...)) -> PlainTextResponse:
 
     return PlainTextResponse("\n".join(lines))
 
+
+
+def _run_paddle_pages(engine: PaddleOCR, pages: List) -> List[str]:
+    multi_page = len(pages) > 1
+    lines: List[str] = []
+    for index, page in enumerate(pages, start=1):
+        page_lines = paddle_format_page_lines(page, engine)
+        if multi_page:
+            lines.append(f"# Page {index}")
+        lines.extend(page_lines)
+    return lines
+
+
+
+def _run_tesseract_pages(pages: List) -> List[str]:
+    multi_page = len(pages) > 1
+    lines: List[str] = []
+    tess_lang = _tesseract_lang()
+    for index, page in enumerate(pages, start=1):
+        page_lines = tesseract_format_page_lines(
+            page,
+            lang=tess_lang,
+            psm=TESSERACT_PSM,
+        )
+        if multi_page:
+            lines.append(f"# Page {index}")
+        lines.extend(page_lines)
+    return lines
