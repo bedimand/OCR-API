@@ -48,14 +48,11 @@ A resposta é `text/plain`, cada linha contendo coordenadas normalizadas e a raz
 
 Por padrão a API inicializa o PaddleOCR com suporte ao idioma inglês ("en").
 
-Bash:
-```bash
-OCR_LANG=pt uv run uvicorn app.main:app --reload
-```
-
 ## Benchmarks
 
-Disponibilizamos dois scripts:
+Os Benchmarks foram feitos no meu computador pessoal, com um i7-12700h. Variação na latência é esperada dependendo do hardware.
+
+Disponibilizo dois scripts:
 - `scripts/benchmark_ocr.py` - avalia o conjunto `dataset-high-quality/`.
 - `scripts/benchmark_funsd.py` - avalia o conjunto `dataset-funsd/`.
 
@@ -140,6 +137,6 @@ Os arquivos exportados seguem o padrão `nomeoriginal_engine.txt` no diretório 
 
 ## Próximos passos
 
-- **Validar latência e acurácia**: Definir se a latência (~10-20s por documento) e acurácia (~78% de similaridade em documentos complexos) atendem aos requisitos do projeto em cenários reais.
+- **Validar latência e acurácia**: Definir se a latência (~20s por página) e acurácia (~78% de similaridade em documentos complexos) atendem aos requisitos do projeto em cenários reais.
 - **Otimizar performance**: Caso a latência não seja aceitável, revisar configurações (DPI/downscale), hardware e alternativas de OCR.
-- **Considerar LLMs especializados**: Para acelerar ainda mais mantendo qualidade, avaliar serviços com LLMs como [dots.ocr](https://github.com/rednote-hilab/dots.ocr) que podem oferecer melhor trade-off entre velocidade e precisão.
+- **Considerar LLMs especializados**: Para acelerar ainda mais mantendo qualidade, avaliar serviços com LLMs como [dots.ocr](https://github.com/rednote-hilab/dots.ocr) que podem oferecer melhor trade-off entre velocidade e precisão, com um requisito maior de harware.
