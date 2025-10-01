@@ -1,0 +1,24 @@
+[x:0.04, y:0.01, caps:0.11] Invoice no: 40108666
+[x:0.04, y:0.04, caps:0.09] Date of issue: 02/07/2020
+[x:0.03, y:0.18, caps:0.17] Seller: Client:
+[x:0.03, y:0.21, caps:0.17] Bailey, Murray and Lewis Hester Inc
+[x:0.03, y:0.22, caps:0.20] 33771 Powell Pike Suite 054 4000 Tonya Rapid Suite 963
+[x:0.03, y:0.24, caps:0.22] East Lisastad, Rl21938 South Marissaport, MN 39537
+[x:0.02, y:0.27, caps:0.40] Tax Id: 993-75-3149 Tax Id: 998-98-6887
+[x:0.02, y:0.29, caps:1.00] IBAN: GB80MTNI52501633185191
+[x:0.01, y:0.33, caps:1.00] ITEMS
+[x:0.02, y:0.37, caps:0.26] No. Description Qty UM Net price Net worth VAT [%] Gross
+[x:0.90, y:0.38, caps:0.00] worth
+[x:0.03, y:0.41, caps:0.23] 1. Microsoft Xbox One 1 - 500 GB 1,00 each 175,00 175,00 10% 192,50
+[x:0.08, y:0.42, caps:0.13] Console - Black w/ Controller &
+[x:0.08, y:0.43, caps:0.40] Power Supply GOOD
+[x:0.03, y:0.46, caps:0.28] 2. Nintendo DSOriginal NTR-001 3,00 each 0,99 2,97 10% 3,27
+[x:0.08, y:0.48, caps:0.13] Console - Camouflage - Tested
+[x:0.08, y:0.49, caps:0.20] Works
+[x:0.03, y:0.52, caps:0.20] 3. Nintendo 2DS Console Blue 5,00 each 54.99 274.95 10% 302,45
+[x:0.08, y:0.53, caps:0.12] Japan model Combine Shipping
+[x:0.08, y:0.54, caps:0.00] available 2
+[x:0.00, y:0.59, caps:1.00] SUMMARY
+[x:0.36, y:0.62, caps:0.33] VAT [%] Net worth VAT Gross worth
+[x:0.37, y:0.65, caps:0.00] 10% 452,92 45,29 498,21
+[x:0.26, y:0.68, caps:0.20] Total $ 452,92 $45,29 $ 498,21

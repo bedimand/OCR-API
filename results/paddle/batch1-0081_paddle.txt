@@ -1,0 +1,18 @@
+[x:0.05, y:0.01, caps:0.11] Invoice no: 15288019
+[x:0.05, y:0.04, caps:0.09] Date of issue: 09/07/2014
+[x:0.05, y:0.18, caps:0.17] Seller: Client:
+[x:0.05, y:0.21, caps:0.17] Fernandez Ltd Wilson-Wilson
+[x:0.05, y:0.23, caps:0.18] 06398 Jensen Loaf 85455 Carter Estate
+[x:0.05, y:0.24, caps:0.26] Andrewton, AR 65741 Mooremouth, CT 29699
+[x:0.05, y:0.28, caps:0.40] Tax Id: 983-71-0649 Tax Id: 922-87-0964
+[x:0.05, y:0.29, caps:1.00] IBAN: GB88DSHK83384951793426
+[x:0.04, y:0.33, caps:1.00] ITEMS
+[x:0.05, y:0.37, caps:0.26] No. Description Qty UM Net price Net worth VAT [%] Gross
+[x:0.89, y:0.38, caps:0.00] worth
+[x:0.06, y:0.41, caps:0.21] 1. Easy No Tie Rubber Shoe Laces 1,00 each 1,55 1,55 10% 1,71
+[x:0.10, y:0.42, caps:0.15] Colored Trainers Snickers Kids
+[x:0.10, y:0.43, caps:0.13] + Adults Shoelaces
+[x:0.03, y:0.47, caps:1.00] SUMMARY
+[x:0.36, y:0.51, caps:0.33] VAT [%] Net worth VAT Gross worth
+[x:0.38, y:0.54, caps:0.00] 10% 1,55 0,16 1,71
+[x:0.27, y:0.57, caps:0.20] Total $1,55 $0,16 $ 1,71

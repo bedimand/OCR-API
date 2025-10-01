@@ -32,7 +32,7 @@ Exemplo de requisição:
 curl -X POST http://127.0.0.1:8000/upload \
   -F "file=@sample.pdf;type=application/pdf"
 
-# Windows PowerShell
+# Windows CMD
 curl.exe -X POST http://127.0.0.1:8000/upload ^
   -F "file=@sample.pdf;type=application/pdf"
 ```
@@ -42,7 +42,7 @@ A resposta é `text/plain`, cada linha contendo coordenadas normalizadas e a raz
 [x:0.12, y:0.08, caps:0.86] NOME DO CLIENTE: JOÃO DA SILVA
 ```
 
-> **Observação:** PaddleOCR roda no CPU por padrão e pode levar ~10-20 s por documento. Para reduzir a latência, considere diminuir o DPI, aplicar downscale ou usar builds com GPU.
+> **Observação:** PaddleOCR roda no CPU por padrão e pode levar ~10-20 s por página. Para reduzir a latência, considere diminuir o DPI, aplicar downscale ou usar builds com GPU.
 
 ## Idioma do OCR
 
@@ -90,6 +90,29 @@ Exemplo rodando engine diretamente com imagem:
 uv run python -m engines.paddle sample.pdf --lang en
 ```
 
+## Resultados (Dataset High-Quality)
+
+![Tempo de processamento](assets/benchmark_ocr_time.png)
+![Similaridade por token](assets/benchmark_ocr_token.png)
+![Similaridade por caractere](assets/benchmark_ocr_char.png)
+
+| Engine        | Tempo médio (s) | Similaridade (token)  | Similaridade (caracteres)  |
+|---------------|-----------------|-----------------------|----------------------------|
+| Paddle        | 20,26           | 0,965                 | 0,984                      |
+| **Tesseract** | **0,59**        | **0,980**             | **0,972**                  |
+| EasyOCR       | 29,83           | **0,997**             | **0,997**                  |
+
+**Legenda das métricas**
+- *Token*: comparação feita após normalizar o texto (minúsculas e remoção de pontuação), preservando os espaços para avaliar a sequência de palavras.
+- *Caractere*: comparação após manter apenas caracteres alfanuméricos; mede quão semelhantes são as cadeias em nível de letra/dígito.
+- *Similaridade*: valor entre 0 e 1 (quanto mais próximo de 1, mais idêntico ao ground truth).
+
+**Insights**
+- *Precisão*: Todos os engines alcançaram excelente precisão no dataset high-quality, com EasyOCR liderando em similaridade (0,997), seguido por Tesseract (0,980 token / 0,972 char) e Paddle (0,965 token / 0,984 char).
+- *Velocidade*: Tesseract mantém sua vantagem de velocidade (0,59s) mesmo com alta qualidade, seguido por Paddle (20,26s) e EasyOCR (29,83s).
+- *Dataset específico*: Este dataset contém imagens de alta qualidade, onde todos os engines performam muito bem, demonstrando que a qualidade da imagem é crucial para resultados precisos.
+- *Trade-off*: Para documentos de alta qualidade, Tesseract oferece o melhor custo-benefício (velocidade + boa precisão), EasyOCR oferece a melhor precisão quando velocidade não é crítica, e Paddle fica no meio-termo.
+
 ## Resultados (Dataset FUNSD)
 
 ![Tempo de processamento](assets/benchmark_funsd_testing_time.png)
@@ -117,6 +140,6 @@ Os arquivos exportados seguem o padrão `nomeoriginal_engine.txt` no diretório 
 
 ## Próximos passos
 
-- **Validar latência e acurácia**: Definir se a latência (~10-20s por documento) e acurácia (~78% de similaridade) atendem aos requisitos do projeto em cenários reais.
+- **Validar latência e acurácia**: Definir se a latência (~10-20s por documento) e acurácia (~78% de similaridade em documentos complexos) atendem aos requisitos do projeto em cenários reais.
 - **Otimizar performance**: Caso a latência não seja aceitável, revisar configurações (DPI/downscale), hardware e alternativas de OCR.
 - **Considerar LLMs especializados**: Para acelerar ainda mais mantendo qualidade, avaliar serviços com LLMs como [dots.ocr](https://github.com/rednote-hilab/dots.ocr) que podem oferecer melhor trade-off entre velocidade e precisão.

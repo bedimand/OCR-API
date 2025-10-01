@@ -1,0 +1,18 @@
+[x:0.08, y:0.03, caps:0.11] Invoice no: 87734908
+[x:0.08, y:0.06, caps:0.09] Date of issue: 12/19/2019
+[x:0.08, y:0.19, caps:0.17] Seller: Client:
+[x:0.08, y:0.21, caps:0.15] Chase, Green and Bailey Buckley, Wright and Chase
+[x:0.08, y:0.23, caps:0.20] Unit 1572 Box 9604 3524 Chandler Shoal
+[x:0.08, y:0.25, caps:0.42] DPO AP 69096 Nicholasfurt, VA 09561
+[x:0.08, y:0.28, caps:0.40] Tax Id: 934-71-9062 Tax Id: 982-90-4927
+[x:0.08, y:0.29, caps:1.00] IBAN: GB68UCAD28621555301869
+[x:0.08, y:0.32, caps:1.00] ITEMS
+[x:0.10, y:0.36, caps:0.26] No. Description Qty UM Net price Net worth VAT [%] Gross
+[x:0.86, y:0.37, caps:0.00] worth
+[x:0.14, y:0.40, caps:0.00] the invisible life of addie larue, 2,00 each 2,99 5,98 10% 6,58
+[x:0.14, y:0.41, caps:0.25] EBOOK new original high
+[x:0.14, y:0.42, caps:0.00] quality, updated 2020
+[x:0.08, y:0.46, caps:1.00] SUMMARY
+[x:0.39, y:0.50, caps:0.33] VAT [%] Net worth VAT Gross worth
+[x:0.40, y:0.52, caps:0.00] 10% 5,98 0,60 6,58
+[x:0.30, y:0.55, caps:0.20] Total $ 5,98 $ 0,60 $ 6,58

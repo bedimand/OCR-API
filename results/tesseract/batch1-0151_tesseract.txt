@@ -1,0 +1,24 @@
+[x:0.08, y:0.03, caps:0.11] Invoice no: 92059706
+[x:0.08, y:0.06, caps:0.09] Date of issue: 04/28/2017
+[x:0.08, y:0.19, caps:0.17] Seller: Client:
+[x:0.09, y:0.22, caps:0.14] Archer, Davis and Hudson Barton, Decker and Ferguson
+[x:0.09, y:0.23, caps:0.20] 089 Heath Point Suite 115 731 Clark Fords
+[x:0.09, y:0.25, caps:0.35] New David, IL 52837 Johnbury, HI 95582
+[x:0.09, y:0.28, caps:0.40] Tax Id: 963-96-1538 Tax Id: 946-82-6210
+[x:0.09, y:0.29, caps:1.00] IBAN: GB1ORHGR66287471350836
+[x:0.08, y:0.33, caps:1.00] ITEMS
+[x:0.10, y:0.36, caps:0.26] No. Description Qty UM Net price Net worth VAT [%] Gross
+[x:0.86, y:0.37, caps:0.00] worth
+[x:0.10, y:0.40, caps:0.23] tks Working - Super Nintendo SNES 4,00 each 85,00 340,00 10% 374,00
+[x:0.15, y:0.41, caps:0.14] Original System Console w/
+[x:0.15, y:0.42, caps:0.20] Mario World!
+[x:0.10, y:0.45, caps:0.15] 2. Sony PlayStation 5 Console - 3,00 each 849,99 2 549,97 10% 2 804,97
+[x:0.15, y:0.46, caps:0.52] PS5- PRESALE- Disc Version Pre
+[x:0.15, y:0.47, caps:0.14] Order Confirmed
+[x:0.10, y:0.50, caps:0.18] Sh Nintendo Wii Console Mario Kart 3,00 each 199,97 599,91 10% 659,90
+[x:0.15, y:0.51, caps:0.19] Controller Wii Fit 2 Board
+[x:0.15, y:0.52, caps:0.47] Remotes Game BUNDLE
+[x:0.08, y:0.56, caps:1.00] SUMMARY
+[x:0.39, y:0.60, caps:0.33] VAT [%] Net worth VAT Gross worth
+[x:0.41, y:0.62, caps:0.00] 10% 3 489,88 348,99 3 838,87
+[x:0.30, y:0.65, caps:0.20] Total $ 3 489,88 $ 348,99 $ 3 838,87

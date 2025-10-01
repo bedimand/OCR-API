@@ -1,0 +1,23 @@
+[x:0.05, y:0.01, caps:0.11] Invoice no: 56908352
+[x:0.04, y:0.04, caps:0.09] Date of issue: 01/11/2015
+[x:0.04, y:0.18, caps:0.17] Seller: Client:
+[x:0.04, y:0.21, caps:0.15] Lozano, Wang and Smith Evans, Curtis and Salinas
+[x:0.04, y:0.22, caps:0.20] 8162 Dunn Radial 13078 Mora Garden
+[x:0.04, y:0.24, caps:0.27] Lauraland, ID 83827 Morseberg, WV 48959
+[x:0.03, y:0.27, caps:0.40] Tax Id: 914-76-8473 Tax Id: 904-76-9217
+[x:0.03, y:0.29, caps:1.00] IBAN: GB68RRBM34982962207975
+[x:0.02, y:0.32, caps:1.00] ITEMS
+[x:0.03, y:0.37, caps:0.26] No. Description Qty UM Net price Net worth VAT [%] Gross
+[x:0.90, y:0.38, caps:0.00] worth
+[x:0.04, y:0.41, caps:0.19] 1. Rage By Bob Woodward - 5,00 each 22.93 114.65 10% 126,12
+[x:0.09, y:0.42, caps:0.36] Donald Trump NEW
+[x:0.09, y:0.43, caps:0.77] HARDCOVER Sept 2020
+[x:0.04, y:0.46, caps:0.11] 2. Spectacular Ireland Coffee 4,00 each 10,00 40,00 10% 44,00
+[x:0.09, y:0.48, caps:0.11] Table Book - very large
+[x:0.03, y:0.50, caps:0.15] 3. The Complete Life's Little 4,00 each 4,09 16.36 10% 18,00
+[x:0.08, y:0.52, caps:0.17] Instruction Book by Brown, H.
+[x:0.08, y:0.53, caps:0.22] Jackson, Jr.
+[x:0.00, y:0.57, caps:1.00] SUMMARY
+[x:0.36, y:0.61, caps:0.33] VAT [%] Net worth VAT Gross worth
+[x:0.38, y:0.64, caps:0.00] 10% 171,01 17,10 188,11
+[x:0.26, y:0.66, caps:0.20] Total $171,01 $ 17,10 $188,11

@@ -1,0 +1,24 @@
+[x:0.04, y:0.00, caps:0.11] Invoice no: 57290992
+[x:0.04, y:0.04, caps:0.09] Date of issue: 10/03/2011
+[x:0.02, y:0.17, caps:0.17] Seller: Client:
+[x:0.03, y:0.20, caps:0.22] Adams PLC Johnson, Daniels and Ramirez
+[x:0.03, y:0.22, caps:0.32] USS Moon 6889 Oliver Summit
+[x:0.02, y:0.24, caps:0.53] FPO AA 34591 South Ebony, NY 23978
+[x:0.02, y:0.27, caps:0.40] Tax Id: 964-98-1799 Tax Id: 925-71-0496
+[x:0.02, y:0.29, caps:1.00] IBAN: GB30OLCJ81769735097340
+[x:0.01, y:0.32, caps:1.00] ITEMS
+[x:0.02, y:0.37, caps:0.26] No. Description Qty UM Net price Net worth VAT [%] Gross
+[x:0.90, y:0.38, caps:0.00] worth
+[x:0.03, y:0.41, caps:0.16] 1. 25"x25" Marble Black Top 5,00 each 2 789,00 13,945,00 10% 15 339,50
+[x:0.08, y:0.42, caps:0.10] custom Table Carnelian
+[x:0.08, y:0.43, caps:0.16] Marquetry Art Halloween Gift
+[x:0.03, y:0.46, caps:0.14] 2. 7'x4' Blue Random Marble 3,00 each 8 194.09 24 582,27 10% 27 040,50
+[x:0.08, y:0.48, caps:0.19] Dining Hallway Table Top Lapis
+[x:0.08, y:0.49, caps:0.28] Lazuli Inlay Decor E947A
+[x:0.03, y:0.52, caps:0.15] 3. 6'x3' White Marble Dining Table 4,00 each 6 408,49 25 633.96 10% 28 197,36
+[x:0.08, y:0.53, caps:0.19] Top Multi Inlay Floral Elephant
+[x:0.08, y:0.55, caps:0.33] Art Decor H4952
+[x:0.00, y:0.59, caps:1.00] SUMMARY
+[x:0.36, y:0.62, caps:0.33] VAT [%] Net worth VAT Gross worth
+[x:0.37, y:0.65, caps:0.00] 10% 64 161,23 6 416,12 70 577,35
+[x:0.26, y:0.68, caps:0.20] Total $ 64 161,23 $ 6 416,12 $ 70 577,35

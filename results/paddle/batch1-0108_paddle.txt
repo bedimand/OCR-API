@@ -1,0 +1,19 @@
+[x:0.05, y:0.01, caps:0.11] Invoice no: 20012449
+[x:0.05, y:0.04, caps:0.09] Date of issue: 04/22/2013
+[x:0.05, y:0.18, caps:0.17] Seller: Client:
+[x:0.05, y:0.21, caps:0.22] Jackson Ltd Combs Inc
+[x:0.05, y:0.23, caps:0.20] 58538 Brandon Union Apt. 536 433 Ferguson Land Apt. 377
+[x:0.05, y:0.24, caps:0.26] Taylorshire, PA 90588 Kirkstad, MN 16124
+[x:0.05, y:0.28, caps:0.40] Tax Id: 989-83-1608 Tax Id: 940-79-9180
+[x:0.05, y:0.29, caps:1.00] IBAN: GB17KVLY05129120946380
+[x:0.04, y:0.33, caps:1.00] ITEMS
+[x:0.05, y:0.37, caps:0.26] No. Description Qty UM Net price Net worth VAT [%] Gross
+[x:0.90, y:0.38, caps:0.00] worth
+[x:0.06, y:0.41, caps:0.21] 1. Press Wine 20L Fruit Cider 1,00 each 299,00 299,00 10% 328,90
+[x:0.11, y:0.42, caps:0.18] Apple Crusher Juice Grape
+[x:0.11, y:0.43, caps:0.17] Stainless Maker Grapes New
+[x:0.05, y:0.46, caps:0.86] 2. MARIJUANA LEAF WINE STOPPER 4,00 each 7,20 28,80 10% 31,68
+[x:0.02, y:0.51, caps:1.00] SUMMARY
+[x:0.37, y:0.54, caps:0.33] VAT [%] Net worth VAT Gross worth
+[x:0.39, y:0.57, caps:0.00] 10% 327,80 32,78 360,58
+[x:0.28, y:0.60, caps:0.20] Total $327,80 $32,78 $ 360,58

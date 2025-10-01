@@ -362,7 +362,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--engines",
         nargs="+",
-        default=["paddle"],
+        default=["paddle", "tesseract", "easyocr"],
         choices=["paddle", "tesseract", "easyocr"],
         help="OCR engines to benchmark",
     )

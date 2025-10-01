@@ -1,0 +1,30 @@
+[x:0.08, y:0.03, caps:0.11] Invoice no: 84652373
+[x:0.08, y:0.06, caps:0.09] Date of issue: 02/23/2021
+[x:0.08, y:0.19, caps:0.17] Seller: Client:
+[x:0.08, y:0.22, caps:0.18] Nguyen-Roach Clark-Foster
+[x:0.08, y:0.23, caps:0.21] 247 David Highway 77477 Troy Cliff Apt. 853
+[x:0.08, y:0.25, caps:0.27] Lake John, WV 84178 Washingtonbury, MS 78346
+[x:0.08, y:0.28, caps:0.40] Tax Id: 991-72-5826 Tax Id: 937-70-8530
+[x:0.08, y:0.29, caps:1.00] IBAN: GB91/YXO05542456978150
+[x:0.08, y:0.32, caps:1.00] ITEMS
+[x:0.10, y:0.36, caps:0.26] No. Description Qty UM Net price Net worth VAT [%] Gross
+[x:0.86, y:0.37, caps:0.00] worth
+[x:0.14, y:0.40, caps:0.13] Stemware Rack Display Kitchen 1,00 each 42,32 42,32 10% 46,55
+[x:0.14, y:0.41, caps:0.19] Wine Glass Holder Bottle
+[x:0.14, y:0.42, caps:0.20] Carbon Steel Free Punch
+[x:0.10, y:0.45, caps:0.29] 2 VTG (4) 7 Ounce Since 1852 1,00 each 14,00 14,00 10% 15,40
+[x:0.14, y:0.46, caps:0.20] Milk Bottle Wine Carafe Juice
+[x:0.14, y:0.47, caps:0.18] Glass with Cork Lids
+[x:0.10, y:0.50, caps:0.16] 3 Vintage Crystal Red Wine 1,00 each 35,45 35,45 10% 39,00
+[x:0.14, y:0.51, caps:0.29] Glasses NOS West Germany
+[x:0.14, y:0.52, caps:0.00] 1983 6 10 ounce elegant stems
+[x:0.15, y:0.55, caps:0.11] 3 Ikea Stainless Steel 4-bottle 4,00 each 25,00 100,00 10% 110,00
+[x:0.14, y:0.56, caps:0.15] Wine Rack 300.557.60 great
+[x:0.14, y:0.57, caps:0.00] condition gift it!
+[x:0.10, y:0.59, caps:0.16] 5 Lolita "Wine Bouquet" Hand 1,00 each 20,00 20,00 10% 22,00
+[x:0.14, y:0.61, caps:0.13] Painted and Decorated Wine
+[x:0.14, y:0.62, caps:0.50] Glass NIB
+[x:0.08, y:0.66, caps:1.00] SUMMARY
+[x:0.39, y:0.69, caps:0.33] VAT [%] Net worth VAT Gross worth
+[x:0.40, y:0.72, caps:0.00] 10% 211,77 21,18 232,95
+[x:0.30, y:0.74, caps:0.20] Total $ 211,77 $ 21,18 $ 232,95

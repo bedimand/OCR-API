@@ -1,0 +1,21 @@
+[x:0.08, y:0.03, caps:0.11] Invoice no: 37451664
+[x:0.08, y:0.06, caps:0.09] Date of issue: 06/11/2020
+[x:0.08, y:0.19, caps:0.17] Seller: Client:
+[x:0.09, y:0.22, caps:0.14] Scott-Howard Williams, Schneider and Gomez
+[x:0.09, y:0.23, caps:0.15] 45558 Davis Mountains 588 Morales Rapids
+[x:0.09, y:0.25, caps:0.20] East Zacharyville, |A 99376 East Katherineton, MT 53545
+[x:0.09, y:0.28, caps:0.40] Tax Id: 997-75-1112 Tax Id: 916-94-8739
+[x:0.09, y:0.29, caps:1.00] IBAN: GB31KIAV64209378666800
+[x:0.08, y:0.33, caps:1.00] ITEMS
+[x:0.10, y:0.36, caps:0.26] No. Description Qty UM Net price Net worth VAT [%] Gross
+[x:0.86, y:0.37, caps:0.00] worth
+[x:0.10, y:0.40, caps:0.29] tks PUMA Boys Youth Universal FG 2,00 each 19,99 39,98 10% 43,98
+[x:0.14, y:0.41, caps:0.22] Jr Soccer Cleats 2.5 White High
+[x:0.15, y:0.42, caps:0.42] Red NEW Futbol
+[x:0.10, y:0.45, caps:0.14] 2. Lotto Youth Boys Fuerzapura 5,00 each 19,99 99,95 10% 109,94
+[x:0.15, y:0.46, caps:0.26] L500 Jr Soccer Cleats Size 2.5
+[x:0.15, y:0.47, caps:0.36] White Blue M6147 2.5Y
+[x:0.08, y:0.51, caps:1.00] SUMMARY
+[x:0.39, y:0.55, caps:0.33] VAT [%] Net worth VAT Gross worth
+[x:0.41, y:0.57, caps:0.00] 10% 139,93 13,99 153,92
+[x:0.30, y:0.60, caps:0.20] Total $ 139,93 $ 13,99 $ 153,92
